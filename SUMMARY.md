@@ -21,9 +21,9 @@
   * Exercise 01
 * [Lesson 09 Week 9: The Surface and Beyond, Part 3](lesson-09.md)
   * Exercise 01
-* [Lesson 10](lesson-10.md)
+* [Lesson 10 Weeks 10: The Age of Enlightenment, Part 1](lesson-10.md)
   * Exercise 01
-* [Lesson 11](lesson-11.md)
+* [Lesson 11 Weeks 11: The Age of Enlightenment, Part 2](lesson-11.md)
   * Exercise 01
 * [Lesson 12](lesson-12.md)
   * Exercise 01
