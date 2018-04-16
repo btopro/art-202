@@ -178,5 +178,46 @@ eventually the form becomes boxier
 
 select an edge and press loop cut and slide b
 
+![](/assets/A_46.jpg)
 
+loop cut and slide is similar to the subdivision function and modifier but allows for certain flexibilities
 
+![](/assets/A_47.jpg)
+
+I select and evenly stagger of points
+
+![](/assets/A_48.jpg)
+
+This is what it could look like with some scaling and subdivision
+
+![](/assets/A_49.jpg)
+
+once you increase the number of subdivisions you can see that the shape goes from colder mechanical and edgy into a more curvy soft and organic form
+
+![](/assets/A_50.jpg)
+
+but that's getting ahead of ourselves- what we want is more about proportion at this stage so let's revert to non-subdivision
+
+![](/assets/A_51.jpg)
+
+it's always good to save in incremental states- here I revert to an earlier version when we were working with this peanut looking thing
+
+![](/assets/A_52.jpg)
+
+I select the whole thing using the "A" key
+
+![](/assets/A_53.jpg) 
+
+by pressing g for scale and then z to constrain deformation to one dimension I am able to flatten the peanut into a something more like a biscuit
+
+![](/assets/A_54.jpg)
+
+if you zoom out it almost looks like the beginning of the form for a seahorse
+
+![](/assets/A_55a.jpg)
+
+Here we press g to scale and y to constrain deformation to the Y axis
+
+![](/assets/A_55b.jpg)
+
+here we use the same method but choose to compress it by giving negative values for Y
