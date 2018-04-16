@@ -84,6 +84,47 @@ it's important that you familiarize yourself with the various orbiting and panni
 
 here we have an example of the default cube in wireframe mode which makes it easier to see through it
 
+![](/assets/A_23.jpg)
+
+these three icons allow you to choose between vertex line and face selection modes
+
+![](/assets/A_24.jpg)
+
+under face mode you can right click on the black squares to select the corresponding faces
+
+![](/assets/A_25.jpg)
+if you continue holding the shift button and selecting faces you can select several at a time
+
+![](/assets/A_26.jpg)
+
+you can then perform operations to multiple faces at once, such as extruding them
+
+![](/assets/A_27.jpg)
+
+observer the different behavior between extrude region and extrude individual
+
+![](/assets/A_28.jpg)
+
+pressing "A" will deselect the already selected faces
+
+![](/assets/A_29.jpg)
+
+pressing "A" another additional time will select all faces
+
+![](/assets/A_30a.jpg) 
+
+you can also subdivide the Faces 
+
+![](/assets/A_30.jpg)
+
+subdividing will help you take control over forming your object in finer detail
+
+![](/assets/A_31.jpg)
+
+The line Selection mode lets you take control of your object using line manipulation
+
+
+
 
 
 
