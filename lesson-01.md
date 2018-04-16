@@ -155,10 +155,28 @@ with the r-rotate tool you can constrain to specific axis by typing an additiona
 
 next I will return to bounding box mode and remove the subdivision modifier
 
+![](/assets/A_40.jpg)
+next I select some vertices, press X to delete, them and then specify that I want to delete vertices
 
+![](/assets/A_41.jpg)
 
+blender prefers to use faces of 4 sides so I select sets of 4 immediately neighboring pairs and press F join them as faces
 
+![](/assets/A_42.jpg)
 
+next I press ctrl with alt or option and q to enter quad view mode
+
+![](/assets/A_43.jpg)
+
+next I use the border select tool by pressing b and I try to make clean edges of vertices
+
+![](/assets/A_44.jpg)
+
+eventually the form becomes boxier
+
+![](/assets/A_45.jpg)
+
+select an edge and press loop cut and slide b
 
 
 
