@@ -1,39 +1,28 @@
-# Summary
+#
+Summary
 
 * [Introduction](README.md)
-* Lesson 01
- * Subpage
+* [Lesson 01 Week 1: The Environment and the Playing Field ](lesson-01.md)
+ * Exercise 01
 * Lesson 02
- * Subpage
+ * Exercise 01
 * Lesson 03
- * Subpage
+ * Exercise 01
 * Lesson 04
- * Subpage
+ * Exercise 01
 * Lesson 05
- * Subpage
+ * Exercise 01
 * Lesson 06
- * Subpage
+ * Exercise 01
 * Lesson 07
- * Subpage
+ * Exercise 01
 * Lesson 08
- * Subpage
+ * Exercise 01
 * Lesson 09
- * Subpage
+ * Exercise 01
 * Lesson 10
- * Subpage
+ * Exercise 01
 * Lesson 11
- * Subpage
+ * Exercise 01
 * Lesson 12
- * Subpage
-
-
-
-
-
-
-
-
-
-
-  
-
+ * Exercise 01
