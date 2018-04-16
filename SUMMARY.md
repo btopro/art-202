@@ -3,17 +3,17 @@
 * [Introduction](README.md)
 * [Overview](overview.md)
 * [Outline](outline.md)
-* [Lesson 01 Week 1: The Environment and the Playing Field ](lesson-01.md)
+* [Lesson 01 Week 1: The Environment and the Playing Field, Part 1](lesson-01.md)
   * Exercise 01
-* [Lesson 02 Week 2: The Environment and the Playing Field, continued](lesson-02.md)
+* [Lesson 02 Week 2: The Environment and the Playing Field, Part 2](lesson-02.md)
   * Exercise 01
-* [Lesson 03](lesson-03.md)
+* [Lesson 03 Week 3: The Parts and the Pieces, Part 1](lesson-03.md)
   * Exercise 01
-* [Lesson 04](lesson-04.md)
+* [Lesson 04 Week 4: The Parts and the Pieces, Part 2](lesson-04.md)
   * Exercise 01
-* [Lesson 05](lesson-05.md)
+* [Lesson 05 Week 5: The Parts and the Pieces, Part 3](lesson-05.md)
   * Exercise 01
-* [Lesson 06](lesson-06.md)
+* [Lesson 06 Week 6: The Parts and the Pieces, Part 4](lesson-06.md)
   * Exercise 01
 * [Lesson 07](lesson-07.md)
   * Exercise 01
