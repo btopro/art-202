@@ -123,6 +123,37 @@ subdividing will help you take control over forming your object in finer detail
 
 The line Selection mode lets you take control of your object using line manipulation
 
+![](/assets/A_32.jpg)
+
+vertex mode allows you to select individual vertices
+
+![](/assets/A_33 .jpg)
+
+wireframe makes it much easier to see sometimes, especially when selecting parts of the object behind the immediate faces
+
+![](/assets/A_34.jpg) 
+
+here I use the shrink or fatten function to narrow the gap
+
+![](/assets/A_35.jpg)
+
+after pressing Z to see the frames my object is starting to look like some kind of crystal or ore
+
+![](/assets/A_36.jpg)
+
+If we then audition the image with the subdivision modifier, we can see that it curves a bit more- almost looking like a cashew or peanut
+
+![](/assets/A_37.jpg)
+
+selecting vertices the c-circle or b-marqui selection tools with the wireframe mode makes it easier to quickly grab entire regions
+
+![](/assets/A_38 .jpg)
+
+with the r-rotate tool you can constrain to specific axis by typing an additional x y or z and then moving your mouse or typing a specific angle
+
+![](/assets/A_39.jpg)
+
+next I will return to bounding box mode and remove the subdivision modifier
 
 
 
