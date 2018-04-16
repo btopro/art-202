@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Overview](overview.md)
+* [Outline](outline.md)
 * [Lesson 01 Week 1: The Environment and the Playing Field ](lesson-01.md)
   * Exercise 01
 * [Lesson 02 Week 2: The Environment and the Playing Field, continued](lesson-02.md)
