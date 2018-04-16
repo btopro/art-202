@@ -25,6 +25,6 @@
   * Exercise 01
 * [Lesson 11 Weeks 11: The Age of Enlightenment, Part 2](lesson-11.md)
   * Exercise 01
-* [Lesson 12](lesson-12.md)
+* [Lesson 12 Week 12: The Big Pictures](lesson-12.md)
   * Exercise 01
 
