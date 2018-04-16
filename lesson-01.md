@@ -221,3 +221,111 @@ Here we press g to scale and y to constrain deformation to the Y axis
 ![](/assets/A_55b.jpg)
 
 here we use the same method but choose to compress it by giving negative values for Y
+
+![](/assets/A_56.jpg)
+
+Here we press r to rotate the shape and again we can use constrain to dimension- also you can override the manually rotated measurement by typing in a specific value- this also work for scaling
+
+![](/assets/A_57.jpg)
+
+at this point we are just playing around with features- improvising- trying to treat this all like clay- so let's rotate this clump and mirror it
+
+![](/assets/A_58.jpg)
+
+and like clay let's select mirror on the Y axis and smash them into each other
+
+![](/assets/A_59.jpg)
+
+at this point in time you can simply push and pull them apart and there is no deformation- because the mirroring has not been applied
+
+![](/assets/A_60.jpg)
+
+however once clipping is applied vertices will terminate their location whenever they come upon the origin points of reflection
+
+![](/assets/A_61.jpg)
+
+I don't know about you but I think this sort of looks like a cartoon cat so let's go with it
+
+![](/assets/A_62.jpg)
+
+if you look at this in wireframe mode you can see that there's some unwanted geometry inside of the mesh
+
+![](/assets/A_63.jpg)
+
+let's upon up the hood by deleting a face and take a look inside
+
+![](/assets/A_64.jpg)
+after selecting and deleting the vertices I select the exterior three vertices and press F to make Triangular face where the gap was
+
+![](/assets/A_65.jpg)
+
+let's see if we can expand on my cat theory
+
+![](/assets/A_66.jpg)
+
+let's select this middle side of the face and enable the indicated proportional editing mode using the default settings
+
+![](/assets/A_67.jpg)
+
+let's leave proportional editing on and deform the mesh a bit
+
+![](/assets/A_68.jpg)
+
+this is starting to look more cat like
+
+![](/assets/A_69.jpg)
+
+a little more cat like
+
+![](/assets/A_70.jpg)
+
+I will now go to the select tab and select edge loops
+
+![](/assets/A_71.jpg)
+
+now I will click on the red arrow and drag this portion of the mesh inwards
+
+![](/assets/A_72.jpg)
+
+I want to rework the back so I select face from face mode and begin deleting
+
+![](/assets/A_73.jpg)
+
+in order to keep all the faces at 4 sides I reinsert an interior segment at the point of reflection and press w for a submenu- and select subdivide- now this face can be rebuilt with four points
+
+![](/assets/A_74.jpg)
+
+next I will select the front-most edge loop and drag the red portion of the 3D cursor to extend the face outwards
+
+![](/assets/A_75.jpg)
+
+the ears will need some tweaking
+
+![](/assets/A_76.jpg)
+
+let's audition this under the subdivision modifier to get a clearer sense of where our geometry does and does not work
+
+![](/assets/A_77.jpg)
+
+those eyes are really not defined- lets delete the modifier and continue
+
+![](/assets/A_78.jpg)
+
+Here I create additional edge-loops for increased definition
+
+![](/assets/A_79.jpg)
+
+Here I reenable proportional editing and pull from the mesh with the sphere setting to create googly eyes
+
+![](/assets/A_80.jpg)
+
+I decide to push the faces in the opposite direction to create eye cavities
+
+![](/assets/A_81.jpg)
+
+After some cleaning up this is starting to look even more like a cat face
+
+![](/assets/A_82.jpg)
+
+Here I auditioned the face in Quad view mode under a subdivision modifier to get a sense of where this could go if I were to have continued
+
