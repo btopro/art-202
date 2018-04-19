@@ -21,7 +21,7 @@
 * [Lesson 03 Week 3: The Parts and the Pieces, Part 1](lesson-03.md)
   * Demonstration- 
   * Assignment 01- Model a Pawn
-  * Assignment 02- Model a Bishop
+  * [Assignment 02- Model a Bishop](lesson-03/assignment-02-model-a-bishop.md)
   * Assignment 03- Give feedback
 
 ---
@@ -41,7 +41,7 @@
 ---
 
 * [Lesson 06 Week 6: The Parts and the Pieces, Part 4](lesson-06.md)
-  * Demonstration- 
+  * [Demonstration- ](lesson-06/demonstration-.md)
   * [Assignment 01- Model a King](lesson-06/assignment-01-model-a-king.md)
   * [Assignment 02- Model a Queen](lesson-06/assignment-02-model-a-queen.md)
   * Assignment 03- Give feedback
