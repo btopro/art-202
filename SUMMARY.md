@@ -12,14 +12,15 @@
 ---
 
 * [Lesson 02 Week 2: The Environment and the Playing Field, Part 2](lesson-02.md)
-  * [Demonstration- ](lesson-02/demonstration-.md)
+  * [Demonstration- Model a Chessboard](lesson-02/demonstration-.md)
   * [Assignment 01- Model a Chessboard](lesson-02/assignment-01-model-a-chessboard.md)
   * Assignment 03- Give feedback
 
 ---
 
 * [Lesson 03 Week 3: The Parts and the Pieces, Part 1](lesson-03.md)
-  * Demonstration- 
+  * Demonstration- Model a Pawn
+  * Demonstration- Model a Bishop
   * [Assignment 01- Model a Pawn](lesson-03/assignment-01-model-a-pawn.md)
   * [Assignment 02- Model a Bishop](lesson-03/assignment-02-model-a-bishop.md)
   * Assignment 03- Give feedback
