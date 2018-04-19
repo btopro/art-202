@@ -1,4 +1,4 @@
-![](/assets/I_36.jpg)![](/assets/I_1.jpg)
+![](/assets/I_1.jpg)
 
 we are going to learn about texture now starting with a cube
 
@@ -146,6 +146,87 @@ it's coming together
 ![](/assets/I_39.jpg)
 
 ![](/assets/I_40.jpg)
+
+![](/assets/I_41.jpg)
+
+make final marks
+
+![](/assets/I_42.jpg)
+
+select the whole object
+
+![](/assets/I_43.jpg)
+
+![](/assets/I_44.jpg)
+
+you will get a flatted mapping that can be exported using this menu and modified in an image editor like photoshop
+
+![](/assets/I_45.jpg)
+
+save it with an appropriate name
+
+![](/assets/I_46.jpg)
+
+find your file on your computer and open it with photoshop
+
+![](/assets/I_47.jpg)
+
+double click on layer zero and hit ok to unlock the image
+
+![](/assets/I_48.jpg)
+
+duplicate the layer
+
+![](/assets/I_49.jpg)
+
+make the lower layer a solid color to improve visibility
+
+![](/assets/I_50.jpg)
+
+use the magic wand or other selection tools to select and modify your UV map
+
+![](/assets/I_51 continue to modify your map copy.jpg)
+
+continue to modify your map
+
+![](/assets/I_52.jpg)
+
+after choosing image as texture selecting your image and hitting apply in the modifier window you will be good to go
+
+![](/assets/I_53a.jpg)
+
+![](/assets/I_54 just keep editing until you like it.jpg)
+
+just keep editing until you like it
+
+![](/assets/I_55.jpg)
+
+save the image
+
+![](/assets/I_56.jpg)
+
+open your image within blender
+
+![](/assets/I_57.jpg)
+
+go to your materials tab on the left
+
+![](/assets/I_58.jpg)
+
+create a new material with the plus sign and change the render mode to cycles
+
+![](/assets/I_59.jpg)
+
+click on the drop down button to the right of color picker to open menu
+
+![](/assets/I_60.jpg)
+
+go back and forth between Photoshop and Blender to create the ideal UV texture
+
+![](/assets/I_62.jpg)
+
+here is a final object bent use a reference curve- we will go into that later
+
 
 
 
