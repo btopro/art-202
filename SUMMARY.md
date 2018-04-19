@@ -35,7 +35,7 @@
 
 * [Lesson 05 Week 5: The Parts and the Pieces, Part 3](lesson-05.md)
   * Demonstration- 
-  * Assignment 01- Model a Rook
+  * [Assignment 01- Model a Rook](lesson-05/assignment-01-model-a-rook.md)
   * Assignment 03- Give feedback  
 
 ---
