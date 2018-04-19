@@ -9,14 +9,8 @@
   * [Demonstration 02- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
   * Assignment 01- Model a Gem
   * Assignment 02- Model a Diamond
-
-
-
-
-
   * Assignment 03- Give feedback
   
-
 ---
 
 * [Lesson 02 Week 2: The Environment and the Playing Field, Part 2](lesson-02.md)
