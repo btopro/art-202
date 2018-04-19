@@ -20,7 +20,7 @@
 
 * [Lesson 03 Week 3: The Parts and the Pieces, Part 1](lesson-03.md)
   * Demonstration- 
-  * Assignment 01- Model a Pawn
+  * [Assignment 01- Model a Pawn](lesson-03/assignment-01-model-a-pawn.md)
   * [Assignment 02- Model a Bishop](lesson-03/assignment-02-model-a-bishop.md)
   * Assignment 03- Give feedback
 
