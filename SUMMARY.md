@@ -7,8 +7,8 @@
   * [Demonstration- Improvised Modeling Demonstration](lesson-01/demonstration-improvised-modeling-demonstration.md)
   * [Demonstration 01- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
   * [Demonstration 02- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
-  * [Assignment 01- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
-  * [Assignment 02- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
+  * Assignment 01- Model a Gem
+  * Assignment 02- Model a Diamond
 
 
 
