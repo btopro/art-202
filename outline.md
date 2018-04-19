@@ -31,7 +31,7 @@ Moving duplicates of completed-stage-objects to hidden layers, as a way of backi
 
 **Assignment:**
 
-Modeling: create and share your Checkerboard
+Modeling: create and share your Chessboard
 Give Feedback
 
 **Week 3: **
