@@ -5,6 +5,8 @@
 * [Outline](outline.md)
 * [Lesson 01 Week 1: The Environment and the Playing Field, Part 1](lesson-01.md)
   * [Demonstration- Improvised Modeling Demonstration](lesson-01/demonstration-improvised-modeling-demonstration.md)
+  * [Demonstration- Improvised Modeling Demonstration](lesson-01/demonstration-improvised-modeling-demonstration.md)
+
   * [Assignment 01- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
   * [Assignment 02- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
   * Assignment 03- Give feedback
