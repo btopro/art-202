@@ -28,7 +28,7 @@
 
 * [Lesson 04 Week 4: The Parts and the Pieces, Part 2](lesson-04.md)
   * Demonstration- 
-  * Assignment 01- Model a Knight
+  * [Assignment 01- Model a Knight](lesson-04/assignment-01-model-a-knight.md)
   * Assignment 03- Give feedback
 
 ---
