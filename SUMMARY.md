@@ -1,4 +1,4 @@
-# Course Outline
+# Summary
 
 * [Introduction](README.md)
 * [Overview](overview.md)
@@ -16,9 +16,9 @@
 * [Lesson 06 Week 6: The Parts and the Pieces, Part 4](lesson-06.md)
   * Assignment 01
 * [Lesson 07 Week 7: The Surface and Beyond, Part 1](lesson-07.md)
-  * Assignment 01
+  * [Assignment 01](lesson-07/assignment-01.md)
 * [Lesson 08 Week 8: The Surface and Beyond, Part 2](lesson-08.md)
-  * Assignment 01
+  * [Assignment 01](lesson-08/assignment-01.md)
 * [Lesson 09 Week 9: The Surface and Beyond, Part 3](lesson-09.md)
   * Assignment 01
 * [Lesson 10 Weeks 10: The Age of Enlightenment, Part 1](lesson-10.md)
