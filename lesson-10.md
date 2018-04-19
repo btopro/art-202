@@ -1,4 +1,4 @@
-![](/assets/I_1.jpg)
+![](/assets/I_36.jpg)![](/assets/I_1.jpg)
 
 we are going to learn about texture now starting with a cube
 
@@ -136,3 +136,18 @@ create new edge-loops and turn them immediately into seams if needed
 ![](/assets/I_35.jpg)
 
 it's coming together
+
+![](/assets/I_36.jpg)
+
+![](/assets/I_37.jpg)
+
+![](/assets/I_38.jpg)
+
+![](/assets/I_39.jpg)
+
+![](/assets/I_40.jpg)
+
+
+
+
+
