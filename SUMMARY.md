@@ -15,7 +15,7 @@
 
 * [Lesson 02 Week 2: The Environment and the Playing Field, Part 2](lesson-02.md)
   * [Demonstration- Model a Chessboard](lesson-02/demonstration-.md)
-  * [Assignment 01- Model a Chessboard](lesson-02/assignment-01-model-a-chessboard.md)
+  * Assignment 01- Model a Chessboard
   * Assignment 03- Give feedback
 
 ---
