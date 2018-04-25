@@ -7,34 +7,34 @@
 ---
 
 * [Week 1: The Environment and the Playing Field, Part 1](lesson-01.md)
-  * [Demonstration- Improvised Modeling Demonstration](lesson-01/demonstration-improvised-modeling-demonstration.md)
-  * [Demonstration 01- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
-  * [Demonstration 02- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
-  * Assignment 01- Model a Gem
-  * Assignment 02- Model a Diamond
-  * Assignment 03- Give feedback
+  * [Demonstration 1- Improvised Modeling Demonstration](lesson-01/demonstration-improvised-modeling-demonstration.md)
+  * [Demonstration 2- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
+  * [Demonstration 3- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
+  * Assignment 1- Model a Gem
+  * Assignment 2- Model a Diamond
+  * Assignment 3- Give feedback
 
 ---
 
 * [Week 2: The Environment and the Playing Field, Part 2](lesson-02.md)
-  * [Demonstration- Model a Chessboard](lesson-02/demonstration-.md)
-  * Assignment 01- Model a Chessboard
-  * Assignment 03- Give feedback
+  * [Demonstration 1- Model a Chessboard](lesson-02/demonstration-.md)
+  * Assignment 1- Model a Chessboard
+  * Assignment 2- Give feedback
 
 ---
 
 * [Week 3: The Parts and the Pieces, Part 1](lesson-03.md)
-  * [Demonstration- Model a Pawn](lesson-03/demonstration-model-a-pawn.md)
-  * [Demonstration- Model a Bishop](lesson-03/demonstration-model-a-bishop.md)
-  * Assignment 01- Model a Pawn
-  * Assignment 02- Model a Bishop
-  * Assignment 03- Give feedback
+  * [Demonstration 1- Model a Pawn](lesson-03/demonstration-model-a-pawn.md)
+  * [Demonstration 2- Model a Bishop](lesson-03/demonstration-model-a-bishop.md)
+  * Assignment 1- Model a Pawn
+  * Assignment 2- Model a Bishop
+  * Assignment 3- Give feedback
 
 ---
 
 * [Week 4: The Parts and the Pieces, Part 2](lesson-04.md)
-  * Demonstration- 
-  * [Assignment 01- Model a Knight](lesson-04/assignment-01-model-a-knight.md)
+  * [Demonstration 1- Model a Knight](lesson-04/demonstration-model-a-knight.md)
+  * [Assignment 1- Model a Knight](lesson-04/assignment-01-model-a-knight.md)
   * Assignment 03- Give feedback
 
 ---
