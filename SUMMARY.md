@@ -42,7 +42,7 @@
 * [Week 5: The Parts and the Pieces, Part 3](lesson-05.md)
   * [Demonstration 1- Model a Rook](lesson-  05/demonstration-model-a-rook.md)
   * [Assignment 1- Model a Rook](lesson-05/assignment-01-model-a-rook.md)
-  * Assignment 2- Give feedback   
+  * [Assignment 2- Give feedback   ](lesson-  05/assignment-2-give-feedback.md)
 
 ---
 
