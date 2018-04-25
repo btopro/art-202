@@ -1,4 +1,4 @@
-# Right-click and save these 5 images to a file on your computer
+# Right-click and save these 5 images to a folder on your computer
 ![](/assets/knight front.jpg)
 ![](/assets/knight back.jpg)
 ![](/assets/knight left.jpg)

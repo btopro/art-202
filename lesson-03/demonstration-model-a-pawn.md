@@ -1,4 +1,4 @@
-# Right-click and save these 2 images to a file on your computer
+# Right-click and save these 2 images to a folder on your computer
 
 
 ![](/assets/pawn front back and sides.jpg)
