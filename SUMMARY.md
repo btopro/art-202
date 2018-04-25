@@ -56,9 +56,9 @@
 ---
 
 * [Week 7: The Surface and Beyond, Part 1](lesson-07.md)
-  * [Demonstration- 1](lesson-07/demonstration-.md)
-  * [Assignment 1- UV Map your Chess Set](lesson-07/assignment-01-UV_Map_your_Chess_set.md)
-  * Assignment 2- Give feedback
+  * [Demonstration 1- UV Map Your Chess Set](lesson-07/demonstration-.md)
+  * [Assignment 1- UV Map Your Chess Set](lesson-07/assignment-01-UV_Map_your_Chess_set.md)
+  * Assignment 2- Give Feedback
 
 ---
 
