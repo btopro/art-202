@@ -26,9 +26,9 @@
 * [Week 3: The Parts and the Pieces, Part 1](lesson-03.md)
   * [Demonstration 1- Model a Pawn](lesson-03/demonstration-model-a-pawn.md)
   * [Demonstration 2- Model a Bishop](lesson-03/demonstration-model-a-bishop.md)
-  * Assignment 1- Model a Pawn
-  * Assignment 2- Model a Bishop
-  * Assignment 3- Give feedback
+  * [Assignment 1- Model a Pawn](lesson-03/assignment-1-model-a-pawn.md)
+  * [Assignment 2- Model a Bishop](lesson-03/assignment-2-model-a-bishop.md)
+  * [Assignment 3- Give feedback](lesson-03/assignment-3-give-feedback.md)
 
 ---
 
