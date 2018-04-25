@@ -1,4 +1,4 @@
-# Save these 4 images to a file on your computer
+# Right-click and save these 4 images to a file on your computer
 ![](/assets/bishop front.jpg)
 ![](/assets/bishop back.jpg)
 ![](/assets/bishop top.jpg)
