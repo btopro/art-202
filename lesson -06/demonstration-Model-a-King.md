@@ -1,3 +1,5 @@
+
+
 ![](/assets/G_1.jpg)
 
 setup for the king begins the same as earlier pieces- you swap out the cube with a cylinder
