@@ -47,7 +47,7 @@
 ---
 
 * [Week 6: The Parts and the Pieces, Part 4](lesson-06.md)
-  * [Demonstration- ](lesson-06/demonstration-.md)
+  * [Demonstration 1- Model a King](lesson-06/demonstration-.md)
   * [Assignment 1- Model a King](lesson-06/assignment-01-model-a-king.md)
   * [Assignment 2- Model a Queen](lesson-06/assignment-02-model-a-queen.md)
   * Assignment 3- Give feedback
