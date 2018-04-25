@@ -1,4 +1,4 @@
-# Introduction to 3D Modeling
+# Summary
 
 * [Introduction](README.md)
 * [Overview](overview.md)
@@ -10,9 +10,9 @@
   * [Demonstration 1- Improvised Modeling Demonstration](lesson-01/demonstration-improvised-modeling-demonstration.md)
   * [Demonstration 2- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
   * [Demonstration 3- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
-  * Assignment 1- Model a Gem
-  * Assignment 2- Model a Diamond
-  * Assignment 3- Give feedback
+  * [Assignment 1- Model a Gem](lesson-01/assignment-1-model-a-gem.md)
+  * [Assignment 2- Model a Diamond](lesson-01/assignment-2-model-a-diamond.md)
+  * [Assignment 3- Give feedback](lesson-01/assignment-3-give-feedback.md)
 
 ---
 
@@ -55,7 +55,7 @@
 ---
 
 * [Week 7: The Surface and Beyond, Part 1](lesson-07.md)
-  * [Demonstration- 1](lesson-07/demonstration-.md)UV Your Chess Set
+  * [Demonstration- 1](lesson-07/demonstration-.md)
   * [Assignment 1- UV Map your Chess Set](lesson-07/assignment-01-UV_Map_your_Chess_set.md)
   * Assignment 2- Give feedback
 
