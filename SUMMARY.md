@@ -58,19 +58,19 @@
 * [Week 7: The Surface and Beyond, Part 1](lesson-07.md)
   * [Demonstration 1- UV Map Your Chess Set](lesson-07/demonstration-.md)
   * [Assignment 1- UV Map Your Chess Set](lesson-07/assignment-01-UV_Map_your_Chess_set.md)
-  * Assignment 2- Give Feedback
+  * [Assignment 2- Give Feedback](lesson-07/assignment-2-give-feedback.md)
 
 ---
 
 * [Week 8: The Surface and Beyond, Part 2](lesson-08.md)
   * [Demonstration 1- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
-  * Assignment 1- UV map textures to complete set; final submission
+  * [Assignment 1- UV map textures to complete set; final submission](lesson-08/assignment-1-uv-map-textures-to-complete-set-final-submission.md)
 
 ---
 
 * [Week 9: The Surface and Beyond, Part 3](lesson-09.md)
   * [Demonstration 1- Materials](lesson-09/demonstration-Materials.md)
-  * Assignment 1- Make and share 3 complete custom sets using texture mapping and materials
+  * [Assignment 1- Make and share 3 complete custom sets using texture mapping and materials](lesson-09/assignment-1-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
   * Assignment 2- Give feedback
 
 ---
