@@ -1,4 +1,13 @@
+# Right-click and save these 3 images to a folder on your computer
+
+![](/assets/queen side.jpg)
+![](/assets/queen top.jpg)
+![](/assets/queen front and back.jpg)
+
+
 ![](/assets/H_1.jpg)
+
+
 
 next we build a queen starting with the cylinder and reference files
 

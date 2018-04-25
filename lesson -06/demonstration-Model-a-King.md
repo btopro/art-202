@@ -1,3 +1,11 @@
+# Right-click and save these 3 images to a folder on your computer
+
+![](/assets/king front and back.jpg)
+
+![](/assets/king top.jpg)
+
+![](/assets/king side.jpg)
+
 
 
 ![](/assets/G_1.jpg)
