@@ -1,4 +1,4 @@
-# Save these images to a file on your computer
+# Save these 2 images to a file on your computer
 
 
 ![](/assets/pawn front back and sides.jpg)

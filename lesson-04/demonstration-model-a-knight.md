@@ -1,3 +1,10 @@
+# Save these 5 images to a file on your computer
+![](/assets/knight front.jpg)
+![](/assets/knight back.jpg)
+![](/assets/knight left.jpg)
+![](/assets/knight right.jpg)
+![](/assets/knight top.jpg)
+
 ![](/assets/F_1.jpg)
 
 the knight start out the same with a cube
