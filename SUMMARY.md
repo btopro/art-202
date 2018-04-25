@@ -76,21 +76,21 @@
 ---
 
 * [Weeks 10: The Age of Enlightenment, Part 1](lesson-10.md)
-  * Demonstration- Lighting
-  * Assignment 01- Share completed set for feedback
-  * Assignment 02- Give feedback
+  * [Demonstration 1- Lighting](lesson-10/demonstration-Lighting.md)
+  * Assignment 1- Share completed set for feedback
+  * Assignment 2- Give feedback
 
 ---
 
 * [Weeks 11: The Age of Enlightenment, Part 2](lesson-11.md)
-  * Demonstration- Lighting, extended
-  * Assignment 01- Submit a screen-grab of your light layout 
-  * Assignment 02- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
+  * [Demonstration 1- Lighting, Extended](lesson-11/demonstration-Lighting_Extended.md)
+  * Assignment 1- Submit a screen-grab of your light layout 
+  * Assignment 2- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
 
 ---
 
 * [Week 12: The Big Pictures](lesson-12.md)
-  * Demonstration- Rendering; Camera / Settings
-  * Assignment 01- Submit 5 compelling renders
-  * Assignment 02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision
+  * [Demonstration- Rendering](lesson-12/demonstration-Rendering.md)
+  * Assignment 1- Submit 5 compelling renders
+  * Assignment 2- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision
 
