@@ -35,29 +35,29 @@
 * [Week 4: The Parts and the Pieces, Part 2](lesson-04.md)
   * [Demonstration 1- Model a Knight](lesson-04/demonstration-model-a-knight.md)
   * [Assignment 1- Model a Knight](lesson-04/assignment-01-model-a-knight.md)
-  * Assignment 03- Give feedback
+  * Assignment 2- Give feedback
 
 ---
 
 * [Week 5: The Parts and the Pieces, Part 3](lesson-05.md)
-  * Demonstration- 
-  * [Assignment 01- Model a Rook](lesson-05/assignment-01-model-a-rook.md)
-  * Assignment 03- Give feedback  
+  * [Demonstration 1- Model a Rook](lesson-  05/demonstration-model-a-rook.md)
+  * [Assignment 1- Model a Rook](lesson-05/assignment-01-model-a-rook.md)
+  * Assignment 2- Give feedback   
 
 ---
 
 * [Week 6: The Parts and the Pieces, Part 4](lesson-06.md)
   * [Demonstration- ](lesson-06/demonstration-.md)
-  * [Assignment 01- Model a King](lesson-06/assignment-01-model-a-king.md)
-  * [Assignment 02- Model a Queen](lesson-06/assignment-02-model-a-queen.md)
-  * Assignment 03- Give feedback
+  * [Assignment 1- Model a King](lesson-06/assignment-01-model-a-king.md)
+  * [Assignment 2- Model a Queen](lesson-06/assignment-02-model-a-queen.md)
+  * Assignment 3- Give feedback
 
 ---
 
 * [Week 7: The Surface and Beyond, Part 1](lesson-07.md)
-  * Demonstration- UV Your Chess Set
-  * Assignment 01- UV Map your Chess Set
-  * Assignment 02- Give feedback
+  * [Demonstration- 1](lesson-07/demonstration-.md)UV Your Chess Set
+  * [Assignment 1- UV Map your Chess Set](lesson-07/assignment-01-UV_Map_your_Chess_set.md)
+  * Assignment 2- Give feedback
 
 ---
 
