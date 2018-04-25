@@ -1,3 +1,9 @@
+# Save these images to a file on your computer
+![](/assets/bishop front.jpg)
+![](/assets/bishop back.jpg)
+![](/assets/bishop top.jpg)
+![](/assets/bishop side.jpg)
+
 ![](/assets/D_1.jpg)
 
 for our bishop we are going to start with a cylinder

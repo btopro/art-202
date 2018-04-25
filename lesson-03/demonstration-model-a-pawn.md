@@ -1,3 +1,10 @@
+# Save these images to a file on your computer
+
+
+![](/assets/pawn front back and sides.jpg)
+
+![](/assets/pawn top.jpg)
+
 ![](/assets/C_1.jpg)
 
 we are going to open up a new file with a default cube
