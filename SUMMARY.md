@@ -83,7 +83,6 @@
 ---
 
 * [Weeks 11: The Age of Enlightenment, Part 2](lesson-11.md)
-  * [Demonstration 1- Lighting, Extended](lesson-11/demonstration-Lighting_Extended.md)
   * Assignment 1- Submit a screen-grab of your light layout 
   * Assignment 2- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
 

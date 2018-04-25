@@ -38,12 +38,7 @@
 ![](/assets/materials_38.png)
 ![](/assets/materials_39.png)
 ![](/assets/materials_40.png)
-![](/assets/materials_41.png)
-![](/assets/materials_42.png)
-![](/assets/materials_43.png)
-![](/assets/materials_44.png)
-![](/assets/materials_45.png)
-![](/assets/materials_46.png)
+
 
 
 
