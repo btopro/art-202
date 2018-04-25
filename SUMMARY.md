@@ -48,6 +48,7 @@
 
 * [Week 6: The Parts and the Pieces, Part 4](lesson-06.md)
   * [Demonstration 1- Model a King](lesson-06/demonstration-.md)
+  * [Demonstration 2- Model a Queen](lesson-06/demonstration-.md)
   * [Assignment 1- Model a King](lesson-06/assignment-01-model-a-king.md)
   * [Assignment 2- Model a Queen](lesson-06/assignment-02-model-a-queen.md)
   * Assignment 3- Give feedback
@@ -62,15 +63,15 @@
 ---
 
 * [Week 8: The Surface and Beyond, Part 2](lesson-08.md)
-  * [Demonstration- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
-  * Assignment 01- UV map textures to complete set; final submission
+  * [Demonstration 1- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
+  * Assignment 1- UV map textures to complete set; final submission
 
 ---
 
 * [Week 9: The Surface and Beyond, Part 3](lesson-09.md)
-  * Demonstration- Materials
-  * Assignment 01- Make and share 3 complete custom sets using texture mapping and materials
-  * Assignment 02- Give feedback
+  * [Demonstration 1- Materials](lesson-09/demonstration-Materials.md)
+  * Assignment 1- Make and share 3 complete custom sets using texture mapping and materials
+  * Assignment 2- Give feedback
 
 ---
 
