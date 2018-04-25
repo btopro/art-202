@@ -1,4 +1,4 @@
-# Summary
+# Introduction to 3D Modeling
 
 * [Introduction](README.md)
 * [Overview](overview.md)
