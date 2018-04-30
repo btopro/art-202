@@ -11,8 +11,8 @@
   * [Demonstration 2- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
   * [Demonstration 3- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
   * [Demonstration 4- Model a Chessboard](lesson-02/demonstration-.md)
-  * [Assignment 1- Model a Gem](lesson-01/assignment-1-model-a-gem.md)
-  * [Assignment 2- Model a Diamond](lesson-01/assignment-2-model-a-diamond.md)  
+  * [Assignment 1- Model a Gem](lesson-03/assignment-1-model-a-gem.md)
+  * [Assignment 2- Model a Diamond](lesson-04/assignment-2-model-a-diamond.md)  
   * [Assignment 3- Model a Chessboard](lesson-02/assignment-1-model-a-chessboard.md)
   * [Assignment 4- Give feedback](lesson-02/assignment-2-give-feedback.md)
 
@@ -36,14 +36,14 @@
   * [Assignment 1- Model a Rook](lesson-05/assignment-01-model-a-rook.md)
   * [Assignment 2- Model a King](lesson-06/assignment-01-model-a-king.md)
   * [Assignment 3- Model a Queen](lesson-06/assignment-02-model-a-queen.md)
-  * [Assignment 4- Give feedback](lesson -06/assignment-3-give-feedback.md)
+  * [Assignment 4- Give feedback](lesson-06/assignment-03-give-feedback.md)
 
 ---
 
 * [Week 4: The Surface and Beyond, Part 1](lesson-07.md)
   * [Demonstration 1- UV Map Your Chess Set](lesson-07/demonstration-.md)
   * [Demonstration 2- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
-  * [Assignment 1- UV Map Your Chess Set](lesson-09/assignment-01-UV_Map_your_Chess_set.md)
+  * [Assignment 1- UV Map Your Chess Set](lesson-09/assignment-01-UV-Map-your-Chess-set.md)
   * [Assignment 2- UV map textures to complete set; final submission](lesson-08/assignment-1-uv-map-textures-to-complete-set-final-submission.md)
   * [Assignment 3- Give Feedback](lesson-09/assignment-2-give-feedback.md)
 
@@ -53,8 +53,8 @@
   * [Demonstration 1- Materials](lesson-09/demonstration-Materials.md)
   * [Assignment 1- Make and share 3 complete custom sets using texture mapping and materials](lesson-09/assignment-1-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
   * [Demonstration 1- Lighting](lesson-10/demonstration-Lighting.md)
-  * [Assignment 1- Share completed set for feedback](assignment-)
-  * Assignment 2- Give feedback
+  * [Assignment 1- Share completed set for feedback](assignment-11/share-completed-set-for-feedback)
+  * [Assignment 2- Give feedback](lesson-12/give-feedback)
 
 ---
 
