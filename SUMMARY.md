@@ -8,10 +8,11 @@
 
 * [Week 1: The Environment and the Playing Field](lesson-01.md)
   * [Demonstration 1- Improvised Modeling Demonstration](lesson-01/demonstration-improvised-modeling-demonstration.md)
+  * [Demonstration 2- Model a Gem](lesson-01/demonstration-improvised-modeling-demonstration.md)
   * [Demonstration 2- Model a Gem](lesson-01/assignment-01-model-a-gem.md)
   * [Demonstration 3- Model a Diamond](lesson-01/assignment-02-model-a-diamond.md)
   * [Demonstration 4- Model a Chessboard](lesson-02/demonstration-.md)
-  * [Assignment 1- Model a Gem](lesson-03/assignment-1-model-a-gem.md)
+  * [Assignment 1- Model a Gem](lesson-01/assignment-3-model-a-gem.md)
   * [Assignment 2- Model a Diamond](lesson-04/assignment-2-model-a-diamond.md)  
   * [Assignment 3- Model a Chessboard](lesson-02/assignment-1-model-a-chessboard.md)
   * [Assignment 4- Give feedback](lesson-02/assignment-2-give-feedback.md)
