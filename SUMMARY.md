@@ -26,7 +26,6 @@
   * [Demonstration 1- Model a Knight](lesson-04/demonstration-model-a-knight.md)
   * [Assignment 1- Model a Pawn](lesson-03/assignment-1-model-a-pawn.md)
   * [Assignment 2- Model a Bishop](lesson-03/assignment-2-model-a-bishop.md)
-  * [Assignment 3- Give feedback](lesson-03/assignment-3-give-feedback.md)
   * [Assignment 1- Model a Knight](lesson-04/assignment-01-model-a-knight.md)
   * [Assignment 2- Give feedback](lesson-04/assignment-2-give-feedback.md)
 
