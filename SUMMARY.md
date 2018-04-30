@@ -59,13 +59,13 @@
 ---
 
 * [Weeks 11: The Age of Enlightenment, Part 1](lesson-11.md)
-  * Assignment 1- Submit a screen-grab of your light layout 
-  * Assignment 2- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
+  * [Assignment 1- Submit a screen-grab of your light layout](lesson-100/submit-a-screen-grab-of-your-light-layout.md) 
+  * [Assignment 2- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](lesson-101/summarize-the-story.md)
 
 ---
 
 * [Week 12: The Big Pictures](lesson-12.md)
   * [Demonstration- Rendering](lesson-12/demonstration-Rendering.md)
-  * Assignment 1- Submit 5 compelling renders
-  * Assignment 2- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision
+  * [Assignment 1- Submit 5 compelling renders](lesson-102/submit-5-compelling-renders.md)
+  * [Assignment 2- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-103/summarize-five-render.md)
 
