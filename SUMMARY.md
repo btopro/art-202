@@ -43,9 +43,9 @@
 * [Week 4: The Surface and Beyond, Part 1](lesson-07.md)
   * [Demonstration 1- UV Map Your Chess Set](lesson-07/demonstration-.md)
   * [Demonstration 2- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
-  * [Assignment 1- UV Map Your Chess Set](lesson-07/assignment-01-UV_Map_your_Chess_set.md)
+  * [Assignment 1- UV Map Your Chess Set](lesson-09/assignment-01-UV_Map_your_Chess_set.md)
   * [Assignment 2- UV map textures to complete set; final submission](lesson-08/assignment-1-uv-map-textures-to-complete-set-final-submission.md)
-  * [Assignment 3- Give Feedback](lesson-07/assignment-2-give-feedback.md)
+  * [Assignment 3- Give Feedback](lesson-09/assignment-2-give-feedback.md)
 
 ---
 
