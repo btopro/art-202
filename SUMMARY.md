@@ -44,21 +44,20 @@
 
 * [Week 4: The Surface and Beyond, Part 1](lesson-07.md)
   * [Demonstration 1- UV Map Your Chess Set](lesson-07/demonstration-.md)
-  * [Demonstration 1- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
-  * [Demonstration 1- Materials](lesson-09/demonstration-Materials.md)
+  * [Demonstration 2- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
+  * [Demonstration 3- Materials](lesson-09/demonstration-Materials.md)
   * [Assignment 1- UV Map Your Chess Set](lesson-07/assignment-01-UV-Map-your-Chess-set.md)
-  * [Assignment 1- UV map textures to complete set; final submission](lesson-08/assignment-1-uv-map-textures-to-complete-set-final-submission.md)
-  * [Assignment 1- Make and share 3 complete custom sets using texture mapping and materials](lesson-09/assignment-1-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
-  * [Assignment 2- Give feedback](test)
+  * [Assignment 2- UV map textures to complete set; final submission](lesson-08/assignment-1-uv-map-textures-to-complete-set-final-submission.md)
+  * [Assignment 3- Make and share 3 complete custom sets using texture mapping and materials](lesson-09/assignment-1-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
+  * [Assignment 4- Give feedback](test)
 
 ---
 
 * [Weeks 5: The Age of Enlightenment](lesson-10.md)
   * [Demonstration 1- Lighting](lesson-10/demonstration-Lighting.md)
   * Assignment 1- Share completed set for feedback
-  * Assignment 2- Give feedback
-  * Assignment 1- Submit a screen-grab of your light layout 
-  * Assignment 2- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
+  * Assignment 2- Submit a screen-grab of your light layout 
+  * Assignment 3- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
 
 ---
 
