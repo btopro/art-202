@@ -225,46 +225,49 @@ Once you **increase the number of subdivisions** you can see that the shape goes
 However, that's getting ahead of ourselves- what we more concerned about is **proportionatal distribution of polygons**, at this stage, so let's **remove to the subdivision modifier**
 
 ![](/assets/A_51.jpg)
-
+**Ex: 51**
 It's always good to save in **incremental states**- here I revert to an **earlier version** when we were working with this peanut looking thing.
 
 Typically it's good to save in naming formats such as test_1 or another, more descriptive, incremental manner. This way you can return to earlier work and resume from there, if necessary.
 
 ![](/assets/A_52.jpg)
+**Ex: 52**
+I select the whole thing using the **"a-Key"**
 
-I select the whole thing using the "A" key
+![](/assets/A_53.jpg)
+**Ex: 53**
+ 
 
-![](/assets/A_53.jpg) 
-
-by pressing g for scale and then z to constrain deformation to one dimension I am able to flatten the peanut into a something more like a biscuit
+by pressing **"g"** for **scale** and then **"z"** to **constrain deformation to one dimension** I am able to flatten the peanut into a something a little more bread biscuit-like.
 
 ![](/assets/A_54.jpg)
-
-if you zoom out it almost looks like the beginning of the form for a seahorse
+**Ex: 54**
+If you zoom out it almost looks like the beginning of the form for a seahorse
 
 ![](/assets/A_55a.jpg)
-
-Here we press g to scale and y to constrain deformation to the Y axis
+**Ex: 55a**
+Here we press **"g"** to **scale** and **"y"** to **constrain deformation to the Y axis**
 
 ![](/assets/A_55b.jpg)
+**Ex: 55b**
 
-here we use the same method but choose to compress it by giving negative values for Y
+Here we use the same method but choose to **compress** it by giving **negative values** for **Y**
 
 ![](/assets/A_56.jpg)
 
-Here we press r to rotate the shape and again we can use constrain to dimension- also you can override the manually rotated measurement by typing in a specific value- this also work for scaling
+Here we press **"r"** to **rotate** the shape and again we can constrain to dimension- **additionally, you can override the manually rotated measurement by typing in a specific value- this also work for scaling**
 
 ![](/assets/A_57.jpg)
-
-at this point we are just playing around with features- improvising- trying to treat this all like clay- so let's rotate this clump and mirror it
+**Ex: 57**
+At this point we are just playing around with features- improvising- trying to treat this all like clay- so let's **rotate** this clump and **mirror** it
 
 ![](/assets/A_58.jpg)
-
-and like clay let's select mirror on the Y axis and smash them into each other
+**Ex: 58**
+Also, like clay, let's **select mirror** on the **Y** axis and smash them into each other
 
 ![](/assets/A_59.jpg)
-
-at this point in time you can simply push and pull them apart and there is no deformation- because the mirroring has not been applied
+**Ex: 59**
+At this point in time you can simply **push and pull **them apart and there is **no deformation**- because the **mirroring has not been applied.**
 
 ![](/assets/A_60.jpg)
 
