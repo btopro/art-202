@@ -137,23 +137,24 @@ Pressing "A" another additional time will select all faces.
 
 ![](/assets/A_30a.jpg)
 **Ex: 30**
-You can also subdivide the Faces 
+You can also **subdivide** the faces- breaking them into even, unique-distributed, smaller faces. 
 
-![](/assets/A_30.jpg)
+![](/assets/A_30b.jpg)
+**Ex: 31**
 
-subdividing will help you take control over forming your object in finer detail
+**Subdividing** will help you take control over forming your object in finer detail. 
 
 ![](/assets/A_31.jpg)
-
-The line Selection mode lets you take control of your object using line manipulation
+**Ex: 32**
+The **line Selection mode **lets you take control of your object through manipulating individual lines.
 
 ![](/assets/A_32.jpg)
-
-vertex mode allows you to select individual vertices
+**Ex: 33**
+Vertex mode allows you to select individual vertices
 
 ![](/assets/A_33 .jpg)
-
-wireframe makes it much easier to see sometimes, especially when selecting parts of the object behind the immediate faces
+**Ex: 34**
+Wireframe makes it much easier to see sometimes, especially when selecting parts of the object behind the immediate faces
 
 ![](/assets/A_34.jpg) 
 
