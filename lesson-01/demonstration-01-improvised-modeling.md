@@ -270,94 +270,95 @@ Also, like clay, let's **select mirror** on the **Y** axis and smash them into e
 At this point in time you can simply **push and pull **them apart and there is **no deformation**- because the **mirroring has not been applied.**
 
 ![](/assets/A_60.jpg)
-
-however once clipping is applied vertices will terminate their location whenever they come upon the origin points of reflection
+**Ex: 60**
+It's important to note, **once clipping is applied vertices will terminate their location whenever they come upon the origin points of reflection**
 
 ![](/assets/A_61.jpg)
-
-I don't know about you but I think this sort of looks like a cartoon cat so let's go with it
+**Ex: 61**
+I don't know about you but I think this sort of looks like a cartoon cat, so let's go with it. It's important to get to a point where you can balance creativity and confidence / familiarity with tools. There is some front-loading and steps toward familiarizing yourself with this or any other 3D-Modeling software, but once it clicks, it fun and surprisingly intuitive.
 
 ![](/assets/A_62.jpg)
-
-if you look at this in wireframe mode you can see that there's some unwanted geometry inside of the mesh
+**Ex: 62**
+If you look at this in **wireframe-mode** you will see that there's some unwanted geometry inside of the mesh
 
 ![](/assets/A_63.jpg)
-
-let's upon up the hood by deleting a face and take a look inside
+**Ex: 63**
+Let's open up the hood by deleting a face and take a look inside.
 
 ![](/assets/A_64.jpg)
-after selecting and deleting the vertices I select the exterior three vertices and press F to make Triangular face where the gap was
+**Ex: 64**
+After **selecting and deleting the vertices** I select the **exterior three vertices** and **press "F"** to make a **Triangular face where the gap was.**
 
 ![](/assets/A_65.jpg)
-
-let's see if we can expand on my cat theory
+**Ex: 65**
+Let's see if we can expand on my cat theory
 
 ![](/assets/A_66.jpg)
-
-let's select this middle side of the face and enable the indicated proportional editing mode using the default settings
+**Ex: 66**
+Now, let's **select this middle side of the face** and **enable the indicated proportional editing mode, using the default settings**
 
 ![](/assets/A_67.jpg)
-
-let's leave proportional editing on and deform the mesh a bit
+**Ex: 67**
+Now I leave **proportional editing** on and **deform the mesh** a bit
 
 ![](/assets/A_68.jpg)
-
-this is starting to look more cat like
+**Ex: 68**
+This is starting to look more cat-like.
 
 ![](/assets/A_69.jpg)
-
-a little more cat like
+**Ex: 69**
+A little more cat-like
 
 ![](/assets/A_70.jpg)
-
-I will now go to the select tab and select edge loops
+**Ex: 70**
+I will now go to the **select tab** and **select edge loops.**
 
 ![](/assets/A_71.jpg)
-
-now I will click on the red arrow and drag this portion of the mesh inwards
+**Ex: 71**
+Now, I will **click on the red arrow** and **drag this portion of the mesh inwards**
 
 ![](/assets/A_72.jpg)
-
-I want to rework the back so I select face from face mode and begin deleting
+**Ex: 72**
+I want to rework the **back of the object**, so I select **face** from **face mode and begin deleting**
 
 ![](/assets/A_73.jpg)
-
-in order to keep all the faces at 4 sides I reinsert an interior segment at the point of reflection and press w for a submenu- and select subdivide- now this face can be rebuilt with four points
+**Ex: 73**
+In order to keep all the faces at 4 sides I **reinsert an interior segment at the point of reflection** and **press "w" for a submenu- and select subdivide- now this face can be rebuilt with four points**
 
 ![](/assets/A_74.jpg)
-
-next I will select the front-most edge loop and drag the red portion of the 3D cursor to extend the face outwards
+**Ex: 74**
+Next, I select the front-most edge-loop and drag the red portion of the 3D cursor to extend the face outwards.
 
 ![](/assets/A_75.jpg)
-
-the ears will need some tweaking
+**Ex: 75**
+The ears will need some tweaking.
 
 ![](/assets/A_76.jpg)
-
-let's audition this under the subdivision modifier to get a clearer sense of where our geometry does and does not work
+**Ex: 76**
+Let's **audition** this under the **subdivision modifier** to get a **clearer sense of where our geometry does and does not work.**
 
 ![](/assets/A_77.jpg)
-
-those eyes are really not defined- lets delete the modifier and continue
+**Ex: 77**
+Those eyes are really not defined- lets **delete the modifier** and continue
 
 ![](/assets/A_78.jpg)
-
-Here I create additional edge-loops for increased definition
+**Ex: 79**
+Here, I create **additional edge-loops** for **increased definition.**
 
 ![](/assets/A_79.jpg)
-
-Here I reenable proportional editing and pull from the mesh with the sphere setting to create googly eyes
+**Ex: 80**
+Here, I **reenable proportional editing** and **pull from the mesh with the sphere setting** to create googly eyes.
 
 ![](/assets/A_80.jpg)
-
-I decide to push the faces in the opposite direction to create eye cavities
+**Ex: 80**
+Here I decide to push the faces in the opposite direction to create eye cavities
 
 ![](/assets/A_81.jpg)
-
-After some cleaning up this is starting to look even more like a cat face
+**Ex: 81**
+After some cleaning up this is starting to look even more like a cat face.
 
 ![](/assets/A_82.jpg)
-
-Here I auditioned the face in Quad view mode under a subdivision modifier to get a sense of where this could go if I were to have continued
+**Ex: 82**
+Here I auditioned the face in **Quad-view mode, under a subdivision modifier** to get a sense of where this could go if I were to have continued.
 
 ****
