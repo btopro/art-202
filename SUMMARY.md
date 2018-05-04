@@ -15,7 +15,9 @@
   * [Assignment 2- Model a Diamond](lesson-01/assignment-2-model-a-diamond.md)
   * [Assignment 3- Model a Chessboard](lesson-01/assignment-1-model-a-chessboard.md)
   * [Assignment 4- Give feedback](lesson-01/assignment-04-give-feedback.md)
+  
 ---
+
 * [Week 2: The Parts and the Pieces, Part 1](lesson-03.md)
   * [Demonstration 1- Model a Pawn](lesson-03/demonstration-model-a-pawn.md)
   * [Demonstration 2- Model a Bishop](lesson-03/demonstration-model-a-bishop.md)
