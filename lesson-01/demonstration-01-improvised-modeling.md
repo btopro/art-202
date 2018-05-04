@@ -189,40 +189,40 @@ Next, I select some **vertices**, press **"x"** to **delete** them, after first 
 It is preferable in Blender  to use faces of **4-sides** so I select sets of **4 immediately neighboring pairs** and **press the "F-Key" to join them as faces**
 
 ![](/assets/A_42.jpg)
-
-next I press ctrl with alt or option and q to enter quad view mode
+**Ex: 42**
+Next I press, together, **"ctrl, alt or option" and "q-keys"** to enter **quad view mode**
 
 ![](/assets/A_43.jpg)
-
-next I use the border select tool by pressing b and I try to make clean edges of vertices
+**Ex: 43**
+Next I use the **border-select tool** by pressing the **"b-key"** and I attempt to make **clean edges** of **vertices**
 
 ![](/assets/A_44.jpg)
-
-eventually the form becomes boxier
+**Ex: 44**
+Eventually, the form becomes boxier, with a little work.
 
 ![](/assets/A_45.jpg)
-
-select an edge and press loop cut and slide b
+**Ex: 45**
+Here I **select an edge** and **press loop cut and slide**
 
 ![](/assets/A_46.jpg)
-
-loop cut and slide is similar to the subdivision function and modifier but allows for certain flexibilities
+**Ex: 46**
+**Loop cut and slide** is a versatile tool and can be used similarly to the **subdivision function / modifier** but allows for certain additional utilities.
 
 ![](/assets/A_47.jpg)
-
-I select and evenly stagger of points
+**Ex: 47**
+Here I select and evenly stagger points
 
 ![](/assets/A_48.jpg)
-
-This is what it could look like with some scaling and subdivision
+**Ex: 48**
+This is what it could look like with some **scaling** and **subdivision**
 
 ![](/assets/A_49.jpg)
-
-once you increase the number of subdivisions you can see that the shape goes from colder mechanical and edgy into a more curvy soft and organic form
+**Ex: 49**
+Once you **increase the number of subdivisions** you can see that the shape goes from colder and more mechanical / edgy into a more curvy, soft and organic form
 
 ![](/assets/A_50.jpg)
-
-but that's getting ahead of ourselves- what we want is more about proportion at this stage so let's revert to non-subdivision
+**Ex: 50**
+However, that's getting ahead of ourselves- what we more concerned about is **proportionatal distribution of polygons**, at this stage, so let's **remove to the subdivision modifier**
 
 ![](/assets/A_51.jpg)
 
