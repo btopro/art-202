@@ -32,23 +32,22 @@
   * [Assignment-03- Model a Queen](lesson-03/assignment-03-model-a-queen.md)
   * [Assignment-04- Give feedback](lesson-03/assignment-04-give-feedback.md)
 ---
-* [Week 4: The Surface and Beyond, Part 1](lesson-07.md)
-  * [Demonstration-01- UV Map Your Chess Set](lesson-07/demonstration-.md)
-  * [Demonstration-02- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
-  * [Demonstration-03- Materials](lesson-09/lesson-04/demonstration-03-applying-materials-to-your-chess-set.md)
-  * [Assignment-01-UV Map Your Chess Set](lesson-07/lesson-04/assignment-01-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
+* [Week 4: The Surface and Beyond, Part 1](lesson-04.md)
+  * [Demonstration-01- UV Map Your Chess Set](lesson-04/demonstration-.md)
+  * [Demonstration-02- UV Mapping A Caterpillar ](lesson-04/demonstration-uv-mapping-a-caterpillar.md)
+  * [Demonstration-03- Materials](lesson-04/demonstration-03-applying-materials-to-your-chess-set.md)
+  * [Assignment-01-UV Make 3 Complete Chess Sets](lesson-04/assignment-01-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
   * [Assignment-02-Give feedback](test)
 ---
 * [Weeks 5: The Age of Enlightenment](lesson-10.md)
-  * [Demonstration 1- Lighting](lesson-10/demonstration-Lighting.md)
-  * [Assignment 1- Share completed set for feedback](lesson-05/assignment-1-share-set-for-feedback.md)
-  * [Assignment 2- Submit a screen-grab of your light layout](lesson-05/assignment-2-submit-a-screen.md) 
-  * [Assignment 3- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](assignment-3-summary.md)
-
+  * [Demonstration-01- Lighting](lesson-05/demonstration-Lighting.md)
+  * [Assignment-01- Share completed set for feedback](lesson-05/assignment-1-share-set-for-feedback.md)
+  * [Assignment-02- Submit a screen-grab of your light layout](lesson-05/assignment-2-submit-a-screen.md) 
+  * [Assignment-03- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](lesson-05/assignment-3-summary.md)
 ---
-
 * [Week 6: The Big Pictures](lesson-12.md)
-  * [Demonstration- Rendering](lesson-12/demonstration-Rendering.md)
-  * [Assignment 1- Submit 5 compelling renders]()
-  * [Assignment 2- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision]()
+  * [Demonstration-01- Rendering](lesson-06/demonstration-Rendering.md)
+  * [Assignment-01- Submit 5 compelling renders](lesson-06/Submit-5-compelling-render.md)
+  * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-06/Summarize-5-renders.md)
+
 
