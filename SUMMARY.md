@@ -9,7 +9,7 @@
 ---
 
 * [Week 1: The Environment and the Playing Field](lesson-01.md)
-  * [Demonstration-01- Improvised Modeling](lesson-01/demonstration-01-improvised-modeling-demonstration.md)
+  * [Demonstration-01- Improvised Modeling](lesson-01/demonstration-01-improvised-modeling.md)
   * [Demonstration-02- Model a Gem](lesson-01/demonstration-02-model-a-gem.md)
   * [Demonstration-03- Model a Diamond](lesson-01/demonstration-03-model-a-diamond.md)
   * [Demonstration-04- Model a Chessboard](lesson-01/demonstration-model-a-chessboard.md)
