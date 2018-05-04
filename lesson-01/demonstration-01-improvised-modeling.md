@@ -226,7 +226,9 @@ However, that's getting ahead of ourselves- what we more concerned about is **pr
 
 ![](/assets/A_51.jpg)
 
-it's always good to save in incremental states- here I revert to an earlier version when we were working with this peanut looking thing
+It's always good to save in **incremental states**- here I revert to an **earlier version** when we were working with this peanut looking thing.
+
+Typically it's good to save in naming formats such as test_1 or another, more descriptive, incremental manner. This way you can return to earlier work and resume from there, if necessary.
 
 ![](/assets/A_52.jpg)
 
@@ -355,3 +357,4 @@ After some cleaning up this is starting to look even more like a cat face
 
 Here I auditioned the face in Quad view mode under a subdivision modifier to get a sense of where this could go if I were to have continued
 
+****
