@@ -1,40 +1,41 @@
 _![](/assets/gem_1.jpg)_
-
-1 start by selecting a faces from face mode
+**Ex: 1**
+Start by selecting a **face** while within the **face-mode.**
 
 ![](/assets/gem_2.jpg)
-
-extrude it a little bit by pressing e and dragging upwards on the 3D cursor
+**Ex: 2**
+Extrude it a little bit by pressing e and dragging upwards on the 3D cursor.
 
 ![](/assets/gem_3.jpg)
-
-use the shrink or fatten command on the left to give it a chisled appearance
+**Ex: 3**
+Use the shrink or fatten command on the left to give it a chiseled appearance.
 
 ![](/assets/gem_4.jpg)
-
-repeat on all sides
+**Ex: 4**
+Repeat on all sides.
 
 ![](/assets/gem_5.jpg)
+**Ex: 5**
 
 ![](/assets/gem_6.jpg)
-
-enter vertices and wireframe modes and select the top portion of vertices
+**Ex: 6**
+Enter vertices and wireframe modes and select the top portion of vertices.
 
 ![](/assets/gem_7.jpg)
-
-Stretch the object by dragging the blue arrow on the 3D cursor upwards
+**Ex: 7**
+Stretch the object by dragging the blue arrow on the 3D cursor upwards.
 
 ![](/assets/gem_8.jpg)
-
-Enter quad view from either the menu or the hot key ctrl option q mac or ctrl alt q on windows
+**Ex: 8**
+Enter quad view from either the menu or the hot key ctrl option q mac or ctrl alt q on windows.
 
 ![](/assets/gem_9.jpg)
-
-Further refine your gem by editing while consider from multiple perspectives at once
+**Ex: 9**
+Further refine your gem by editing while consider from multiple perspectives at once.
 
 ![](/assets/gem_10.jpg)
-
-Go to bound box mode to see the results
+**Ex: 10**
+Go to bound box mode to see the results.
 
 
 
