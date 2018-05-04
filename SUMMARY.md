@@ -3,9 +3,7 @@
 * [Introduction](README.md)
 * [Overview](overview.md)
 * [Outline](outline.md)
-
 ---
-
 * [Week 1: The Environment and the Playing Field, Part 1](lesson-01.md)
   * [Demonstration-01- Improvised Modeling Demonstration](lesson-01/demonstration-01-improvised-modeling-demonstration.md)
   * [Demonstration-02- Model a Gem](lesson-01/demonstration-02-model-a-gem.md)
@@ -15,9 +13,7 @@
   * [Assignment-02- Model a Diamond](lesson-01/assignment-2-model-a-diamond.md)
   * [Assignment-03- Model a Chessboard](lesson-01/assignment-1-model-a-chessboard.md)
   * [Assignment-04- Give feedback](lesson-01/assignment-04-give-feedback.md)
-  
 ---
-
 * [Week 2: The Parts and the Pieces, Part 1](lesson-02.md)
   * [Demonstration-01- Model a Pawn](lesson-01/demonstration-model-a-pawn.md)
   * [Demonstration-02- Model a Bishop](lesson-02/demonstration-model-a-bishop.md)
@@ -27,6 +23,7 @@
   * [Assignment-03- Model a Knight](lesson-02/assignment-01-model-a-knight.md)
   * [Assignment-04- Give feedback](lesson-02/assignment-4-give-feedback.md)
 ---
+
 * [Week 3: The Parts and the Pieces, Part 3](lesson-05.md)
   * [Demonstration 1- Model a Rook](lesson-  05/demonstration-model-a-rook.md)
   * [Demonstration 2- Model a King](lesson -06/demonstration-Model-a-King.md)
