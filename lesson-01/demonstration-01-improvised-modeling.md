@@ -136,20 +136,20 @@ Pressing **"A"** will deselect the already selected faces.
 Pressing **"A"** another additional time will select all faces.
 
 ![](/assets/A_30a.jpg)
-**Ex: 30**
+**Ex: 30a**
 You can also **subdivide** the faces- breaking them into even, unique-distributed, smaller faces. 
 
 ![](/assets/A_30b.jpg)
-**Ex: 31**
+**Ex: 30b**
 
 **Subdividing** will help you take control over forming your object in finer detail. 
 
 ![](/assets/A_31.jpg)
-**Ex: 32**
+**Ex: 31**
 The **line Selection mode **lets you take control of your object through manipulating individual lines.
 
 ![](/assets/A_32.jpg)
-**Ex: 33**
+**Ex: 32**
 **Vertex mode** allows you to select individual vertices
 
 ![](/assets/A_33 .jpg)
@@ -166,28 +166,27 @@ After pressing **"Z"** to see the frames my object is starting to look like some
 
 ![](/assets/A_36.jpg)
 **Ex: 36**
-
-
-If we then audition the image with the subdivision modifier, we can see that it curves a bit more- almost looking like a cashew or peanut
+If we then audition the image with the **subdivision modifier**, we can see that it curves a bit more- almost looking like a cashew or peanut
 
 ![](/assets/A_37.jpg)
-
-selecting vertices the c-circle or b-marqui selection tools with the wireframe mode makes it easier to quickly grab entire regions
+**Ex: 37**
+**Selecting vertices**: using the **"c"-Key-circle** or "b-Key"-marqui**-**selection tools** with the **wireframe-mode** makes it easier to quickly **grab entire regions.**
 
 ![](/assets/A_38 .jpg)
-
-with the r-rotate tool you can constrain to specific axis by typing an additional x y or z and then moving your mouse or typing a specific angle
+**Ex: 38**
+With the **"r-key"-rotate function** you can **constrain to specific axis by typing an additional x y or z and then moving your mouse or typing a specific angle.**
 
 ![](/assets/A_39.jpg)
-
-next I will return to bounding box mode and remove the subdivision modifier
+**Ex: 39**
+Next I will **return to bounding box** mode and **remove the subdivision modifier**
 
 ![](/assets/A_40.jpg)
-next I select some vertices, press X to delete, them and then specify that I want to delete vertices
+**Ex: 41**
+Next, I select some **vertices**, press **"x"** to **delete** them, after first **specifying that I want to delete vertices**
 
 ![](/assets/A_41.jpg)
-
-blender prefers to use faces of 4 sides so I select sets of 4 immediately neighboring pairs and press F join them as faces
+**Ex: 41**
+It is preferable in Blender  to use faces of **4-sides** so I select sets of **4 immediately neighboring pairs** and **press the "F-Key" to join them as faces**
 
 ![](/assets/A_42.jpg)
 
