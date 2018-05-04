@@ -1,11 +1,12 @@
 
 
 ![](/assets/A_1.jpg)
+**Ex: 1**
 Welcome to the Blender 3D -Modeling Environment.
 
 This is what the blender main screen looks like when you first open it up
 
-As you can see, there is a main-navigational / viewing portal in the center of the screen. 
+As you can see, there is a main-navigational / viewing portal in the center of the screen.
 
 In the upper right of the screen you will see that there are two main windows.
 
@@ -14,24 +15,33 @@ The upper window allows you to select objects, such as the camera (visibly displ
 The window below this serves many purposes. It is mostly used in this course for making modifications and rendering. More on this later.
  
 ![](/assets/A_2.jpg)
-
-If you go to the top of the screen you'll see that there is a menu called File
+**Ex: 2**
+If you go to the top of the screen you'll see that there is a menu called File. Please select this.
 
 ![](/assets/A_3.jpg)
-
-click on user preferences
+**Ex: 3**
+Select and open up user preferences.
 
 ![](/assets/A_4 .jpg)
+**Ex: 4**
 
-if you are working on a laptopn that does not have a dedicated number pad then select emulate numpad from within the Input Tab
+If you are working on a laptop that does not have a dedicated number pad then select emulate Numpad from within the Input Tab. This will allow you to toggle through very useful camera views by pressing different, individual numbers. You will see how important this is, early on, as we begin tracing reference images to direct our modeling decisions.
 
 ![](/assets/A_5.jpg)
-
-by default the program presents a cube within what is called object mode
+**Ex: 5**
+by default the program presents a cube within what is called object mode.
 
 ![](/assets/A_6.jpg)
+**Ex: 6**
+Use the indicated drop menu or the tab button to go between object and edit modes. Object mode will show you what the object generally looks like. Edit mode will present the object in an editable manner, where you can choose between selecting vertices, edges and faces to make your edits.
 
-Use the indicated drop menu or the tab button to go between object and edit modes
+Vertices are the point in between the edges.
+
+Edges are the lines between the vertices.
+
+Faces are the planes between 3 or more connected points. 
+
+For the purpose of modeling in Blender, we are going to focus on using primarily 4-sided faces when possible. If needed, 3 is acceptable. The reason for this is because there are processes that occur in later stages of rendering, and it is most important to be consistent, for the purpose of having a consistent render. In the case of flat or hidden surfaces, higher-polygon-count faces are sometimes acceptable. We discuss this further in the future.
 
 ![](/assets/A_7.jpg)
 you can use the scrollwheel to zoom in and out
