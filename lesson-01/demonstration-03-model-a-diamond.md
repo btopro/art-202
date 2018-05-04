@@ -1,50 +1,50 @@
 ![](/assets/Diamond_1.jpg)
-
-start with the default cube
+**Ex 1: **
+Start with the **default cube**
 
 ![](/assets/Diamond_2.jpg)
-
-select your cube in edit mode by pressing a and subdivide it from the w-key menu or the window on the left
+**Ex 2: **
+**Select** your cube in **edit-mode** by **pressing "a"** and **subdivide** it, by **selecting from the "w-key-menu"** or the **window on the left**
 
 ![](/assets/Diamond_3.jpg)
-
-start deleting specific edges
+**Ex 3: **
+Start deleting specific edges
 
 ![](/assets/Diamond_4.jpg)
-
-until you are left with these four intersecting squares
+**Ex 4: **
+Until you are left with **these four intersecting square-shaped-edges**
 
 ![](/assets/Diamond_5.jpg)
-
-selecting the intersecting interfaces and press F to create new line. Next, delete any leftover geometry
+**Ex 5: **
+**Select the intersecting interfaces** and **press "F"** to **create a new line.** Next, **delete any leftover geometry**
 
 ![](/assets/Diamond_6.jpg)
-
-insert loop cuts
+**Ex 6: ** 
+**Insert loop cuts**
 
 ![](/assets/Diamond_6b.jpg)
-
-practice deleting edges extruding and scaling faces until you get something like this
+**Ex 7: **
+**Practice deleting edges, extruding and scaling faces** until you get something like this
 
 ![](/assets/Diamond_8.jpg)
-
-continue to refine your shape
+**Ex 8: **
+Continue **refining** your shape
 
 ![](/assets/Diamond_9.jpg)
-
-add strategic loop-cuts to imply corner sections
+**Ex 9: **
+Add **loop-cuts, strategically** to **imply corner sections**
 
 ![](/assets/Diamond_10.jpg)
-
-select vertices and use shrink or fatten to create dynamic corner edges
+**Ex 10: **
+Select vertices and use **shrink** or **fatten** to **create dynamic corner edges**
 
 ![](/assets/Diamond_12.jpg)
-
-do the same for the top and bottom
+**Ex 11: **
+Do the same for the top and bottom
 
 ![](/assets/Diamond_13.jpg)
-
-what remains will resemble a diamond shapes gemstone
+**Ex 12: **
+What remains will resemble a diamond-shaped gemstone
 
 
 
