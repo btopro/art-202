@@ -1,7 +1,7 @@
 # Right-click and save these 3 images
 
 ![](/assets/rook top.jpg)
-![](/assets/rook front fixed.jpg)
+![](/assets/fixed rook side.jpg)
 ![](/assets/rook sidea.jpg)
 ![](/assets/E_1.jpg)
 

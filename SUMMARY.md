@@ -23,7 +23,6 @@
   * [Assignment-03- Model a Knight](lesson-02/assignment-01-model-a-knight.md)
   * [Assignment-04- Give feedback](lesson-02/assignment-4-give-feedback.md)
 ---
-
 * [Week 3: The Parts and the Pieces, Part 2](lesson-03.md)
   * [Demonstration-01- Model a Rook](lesson-03/demonstration-01-model-a-rook.md)
   * [Demonstration-02- Model a King](lesson-03/demonstration-model-a-king.md)
@@ -34,13 +33,11 @@
   * [Assignment-04- Give feedback](lesson-03/assignment-04-give-feedback.md)
 ---
 * [Week 4: The Surface and Beyond, Part 1](lesson-07.md)
-  * [Demonstration 1- UV Map Your Chess Set](lesson-07/demonstration-.md)
-  * [Demonstration 2- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
-  * [Demonstration 3- Materials](lesson-09/demonstration-Materials.md)
-  * [Assignment 1- UV Map Your Chess Set](lesson-07/assignment-01-UV-Map-your-Chess-set.md)
-  * [Assignment 2- UV map textures to complete set; final submission](lesson-08/assignment-1-uv-map-textures-to-complete-set-final-submission.md)
-  * [Assignment 3- Make and share 3 complete custom sets using texture mapping and materials](lesson-09/assignment-1-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
-  * [Assignment 4- Give feedback](test)
+  * [Demonstration-01- UV Map Your Chess Set](lesson-07/demonstration-.md)
+  * [Demonstration-02- UV Mapping A Caterpillar ](lesson-08/demonstration-uv-mapping-a-caterpillar.md)
+  * [Demonstration-03- Materials](lesson-09/lesson-04/demonstration-03-applying-materials-to-your-chess-set.md)
+  * [Assignment-01-UV Map Your Chess Set](lesson-07/lesson-04/assignment-01-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
+  * [Assignment-02-Give feedback](test)
 ---
 * [Weeks 5: The Age of Enlightenment](lesson-10.md)
   * [Demonstration 1- Lighting](lesson-10/demonstration-Lighting.md)
