@@ -1,7 +1,16 @@
 ![](/assets/A_1.jpg)
+Welcome to the Blender 3D -Modeling Environment.
 
 This is what the blender main screen looks like when you first open it up
 
+As you can see, there is a main-navigational / viewing portal in the center of the screen. 
+
+In the upper right of the screen you will see that there are two main windows.
+
+The upper window allows you to select objects, such as the camera (visibly displayed on the screen, with black lines and an arrow above it), light (to the upper right of the cube) or objects. In this case, we are interested in the cube object.
+
+The window below this serves many purposes. It is mostly used in this course for making modifications and rendering. More on this later.
+ 
 ![](/assets/A_2.jpg)
 
 If you go to the top of the screen you'll see that there is a menu called File
