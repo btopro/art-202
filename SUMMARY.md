@@ -12,7 +12,7 @@
   * [Demonstration-01- Improvised Modeling](lesson-01/demonstration-01-improvised-modeling.md)
   * [Demonstration-02- Model a Gem](lesson-01/demonstration-02-model-a-gem.md)
   * [Demonstration-03- Model a Diamond](lesson-01/demonstration-03-model-a-diamond.md)
-  * [Demonstration-04- Model a Chessboard](lesson-01/demonstration-model-a-chessboard.md)
+  * [Demonstration-04- Model a Chessboard](lesson-01/demonstration-04-model-a-chessboard.md)
   * [Assignment-01- Model a Gem](lesson-01/assignment-1-model-a-gem.md)
   * [Assignment-02- Model a Diamond](lesson-01/assignment-2-model-a-diamond.md)
   * [Assignment-03- Model a Chessboard](lesson-01/assignment-1-model-a-chessboard.md)
