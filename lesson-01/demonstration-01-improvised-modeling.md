@@ -153,18 +153,20 @@ The **line Selection mode **lets you take control of your object through manipul
 **Vertex mode** allows you to select individual vertices
 
 ![](/assets/A_33 .jpg)
-**Ex: 34**
+**Ex: 33**
 **Wireframe** makes it much easier to see sometimes, especially when selecting parts of the object behind the immediate faces.
 
 ![](/assets/A_34.jpg)
-**Ex: 35**
+**Ex: 34**
 Here I use the **shrink or fatten** function to narrow the gap
 
 ![](/assets/A_35.jpg)
-**Ex: 36**
+**Ex: 35**
 After pressing **"Z"** to see the frames my object is starting to look like some kind of crystal or ore.
 
 ![](/assets/A_36.jpg)
+**Ex: 36**
+
 
 If we then audition the image with the subdivision modifier, we can see that it curves a bit more- almost looking like a cashew or peanut
 
