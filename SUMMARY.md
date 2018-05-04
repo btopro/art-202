@@ -4,8 +4,8 @@
 * [Overview](overview.md)
 * [Outline](outline.md)
 ---
-* [Week 1: The Environment and the Playing Field, Part 1](lesson-01.md)
-  * [Demonstration-01- Improvised Modeling Demonstration](lesson-01/demonstration-01-improvised-modeling-demonstration.md)
+* [Week 1: The Environment and the Playing Field](lesson-01.md)
+  * [Demonstration-01- Improvised Modeling](lesson-01/demonstration-01-improvised-modeling-demonstration.md)
   * [Demonstration-02- Model a Gem](lesson-01/demonstration-02-model-a-gem.md)
   * [Demonstration-03- Model a Diamond](lesson-01/demonstration-03-model-a-diamond.md)
   * [Demonstration-04- Model a Chessboard](lesson-01/demonstration-model-a-chessboard.md)
@@ -24,14 +24,14 @@
   * [Assignment-04- Give feedback](lesson-02/assignment-4-give-feedback.md)
 ---
 
-* [Week 3: The Parts and the Pieces, Part 3](lesson-05.md)
-  * [Demonstration 1- Model a Rook](lesson-05/demonstration-model-a-rook.md)
-  * [Demonstration 2- Model a King](lesson-06/demonstration-Model-a-king.md)
-  * [Demonstration 3- Model a queen](lesson-06/demonstration-Model-a-Queen.md)
-  * [Assignment 1- Model a Rook](lesson-05/assignment-01-model-a-rook.md)
-  * [Assignment 2- Model a King](lesson-06/assignment-01-model-a-king.md)
-  * [Assignment 3- Model a Queen](lesson-06/assignment-02-model-a-queen.md)
-  * [Assignment 4- Give feedback](lesson-06/assignment-3-give-feedback.md)
+* [Week 3: The Parts and the Pieces, Part 2](lesson-03.md)
+  * [Demonstration-01- Model a Rook](lesson-03/demonstration-01-model-a-rook.md)
+  * [Demonstration-02- Model a King](lesson-03/demonstration-model-a-king.md)
+  * [Demonstration-03- Model a queen](lesson-03/demonstration-Model-a-Queen.md)
+  * [Assignment-01- Model a Rook](lesson-03/assignment-01-model-a-rook.md)
+  * [Assignment-02- Model a King](lesson-03/assignment-02-model-a-king.md)
+  * [Assignment-03- Model a Queen](lesson-03/assignment-03-model-a-queen.md)
+  * [Assignment-04- Give feedback](lesson-03/assignment-04-give-feedback.md)
 ---
 * [Week 4: The Surface and Beyond, Part 1](lesson-07.md)
   * [Demonstration 1- UV Map Your Chess Set](lesson-07/demonstration-.md)
