@@ -117,13 +117,15 @@ And I open it up in Blender
 Here you can see that the image has been updated within the UV/Image Editor Window.
 
 ![](/assets/set_31.png)
-**Ex 1**
+**Ex 31**
+Select Cycle Render as the Render Engine
 
 ![](/assets/set_32.png)
-**Ex 1**
+**Ex 32**
+This will adjust the viewable options in the Materials Modifier-Window
 
 ![](/assets/set_33.png)
-**Ex 1**
+**Ex 33**
 
 ![](/assets/set_34.png)
 **Ex 1**
