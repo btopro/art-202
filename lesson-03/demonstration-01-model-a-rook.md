@@ -2,9 +2,13 @@
 
 ![](/assets/rook top.jpg)**Reference image 1**
 ![](/assets/fixed rook side.jpg)**Reference image 2**
-Use for both left and right sides
-![](/assets/rook sidea.jpg)**Reference image 3**
 Use for both front and back
+
+
+
+![](/assets/rook sidea.jpg)**Reference image 3**
+Use for both left and right sides
+
 
 ![](/assets/E_1.jpg)
 **Ex 1**
