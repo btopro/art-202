@@ -78,4 +78,4 @@ Now, clean up the extra vertices edges and faces.
 
 ![](/assets/D_19.jpg)
 **Ex 19**
-What remains is a well-crafted bishop
+What remains is a reasonably-crafted bishop
