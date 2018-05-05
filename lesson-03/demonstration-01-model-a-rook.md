@@ -1,11 +1,12 @@
 # Right-click and save these 3 images
 
-![](/assets/rook top.jpg)
-![](/assets/fixed rook side.jpg)
-![](/assets/rook sidea.jpg)
-![](/assets/E_1.jpg)
+![](/assets/rook top.jpg)**Reference image 1**
+![](/assets/fixed rook side.jpg)**Reference image 2**
+![](/assets/rook sidea.jpg)**Reference image 3**
 
-now we are going to build a rook using the same initial methods as before but this time with a cube
+![](/assets/E_1.jpg)
+**Ex 1**
+Now, we are going to build a rook using the same initial methods as before but this time with a cube
 
 ![](/assets/E_2.jpg)
 
