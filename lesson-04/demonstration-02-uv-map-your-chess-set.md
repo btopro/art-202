@@ -23,7 +23,7 @@ I use the default settings
 And I press **"ok"** to have them apply
 
 ![](/assets/set_7.png)
-**Ex 1**
+**Ex 7**
 
 ![](/assets/set_8.png)
 **Ex 1**
