@@ -1,17 +1,21 @@
 ![](/assets/set_1.png)
 **Ex 1**
+First, I open up an existing file, with the same Knight that we created earlier.
 
 ![](/assets/set_2.png)
-**Ex 1**
+**Ex 2**
+Next I open up a new window and **specify the view-type as UV/Image editor**
 
 ![](/assets/set_3.png)
-**Ex 1**
+**Ex 3**
+Next I switch into Edit-Mode
 
 ![](/assets/set_4.png)
-**Ex 1**
+**Ex 4**
+Next I press "u" and select Smart UV Project, deferring to an algorithm to decide how the mesh unwraps.
 
 ![](/assets/set_5.png)
-**Ex 1**
+**Ex 5**
 
 ![](/assets/set_6.png)
 **Ex 1**
