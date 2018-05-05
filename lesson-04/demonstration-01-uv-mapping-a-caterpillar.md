@@ -1,10 +1,10 @@
 ![](/assets/I_1.jpg)
 **Ex 1**
-We are going to learn about texture now starting with a cube
+We are going to learn about **texture** now, starting with a cube
 
 ![](/assets/I_2.jpg)
 **Ex 1**
-Enter quad view and extrude multiple segments by face
+Enter **quad-view** and extrude multiple segments by the face
 
 ![](/assets/I_3.jpg)
 **Ex 1**
@@ -44,11 +44,11 @@ Setup a mirroring modifier so that we are only editing one side to visualize bot
 
 ![](/assets/I_12.jpg)
 **Ex 1**
-Enable proportional editing
+Enable proportional-editing
 
 ![](/assets/I_13.jpg)
 **Ex 1**
-Specify sharp and deform some anttenae
+Specify **sharp** and deform some antennas
 
 ![](/assets/I_14.jpg)
 **Ex 1**
@@ -56,7 +56,7 @@ Continue to deform your caterpillar's new shape
 
 ![](/assets/I_14b.jpg)
 **Ex 1**
-Mark seams wherever something changes on the surface of the object
+**Mark seams** wherever something changes on the surface of the object
 
 ![](/assets/I_15.jpg)
 **Ex 1**
@@ -64,19 +64,19 @@ Extend a face
 
 ![](/assets/I_16.jpg)
 **Ex 1**
-Use reference images like google maps if needed
+Use reference images like google images, or other sources, if needed
 
 ![](/assets/I_17.jpg)
 **Ex 1**
-Disable proportional editing when ready
+**Disable proportional **editing when ready
 
 ![](/assets/I_18.jpg)
 **Ex 1**
-Begin extruding the feet using the extrude individual modifier
+Begin extruding the feet using the **extrude individual modifier**
 
 ![](/assets/I_19.jpg)
 **Ex 1**
-Use combinations of edge selecting and enabling snap to get the feet to common or desirable lengths
+Use combinations of **edge-selecting** and **enabling snap** to get the feet to common or desirable lengths
 
 ![](/assets/I_20.jpg)
 **Ex 1**
@@ -88,7 +88,7 @@ move legs outwards a bit
 
 ![](/assets/I_22.jpg)
 **Ex 1**
-Try using quad view to help decide placement
+Try using quad-view to help decide placement
 
 ![](/assets/I_23.jpg)
 **Ex 1**
@@ -112,7 +112,7 @@ Drag in a new window using the top corner of the viewing port and change it into
 
 ![](/assets/I_28.jpg)
 **Ex 1**
-Press control and e to bring up the edges menu - this is how you can mark seems once the edges have been selected
+Press **control + "e"** to bring up the edges menu- this is how you can mark seems once the edges have been selected
 
 ![](/assets/I_29.jpg)
 **Ex 1**
@@ -120,7 +120,7 @@ Mark seams wherever something changes dramatically on the object
 
 ![](/assets/I_30.jpg)
 **Ex 1**
-Use the numpad to switch between efficient perspectives
+Use the Numpad to switch between efficient perspectives
 
 ![](/assets/I_31.jpg)
 **Ex 1**
@@ -130,7 +130,7 @@ Use the numpad to switch between efficient perspectives
 
 ![](/assets/I_33.jpg)
 **Ex 1**
-Seams displayed in red
+Seams are displayed in red
 
 ![](/assets/I_34.jpg)
 **Ex 1**
@@ -167,7 +167,7 @@ Select the whole object
 
 ![](/assets/I_44.jpg)
 **Ex 1**
-You will get a flatted mapping that can be exported using this menu and modified in an image editor like photoshop
+You will get a flattened mapping that can be exported using this menu and modified in an image editor like Photoshop
 
 ![](/assets/I_45.jpg)
 **Ex 1**
@@ -214,7 +214,7 @@ Save the image
 
 ![](/assets/I_56.jpg)
 **Ex 1**
-Open your image within blender
+Open your new image within Blender
 
 ![](/assets/I_57.jpg)
 **Ex 1**
