@@ -1,53 +1,51 @@
 # Right-click and save these 2 images to a folder on your computer
+![](/assets/pawn front back and sides.jpg)**Reference image 1**
 
-
-![](/assets/pawn front back and sides.jpg)
-
-![](/assets/pawn top.jpg)
+![](/assets/pawn top.jpg)**Reference image 2**
 
 ![](/assets/C_1.jpg)
-
-we are going to open up a new file with a default cube
+**Ex 1**
+I open up a new file with a default cube
 
 ![](/assets/C_2.jpg)
-
-next we drag in the corresponding pawn images and assign them to the correct perspectives in the background images area
+**Ex 2**
+Next we **drag-in **the corresponding pawn images and **assign them to the correct perspectives in the background images area**
 
 ![](/assets/C_3.jpg)
-
-there is no actual bottom and you can drag the side image for the front and back left and right perspectives
+**Ex 3**
+There is no need for a bottom image.  You can use the side image for the front and back left and right perspectives as well
 
 ![](/assets/C_4.jpg)
-
-once everything is sorted you can minimize tabs to make things easier to see and verify
+**Ex 4**
+Once everything is sorted you can minimize tabs to make things easier to see and verify the accuracy of your work
 
 ![](/assets/C_5.jpg)
-
-make sure that you are emulating the numpad on the input tab of the user preferences if you are not using a traditional keyboard
+**Ex 5**
+Make sure that you are emulating the Numpad on the input tab of the user preferences if you are not using a traditional keyboard
 
 ![](/assets/C_6.jpg)
-
-if you are not using a traditional keyboard with a numpad your preferences should look like this
+**Ex 6**
+If you are not using a traditional keyboard with a Numpad your preferences should look like this
 
 ![](/assets/C_7.jpg)
-
-not if you push 5 repeatedly it should toggle between orthographic and two-point perspective views
+**Ex 7**
+Now if you push 5 repeatedly it should toggle between orthographic and two-point perspective views
 
 ![](/assets/C_8.jpg)
-
-now if you push the number keys you will orbit into very specific views and so long as you stay in orthographic mode you will see your reference images and your mesh geometry will be align itself to the reference image for the purpose of editing
+**Ex 8**
+Now if you push the number keys you will automatically orbit between very specific views. So long as you stay in orthographic mode you will see your reference images and your mesh geometry will be align itself to the reference image for the purpose of editing
 
 ![](/assets/C_9.jpg)
-
-the next step is to press g to scale the object to the dimension of the reference image
+**Ex 9**
+The next step is to press **"g"** to scale the object to the dimension of the reference image
 
 ![](/assets/C_10.jpg)
-
-if you press Z for wireframe mode you will see the image through the box
+**Ex 10**
+If you press Z for wireframe mode you will see the image through the box
 
 ![](/assets/C_11.jpg)
-
-if you look at this from above however the base is too dissimilar to continue when we could instead swap out a the square for a cylinder
+**Ex 11**
+If you look at this from above, however, the base is too dissimilar to continue when we could instead swap out a the square for a cylinder
 
 ![](/assets/C_12.jpg)
 
