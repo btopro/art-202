@@ -20,7 +20,7 @@ Click on the **magnet icon** below the main view port. This will enable snapping
 ![](/assets/9.png)
 **Ex 5**
 **Hold "shift"** and **press "d" **to **duplicate** the square.
-Next, click on any of the three colored green arrows and start to drag the duplicated over toward the original, so that vertices snap together.
+Next, **click on any of the three colored arrows** and start to **drag the duplicated over toward the original, so that vertices snap together.**
 
 
 ![](/assets/8.png)
@@ -37,6 +37,7 @@ Next, click on any of the three colored green arrows and start to drag the dupli
 
 ![](/assets/5.png)
 **Ex 9**
+You will see a **yellow circle** appear around the **vertex** that you are **snapping towards.**
 
 
 ![](/assets/4.png)
@@ -45,7 +46,7 @@ Next, click on any of the three colored green arrows and start to drag the dupli
 
 ![](/assets/3.png)
 **Ex 11**
-Eventually the square will be adjacent.
+Eventually the squares will be **flush** and **adjacent**.
 
 
 ![](/assets/2.png)
@@ -59,9 +60,9 @@ Next, go to **face-select.**
 
 ![](/assets/4_checkerboard.jpg)
 **Ex 14 **
-In this compound-image, I am demonstrating a sequence of duplication, arranging parts next to one another and then duplicating multiple parts, to facilitate an increasingly expansive array of identically-sized boxes. 
+In this **compound-image**, I am demonstrate a **sequence** of **duplication, arranging parts next to one another and then duplicating multiple parts, to facilitate an increasingly expansive array of identically-sized boxes. **
 
-Use **shift+d **to **duplicate** larger regions, snapping them together, until you have an 8 x 8 grid.
+Use **shift+d **to **duplicate** larger regions, snapping them together, until you have an **8 x 8 grid.**
 
 
 ![](/assets/5_checkerboard.jpg)
@@ -76,24 +77,24 @@ In this example, I switch to face-select-mode, select the edges of the board, pr
 
 ![](/assets/7_checkerboard.jpg)
 **Ex 17**
-Next, after de-enabling the snap-to function, I select the entire grid, by pressing "a", press shift + d to duplicate it and hover the duplicate, precisely, a value of .25 above the original.
+Next, after **de-enabling **the **snap-to function**, I select the entire grid, by pressing **"a"**, press **shift + d** to **duplicate** it and hover the duplicate, **precisely, a value of .25 above the original.**
 
 ![](/assets/8_checkerboard.jpg)
 **Ex 18**
-Next, I manipulate the squares in the corners by making new lines and replacing them with diagonal lines.
+Next, I manipulate the squares in the corners by making new lines **(selecting vertices and pressing "f", to makes lines or faces in-between them)** and replacing them with diagonal lines.
 ![](/assets/9_checkerboard.jpg)
 
 **Ex 20**
-Next, I enable snapping and, engage vertex-select-mode, and move / snap the upper, outer-most vertices to the lower ones, giving the board a beveled corner.
+Next, I **enable snapping** and, **engage vertex-select-mode**, and **move / snap the upper, outer-most vertices to the lower ones**, giving the board a **beveled corner.**
 
 ![](/assets/10_checkerboard.jpg)
 **Ex 21**
-Since the bottom is not visible, I will select and delete the interior, line-pattern from underneath.
+Since the **bottom is not visible**, I will select and delete the interior, line-pattern from underneath.
 
 ![](/assets/11_checkerboard.jpg)
 **Ex 11**
 
-Next, I will select the bottom 4 edges or face and make a slight (.125), z-constrained (by pressing the "z-button" after pressing "e") extrusion, downwards. This gives the impression of a felted-pad, as one may see on a nicer chessboard.
+Next, I will **select the bottom 4 edges or face** and make a slight (.125), **z-constrained (by pressing the "z-button" after pressing "e") extrusion, downwards.** This gives the impression of a felted-pad, as one may see on a nicer chessboard.
 
 ![](/assets/12_checkerboard.jpg)
 **Ex 12**
