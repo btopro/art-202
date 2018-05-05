@@ -58,11 +58,11 @@ Make sure to constrain your movement accordingly so that the wedge lines up on b
 
 ![](/assets/D_14.jpg)
 **Ex 14**
-Carefully select the faces of the four sides of the insert - hold shift and press D to duplicate this form and drag it away and click to place the duplicate
+Carefully select the faces of the four sides of the insert. hold **shift and press "d" to duplicate this form.** Drag it out of the way and left-click to place the duplicate.
 
 ![](/assets/D_15.jpg)
 **Ex 15**
-Press Shift and D again followed by P - this is how you duplicate an object to its own layer
+Press **Shift + "d"** again, followed by **"p"**. **_This is how you duplicate an object to its own layer_**
 
 ![](/assets/D_16.jpg)
 **Ex 16**
@@ -70,11 +70,11 @@ Clean up the extra geometry and floating box from the bishop layer - rename the 
 
 ![](/assets/D_17.jpg)
 **Ex 17**
-Selected the object layer that you want to carve into - add a Boolean Modifier - choose the difference setting and select the wedge layer from the entry window- finally hit apply
+Select the object layer that you want to carve into. Add a Boolean Modifier, from the window on the right. Choose the necessary settings and select the wedge layer from the entry window. Finally, hit apply.
 
 ![](/assets/D_18.jpg)
 **Ex 18**
-Now clean up the extra vertices edges and faces
+Now, clean up the extra vertices edges and faces.
 
 ![](/assets/D_19.jpg)
 **Ex 19**
