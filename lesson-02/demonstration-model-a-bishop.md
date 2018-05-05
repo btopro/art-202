@@ -1,8 +1,8 @@
 # Right-click and save these 4 images to a file on your computer
-![](/assets/bishop front.jpg)Reference image 1
-![](/assets/bishop back.jpg)Reference image 2
-![](/assets/bishop top.jpg)Reference image 3
-![](/assets/bishop side.jpg)Reference image 4
+![](/assets/bishop front.jpg)**Reference image 1**
+![](/assets/bishop back.jpg)**Reference image 2**
+![](/assets/bishop top.jpg)**Reference image 3**
+![](/assets/bishop side.jpg)**Reference image 4**
 
 ![](/assets/D_1.jpg)
 **Ex 1**
