@@ -59,8 +59,41 @@
 
 ---
 
-* [Week 6: The Big Pictures](lesson-12.md)
-  * [Demonstration-01- Rendering](lesson-06/demonstration-01-Rendering.md)
-  * [Assignment-01- Submit 5 compelling renders](lesson-06/Submit-5-compelling-render.md)
-  * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-06/Summarize-5-renders.md)
+* [Week 7: PBR (Physically Based Rendering) / Materials](a)
+ * [Watch Blender Guru on PBR Part One and Two]()
+ * [Recreate Andrew Price's Physically Descriptive, PBR Node-System]()
+ * [Apply the Physically Descriptive Node-System to an original object]() 
+ * [Give feedback]() 
+---
+
+* [Week 8: Creation, Part 1](t)
+ * [Create an animal or a machine and give it a habitat]()
+ * [Light the environment adjust materials and prepare render settings]()
+ * [Give Feedback]()
+---
+* [Week 9: Creation, Part 2](t)
+ * [advanced render settings]()
+ * [add plants or furniture to your environment, using masking / transparency]()
+ * [Give Feedback]()
+---
+* * [Week 10: The Big Pictures](lesson-12.md)
+  * [Demonstration-01- Rendering](lesson-10/demonstration-01-Rendering.md)
+  * [Assignment-01- Submit 5 compelling renders](lesson-10/Submit-5-compelling-render.md)
+  * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-10/Summarize-5-renders.md)
+---
+* [Week 11:](t)
+ * [Take multi-perspective Images from the real world and model a complex object](a)
+ * [Give Feedback](a)
+---
+* [Week 12: ](t)
+ * [Complete the Real World object](a)
+ * [Place and render the Real World object in a compelling environment and render](a)
+
+
+
+
+
+
+
+
 
