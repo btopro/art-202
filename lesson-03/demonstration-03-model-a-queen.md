@@ -1,9 +1,10 @@
 # Right-click and save these 3 images to a folder on your computer
 
-![](/assets/queen side.jpg)
-![](/assets/queen top.jpg)
-![](/assets/queen front and back.jpg)
-
+![](/assets/queen side.jpg)**Reference image 1**
+Use side for both sides
+![](/assets/queen top.jpg)**Reference image 2**
+![](/assets/queen front and back.jpg)**Reference image 3**
+Use front and back for both front and back
 
 ![](/assets/H_1.jpg)
 
