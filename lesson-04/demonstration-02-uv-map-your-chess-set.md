@@ -126,81 +126,90 @@ This will adjust the viewable options in the Materials Modifier-Window
 
 ![](/assets/set_33.png)
 **Ex 33**
+I click the "+"sign in the window to create a new material
 
 ![](/assets/set_34.png)
-**Ex 1**
-
-![](/assets/set_35.png)
-**Ex 1**
+**Ex 34**
+Notice there is a grey square with a circle on it, to the right of where it says color and shows a light grey color. Click on that.
 
 ![](/assets/set_36.png)
-**Ex 1**
+**Ex 35**
+Next click Image Texture
 
 ![](/assets/set_37.png)
-**Ex 1**
+**Ex 36**
+Press the button in the middle of the window labeled "Assign"
 
 ![](/assets/set_38.png)
-**Ex 1**
+**Ex 37**
+Under the collapsed section for Surface, click on "open" to choose an image
 
 ![](/assets/set_39.png)
-**Ex 1**
+**Ex 38**
+Choose the most recent image that we made
 
 ![](/assets/set_40.png)
-**Ex 1**
+**Ex 39**
+Now, change the viewport shading in the viewport to texture.
 
 ![](/assets/set_41.png)
-**Ex 1**
+**Ex 40**
+Voila
 
 ![](/assets/set_42.png)
-**Ex 1**
+**Ex 41**
 
 ![](/assets/set_43.png)
-**Ex 1**
+**Ex 42**
+For the next few steps I adjust the Image Texture in Photoshop
 
 ![](/assets/set_44.png)
-**Ex 1**
+**Ex 43**
+I select the grey bars in-between the marble like texture and I make them smaller. In theory, these can sometimes just be deleted, thought it would be harder to have reference for the folds, later on, if necessary
 
 ![](/assets/set_45.png)
-**Ex 1**
+**Ex 44**
 
 ![](/assets/set_46.png)
-**Ex 1**
+**Ex 45**
 
 ![](/assets/set_47.png)
-**Ex 1**
+**Ex 46**
 
 ![](/assets/set_48.png)
-**Ex 1**
+**Ex 47**
 
 ![](/assets/set_49.png)
-**Ex 1**
+**Ex 48**
 
 ![](/assets/set_50.png)
-**Ex 1**
+**Ex 49**
 
 ![](/assets/set_51.png)
-**Ex 1**
+**Ex 50**
 
 ![](/assets/set_52.png)
-**Ex 1**
+**Ex 51**
 
 ![](/assets/set_53.png)
-**Ex 1**
+**Ex 52**
+I import the new texture
 
 ![](/assets/set_54.png)
-**Ex 1**
+**Ex 53**
+Much better
 
 ![](/assets/set_55.png)
-**Ex 1**
+**Ex 54**
 
 ![](/assets/set_56.png)
-**Ex 1**
+**Ex 55**
 
 ![](/assets/set_57.png)
-**Ex 1**
+**Ex 56**
 
 ![](/assets/set_58.png)
-**Ex 1**
+**Ex 57**
 
 ![](/assets/set_59.png)
 **Ex 1**
