@@ -21,9 +21,9 @@
 ---
 
 * [Week 2: The Parts and the Pieces, Part 1](lesson-02.md)
-  * [Demonstration-01- Model a Pawn](lesson-01/demonstration-model-a-pawn.md)
+  * [Demonstration-01- Model a Pawn](lesson-02/demonstration-model-a-pawn.md)
   * [Demonstration-02- Model a Bishop](lesson-02/demonstration-model-a-bishop.md)
-  * [Demonstration-03- Model a Knight](lesson-03/demonstration-model-a-knight.md)
+  * [Demonstration-03- Model a Knight](lesson-02/demonstration-model-a-knight.md)
   * [Assignment-01- Model a Pawn](lesson-02/assignment-1-model-a-pawn.md)
   * [Assignment-02- Model a Bishop](lesson-02/assignment-2-model-a-bishop.md)
   * [Assignment-03- Model a Knight](lesson-02/assignment-01-model-a-knight.md)
