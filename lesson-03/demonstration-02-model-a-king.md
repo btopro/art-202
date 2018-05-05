@@ -1,8 +1,10 @@
 # Right-click and save these 3 images to a folder on your computer
 
 ![](/assets/king front and back.jpg)**Reference image 1**
+Use front and back for both front and back
 ![](/assets/king top.jpg)**Reference image 2**
 ![](/assets/king side.jpg)**Reference image 3**
+Use side for both left and right sides
 
 ![](/assets/G_1.jpg)
 **Ex 1**
