@@ -212,7 +212,7 @@ Much better
 **Ex 57**
 
 ![](/assets/set_59.png)
-**Ex 1**
+**Ex 58**
 
 ![](/assets/set_60.png)
 **Ex 1**
