@@ -82,7 +82,7 @@
   * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-10/Summarize-5-renders.md)
 ---
 * [Week 11:](t)
- * [Take multi-perspective Images from the real world and model and complex object](a)
+ * [Take multi-perspective Images from the real world and model a complex object](a)
  * [Give Feedback](a)
 ---
 * [Week 12: ](t)
