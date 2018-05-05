@@ -45,63 +45,65 @@ If you press Z for wireframe mode you will see the image through the box
 
 ![](/assets/C_11.jpg)
 **Ex 11**
-If you look at this from above, however, the base is too dissimilar to continue when we could instead swap out a the square for a cylinder
+If you look at this from above, however, the base is unnecessarily dissimilar to continue when we could instead swap out a the square for a cylinder
 
 ![](/assets/C_12.jpg)
-
-we now delete the cube press shift S to bring up a menu select move cursor to center and press shift a to select to insert a cylinder from the mesh category
+**Ex 12**
+We now delete the cube press shift S to bring up a menu select move cursor to center and press shift a to select to insert a cylinder from the mesh category
 
 ![](/assets/C_13.jpg)
+**Ex 13**
 
 ![](/assets/C_14.jpg)
-
-we can scale the cylinder to the write size using the same method as the square
+**Ex 14**
+We can scale the cylinder to the correct size, using the same method as the square
 
 ![](/assets/C_15.jpg)
+**Ex 15**
 
 ![](/assets/C_16.jpg)
-
-next we subdivide the cylinder using the menu assigned to the w key and adjusting the number of subdivisions to something larger
+**Ex 16**
+Next, we subdivide the cylinder using the menu assigned to the w key and adjusting the number of subdivisions to something larger
 
 ![](/assets/C_17.jpg)
-
+**Ex 17**
 be sure to select edges and vertices with a selection tool so that you also get hidden ones then vertically orient your slices to match the pawn reference image
 
 ![](/assets/C_18.jpg)
-
-here are some steps as things get spaced
+**Ex 18**
+Here are some steps of the edges being spaced
 
 ![](/assets/C_19.jpg)
-
-if you switch back and forth between your views you can see how the shape starts to take form
+**Ex 19**
+If you switch back and forth between your views you can see how the shape starts to take form
 
 ![](/assets/C_20.jpg)
-
-a few more similar steps
+**Ex 20**
+A few more similar steps
 
 ![](/assets/C_21.jpg)
-
-I carefully select the vertices and correct for it with the shrink or fatten function
+**Ex 21a**
+I happen to have some extra stuff remaining. I carefully select the vertices and correct for it with the shrink or fatten function
 
 ![](/assets/C_21b.jpg)
-
-I happen to have some extra stuff remaining
+**Ex 21b**
 
 ![](/assets/C_22.jpg)
-
-at this point only the top and bottom need adjustment and this can be done by selecting the rings extruding new points in the immediate location and pressing alt or option and M to merge at center
+**Ex 22**
+At this point only the top and bottom need adjustment, and this can be done by selecting the rings, extruding new points in the immediate location and pressing alt or option + "m" to merge them at their center
 
 ![](/assets/C_23.jpg)
-
-afterwards it should look something like this
+**Ex 23**
+Afterwards it should look something like this
 
 ![](/assets/C_24.jpg)
-
-if the bottom is a high-polygon face for now that is fine or use the last-described method
+**Ex 24**
+If the bottom is a high-polygon face for now that is fine or use the last-described method
 
 ![](/assets/C_25.jpg)
+**Ex 25**
 
 ![](/assets/C_26.jpg)
-
-your final object should look something like this
+**Ex 26**
+Your final object should look something like this
 
