@@ -70,4 +70,4 @@ With some tweaking it will take form
 
 ![](/assets/F_16.jpg)
 **Ex 16**
-Apply a **mirror modifier** to complete the other half and double check with a **subdivision modifier** or by briefly selecting **"smooth"** in the function menu on the left, to enjoy the results of good polygon spacing. Save without having applied the subdivision modifier.
+Apply a **mirror modifier** to complete the other half and double check with a **subdivision modifier** or by briefly selecting **"smooth"** in the function menu on the left, to enjoy the results of good polygon spacing. **Save without having applied the subdivision modifier.**
