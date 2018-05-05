@@ -1,4 +1,4 @@
-![](/assets/set_1.png)
+****![](/assets/set_1.png)
 **Ex 1**
 First, I open up an existing file, with the same Knight that we created earlier.
 
@@ -8,17 +8,19 @@ Next I open up a new window and **specify the view-type as UV/Image editor**
 
 ![](/assets/set_3.png)
 **Ex 3**
-Next I switch into Edit-Mode
+Next I switch into** Edit-Mode**
 
 ![](/assets/set_4.png)
 **Ex 4**
-Next I press "u" and select Smart UV Project, deferring to an algorithm to decide how the mesh unwraps.
+Next I press **"u"** and select **Smart UV Project,** deferring to an algorithm to decide how the mesh unwraps.
 
 ![](/assets/set_5.png)
 **Ex 5**
+I use the default settings
 
 ![](/assets/set_6.png)
-**Ex 1**
+**Ex 6**
+And I press **"ok"** to have them apply
 
 ![](/assets/set_7.png)
 **Ex 1**
