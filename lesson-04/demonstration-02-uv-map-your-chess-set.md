@@ -59,49 +59,62 @@ Next, I select the bottom layer, select the whole image with **ctrl or command +
 Next, I fill it with the background color, by pressing **ctrl or command + delete**
 
 ![](/assets/set_16.png)
-**Ex 17**
+**Ex 16**
+Next, I select **Add Noise** from the **Filter Menu** in the **toolbar**
 
 ![](/assets/set_17.png)
-**Ex 18**
+**Ex 17**
+I add the most that I can
 
 ![](/assets/set_18.png)
-**Ex 19**
+**Ex 18**
+Then I manipulate the noise with a Gaussian Blur
 
 ![](/assets/set_19.png)
-**Ex 20**
+**Ex 19**
+Next I desaturate the texture using the Hue/Saturation tool **(ctrl / command + U)**
 
 ![](/assets/set_20.png)
-**Ex 21**
+**Ex 20**
+I then apply Auto contrast
 
 ![](/assets/set_21.png)
-**Ex 1**
+**Ex 21**
 
 ![](/assets/set_22.png)
-**Ex 1**
+**Ex 22**
+I adjust the Hue
 
 ![](/assets/set_23.png)
-**Ex 1**
+**Ex 23**
+I bump the saturation back down, progressively attenuating a black and white texture
 
 ![](/assets/set_24.png)
-**Ex 1**
+**Ex 24**
+I re-apply Auto Contrast
 
 ![](/assets/set_25.png)
-**Ex 1**
+**Ex 25**
+Auto Tone
 
 ![](/assets/set_26.png)
-**Ex 1**
+**Ex 26**
+And I am content with my synthetic, marble-like texture.
 
 ![](/assets/set_27.png)
-**Ex 1**
+**Ex 27**
 
 ![](/assets/set_28.png)
-**Ex 1**
+**Ex 28**
+So, I save it with a somewhat descriptive name
 
 ![](/assets/set_29.png)
-**Ex 1**
+**Ex 29**
+And I open it up in Blender
 
 ![](/assets/set_30.png)
-**Ex 1**
+**Ex 30**
+Here you can see that the image has been updated within the UV/Image Editor Window.
 
 ![](/assets/set_31.png)
 **Ex 1**
