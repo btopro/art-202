@@ -60,7 +60,7 @@
 ---
 
 * [Week 6: The Big Pictures](lesson-12.md)
-  * [Demonstration-01- Rendering](lesson-06/demonstration-Rendering.md)
+  * [Demonstration-01- Rendering](lesson-06/demonstration-01-Rendering.md)
   * [Assignment-01- Submit 5 compelling renders](lesson-06/Submit-5-compelling-render.md)
   * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-06/Summarize-5-renders.md)
 
