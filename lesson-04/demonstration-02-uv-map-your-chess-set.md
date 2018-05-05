@@ -24,21 +24,27 @@ And I press **"ok"** to have them apply
 
 ![](/assets/set_7.png)
 **Ex 7**
+Under the image tab I select save all images
 
 ![](/assets/set_8.png)
-**Ex 1**
+**Ex 8**
+Here I look around for the **export UV layout** option.
 
 ![](/assets/set_9.png)
-**Ex 1**
+**Ex 9**
+Turns out it's under UV's
 
 ![](/assets/set_10.png)
-**Ex 1**
+**Ex 10**
+I export the UV map with a somewhat descriptive name
 
 ![](/assets/set_11.png)
-**Ex 1**
+**Ex 11**
+I proceed to open it up in photoshop 
 
 ![](/assets/set_12.png)
-**Ex 1**
+**Ex 12**
+First I **double-click the layer** and **press "ok" **so that I can edit the layer
 
 ![](/assets/set_13.png)
 **Ex 1**
