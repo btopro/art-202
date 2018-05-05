@@ -47,13 +47,18 @@ I proceed to open it up in photoshop
 First I **double-click the layer** and **press "ok" **so that I can edit the layer
 
 ![](/assets/set_13.png)
-**Ex 1**
+**Ex 13** 
+Next I duplicate the layer using **command or ctrl + J**, with only the layer selected
 
 ![](/assets/set_14.png)
-**Ex 1**
+**Ex 14** 
+Next, I select the bottom layer and fill it with the foreground color, by pressing **ctrl + delete**
 
 ![](/assets/set_15.png)
-**Ex 1**
+**Ex 15**
+Next, I fill it with the background color, by pressing **alt or option + delete**
+
+
 
 ![](/assets/set_16.png)
 **Ex 1**
