@@ -6,43 +6,43 @@
 
 ![](/assets/D_1.jpg)
 **Ex 1**
-for our bishop we are going to start with a cylinder
+For our bishop we are going to start with a **cylinder**
 
 ![](/assets/D_2.jpg)
 **Ex 2**
-Press N to bring up the menu with background image management in it
+Press **"n"** to bring up a menu and locate **background image management** within in it
 
 ![](/assets/D_3.jpg)
 **Ex 3**
-Import and manage the bishop files accordingly
+**Import and manage** the bishop files accordingly
 
 ![](/assets/D_4.jpg)
 **Ex 4**
-Make sure to adjust your input preferences if you do not have a traditional numpad on your keyboard
+Make sure to **adjust your input preferences** if you do not have a traditional Numpad on your keyboard
 
 ![](/assets/D_5.jpg)
 **Ex 5**
-Use the s button to scale the bishop to the correct size- make sure that you are in orthographic mode
+Use the **"s"** button to **scale the cylinder to the correct size**- make sure that you are in **orthographic mode** by pressing **"5"**
 
 ![](/assets/D_6.jpg)
 **Ex 6**
-Select and edge then select loop and slide- once the cursor has been oriented on the model use the scroll wheel to give yourself several horizontal cuts
+**Select and edge.** Then, select **loop and slide.** Once the cursor has been **oriented on the model,** and the **correctly-oriented line** is displayed (in **magenta**) **use the scroll wheel to give yourself several horizontal cuts**
 
 ![](/assets/D_7.jpg)
 **Ex 7**
-Use the border selection tool to select and vertically align the horizontal slices to the regions where the most critical changes occur on the object's surface- make more loop cuts casually as needed so as not to flood the viewing plane at first
+Use **"b",** the **border-selection tool** to s**elect and vertically align the horizontal slices to the regions where the most critical changes occur on the object's surface**- make more loop cuts casually **as needed** so as not to flood the viewing plane at first
 
 ![](/assets/D_8.jpg)
 **Ex 8**
-Use the s key to enable scaling- after you select and scale the section cuts horizontally to fit the bishops width make sure that each individual scaling occurs on both the x and y dimensions
+Use the **"s"** key to scale your object. After you select and scale the section cuts (horizontally to fit the bishops width) **make sure that each individual scaling occurs on _both_ the x and y dimensions**
 
 ![](/assets/D_9.jpg)
 **Ex 9**
-Carefully make an edgeloop close to the top so that you can merge the top circle using alt or option and m followed by merge to center
+Carefully make an **edge-loop**, close to the top, so that you can **merge the top circle using alt or option and "m", followed by "merge to center"**
 
 ![](/assets/D_10.jpg)
 **Ex 10**
-After you have successfully merged your top make sure that there are only 4 edge loops bisecting the corners of the Bishops cut- this will make the geometry easier to work with later on
+After you have successfully merged your top **make sure that there are only 4 edge loops bisecting the corners of the Bishops cut. This will make the geometry easier to work with later on**
 
 ![](/assets/D_11.jpg)
 **Ex 11**
@@ -50,7 +50,7 @@ Carefully select the vertices making up the interior of the bishop's cut and tur
 
 ![](/assets/D_12.jpg)
 **Ex 12**
-Next, extrude the face to creat another connecting face of identical proportions- then enable snapping with to-vertices specified and use g to move the extrusion to opposite end of the cut 
+Next, extrude the face to create another connecting face of identical proportions. Then, **enable snapping** with **to-vertices** specified and use **"g"** to **move the extrusion to the opposite end of the cut **
 
 ![](/assets/D_13.jpg)
 **Ex 13**
