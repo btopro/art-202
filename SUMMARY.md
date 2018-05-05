@@ -34,7 +34,7 @@
 * [Week 3: The Parts and the Pieces, Part 2](lesson-03.md)
   * [Demonstration-01- Model a Rook](lesson-03/demonstration-01-model-a-rook.md)
   * [Demonstration-02- Model a King](lesson-03/demonstration-02-model-a-king.md)
-  * [Demonstration-03- Model a queen](lesson-03/demonstration-Model-a-Queen.md)
+  * [Demonstration-03- Model a queen](lesson-03/demonstration-03-model-a-queen.md)
   * [Assignment-01- Model a Rook](lesson-03/assignment-01-model-a-rook.md)
   * [Assignment-02- Model a King](lesson-03/assignment-02-model-a-king.md)
   * [Assignment-03- Model a Queen](lesson-03/assignment-03-model-a-queen.md)
