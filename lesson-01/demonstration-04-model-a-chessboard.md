@@ -54,12 +54,14 @@ Eventually the square will be adjacent.
 
 ![](/assets/1.png)
 **Ex 13**
-Next, go to face select.
+Next, go to **face-select.**
 
 
 ![](/assets/4_checkerboard.jpg)
 **Ex **
 pattern montage
+
+Use **shift+d **to **duplicate** larger regions, snapping them together, until you have an 8 x 8 grid.
 
 
 ![](/assets/5_checkerboard.jpg)
