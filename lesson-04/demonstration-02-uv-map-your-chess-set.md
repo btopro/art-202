@@ -52,28 +52,26 @@ Next I duplicate the layer using **command or ctrl + J**, with only the layer se
 
 ![](/assets/set_14.png)
 **Ex 14** 
-Next, I select the bottom layer and fill it with the foreground color, by pressing **ctrl + delete**
+Next, I select the bottom layer, select the whole image with **ctrl or command + "a" **and fill it with the foreground color, by pressing **option or alt + delete**
 
 ![](/assets/set_15.png)
 **Ex 15**
-Next, I fill it with the background color, by pressing **alt or option + delete**
-
-
+Next, I fill it with the background color, by pressing **ctrl or command + delete**
 
 ![](/assets/set_16.png)
-**Ex 1**
+**Ex 17**
 
 ![](/assets/set_17.png)
-**Ex 1**
+**Ex 18**
 
 ![](/assets/set_18.png)
-**Ex 1**
+**Ex 19**
 
 ![](/assets/set_19.png)
-**Ex 1**
+**Ex 20**
 
 ![](/assets/set_20.png)
-**Ex 1**
+**Ex 21**
 
 ![](/assets/set_21.png)
 **Ex 1**
