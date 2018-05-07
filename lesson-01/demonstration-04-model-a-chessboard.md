@@ -101,11 +101,11 @@ Next, I will **select the bottom 4 edges or face** and make a slight (.125), **z
 
 
 ![](/assets/13_checkerboard.jpg)
-**Ex **
+**Ex 13**
 
 
 ![](/assets/14_checkerboard.jpg)
-**Ex 13**
+**Ex 14**
 Done!
 
 
