@@ -1,9 +1,18 @@
 # Topics
 
-* Polygonal Modeling 
-* A Brief History of 3D Modeling  
-* Overview of Design Principles and Aesthetic Considerations
-* Perspective / Raytracing
+* Polygonal Modeling: "In 3D computer graphics, Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons" [From Wikipedia](https://en.wikipedia.org/wiki/Polygonal_modeling)
+
+* 3D Modeling: "In 3D computer graphics, 3D modeling (or three-dimensional modeling) is the process of developing a mathematical representation of any surface of an object (either inanimate or living) in three dimensions via specialized software." [From Wikipedia](https://en.wikipedia.org/wiki/3D_modeling)
+
+  
+* Visual design elements and principles: Read this linked [article](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
+
+* Perspective: Read each of [these 6, linked definitions of perspective.](https://en.wikipedia.org/wiki/Perspective)
+
+* Raytracing: Read, specifically, this linked [article](https://en.wikipedia.org/wiki/Ray_tracing), pertaining to Graphics.
+
+
+
 * Introduction of Basic Technical Concepts
 * Introduction to Blender
 * Introduction to Blender workflow and hot-keys
@@ -28,8 +37,9 @@
 
 ### Blender Guru
  * [Blender Beginner Tutorial - Part 1: User Interface](https://www.youtube.com/watch?v=JYj6e-72RDs)
- * [Scaling](https://www.youtube.com/watch?v=s05DiCEDVGE)
-[Blender Beginner Tutorial - Part 3: Edit Mode](https://www.youtube.com/watch?v=qqeNA_4O0Qg)
+ 
+ * [Blender Beginner Tutorial - Part 2: Moving, Rotating, Scaling](https://www.youtube.com/watch?v=s05DiCEDVGE&t=49s)
+ * [Blender Beginner Tutorial - Part 3: Edit Mode](https://www.youtube.com/watch?v=qqeNA_4O0Qg)
 
 ### Lynda
 
