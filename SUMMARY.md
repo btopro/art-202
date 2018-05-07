@@ -18,8 +18,8 @@
   * [Demonstration-04- Model a Chessboard](lesson-01/demonstration-04-model-a-chessboard.md)
   * [Assignment-01- Model a Gem](lesson-01/assignment-1-model-a-gem.md)
   * [Assignment-02- Model a Diamond](lesson-01/assignment-2-model-a-diamond.md)
-  * [Assignment-03- Model a Chessboard](lesson-01/assignment-1-model-a-chessboard.md)
-  * [Assignment-04- Give feedback](lesson-01/assignment-04-give-feedback.md)
+  * [Assignment-03- Model a Chessboard](lesson-01/assignment-3-model-a-chessboard.md)
+  * [Assignment-04- Give feedback](lesson-01/assignment-4-give-feedback.md)
 
 ---
 
