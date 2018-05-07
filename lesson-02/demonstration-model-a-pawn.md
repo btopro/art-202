@@ -1,7 +1,7 @@
 # Right-click and save these 2 images to a folder on your computer
-![](/assets/pawn front back and sides.jpg)**Reference image 1**
+![](/assets/pawn front back and sides.jpg)**Pawn All Sides**
 
-![](/assets/pawn top.jpg)**Reference image 2**
+![](/assets/pawn top.jpg)**Pawn Top**
 
 ![](/assets/C_1.jpg)
 **Ex 1**
