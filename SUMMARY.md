@@ -59,14 +59,15 @@
 
 ---
 * [Week 6: PBR (Physically Based Rendering / Materials ](a)
- * [blank](d)
-
----
-* [Week 7: ](a)
  * [Watch Blender Guru on PBR Part One and Two]()
  * [Recreate Andrew Price's Physically Descriptive, PBR Node-System]()
  * [Apply the Physically Descriptive Node-System to an original object]() 
- * [Give feedback]() 
+ * [Give feedback]()
+
+---
+* [Week 7: ](a)
+ * [blank](blank)
+ * [blank](blank)
 ---
 
 * [Week 8: Creation, Part 1](t)
