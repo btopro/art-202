@@ -8,7 +8,7 @@
 
 ---
 
-* [Week 1: The Environment and the Playing Field](lesson-01.md)
+* [Lesson 1: The Environment and the Playing Field](lesson-01.md)
   * [Demonstration-01- Improvised Modeling](lesson-01/demonstration-01-improvised-modeling.md)
   * [Demonstration-02- Model a Gem](lesson-01/demonstration-02-model-a-gem.md)
   * [Demonstration-03- Model a Diamond](lesson-01/demonstration-03-model-a-diamond.md)
@@ -20,7 +20,7 @@
 
 ---
 
-* [Week 2: The Parts and the Pieces, Part 1](lesson-02.md)
+* [Lesson 2: The Parts and the Pieces, Part 1](lesson-02.md)
   * [Demonstration-01- Model a Pawn](lesson-02/demonstration-model-a-pawn.md)
   * [Demonstration-02- Model a Bishop](lesson-02/demonstration-model-a-bishop.md)
   * [Demonstration-03- Model a Knight](lesson-02/demonstration-model-a-knight.md)
@@ -31,7 +31,7 @@
 
 ---
 
-* [Week 3: The Parts and the Pieces, Part 2](lesson-03.md)
+* [Lesson 3: The Parts and the Pieces, Part 2](lesson-03.md)
   * [Demonstration-01- Model a Rook](lesson-03/demonstration-01-model-a-rook.md)
   * [Demonstration-02- Model a King](lesson-03/demonstration-02-model-a-king.md)
   * [Demonstration-03- Model a queen](lesson-03/demonstration-03-model-a-queen.md)
@@ -42,7 +42,7 @@
 
 ---
 
-* [Week 4: The Surface and Beyond, Part 1](lesson-04.md)
+* [Lesson 4: The Surface and Beyond, Part 1](lesson-04.md)
   * [Demonstration-01- UV Mapping A Caterpillar ](lesson-04/demonstration-01-uv-mapping-a-caterpillar.md)
   * [Demonstration-02- UV Map Your Chess Set](lesson-04/demonstration-02-uv-map-your-chess-set.md)
   * [Demonstration-03- Materials](lesson-04/demonstration-03-applying-materials-to-your-chess-set.md)
@@ -51,45 +51,45 @@
 
 ---
 
-* [Weeks 5: The Age of Enlightenment](lesson-10.md)
+* [Lesson 5: The Age of Enlightenment](lesson-10.md)
   * [Demonstration-01- Lighting](lesson-05/demonstration-01-Lighting.md)
   * [Assignment-01- Share completed set for feedback](lesson-05/assignment-1-share-set-for-feedback.md)
   * [Assignment-02- Submit a screen-grab of your light layout](lesson-05/assignment-2-submit-a-screen.md)
   * [Assignment-03- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](lesson-05/assignment-3-summary.md)
 
 ---
-* [Week 6: PBR (Physically Based Rendering / Materials ](a)
+* [Lesson 6: PBR (Physically Based Rendering / Materials ](a)
  * [Watch Blender Guru on PBR Part One and Two]()
  * [Recreate Andrew Price's Physically Descriptive, PBR Node-System]()
  * [Apply the Physically Descriptive Node-System to an original object]() 
  * [Give feedback]()
 
 ---
-* [Week 7: ](a)
+* [Lesson 7: ](a)
  * [blank](blank)
  * [blank](blank)
 ---
 
-* [Week 8: Creation, Part 1](t)
+* [Lesson 8: Creation, Part 1](t)
  * [Create an animal or a machine and give it a habitat]()
  * [Light the environment adjust materials and prepare render settings]()
  * [Give Feedback]()
 ---
-* [Week 9: Creation, Part 2](t)
+* [Lesson 9: Creation, Part 2](t)
  * [advanced render settings]()
  * [add plants or furniture to your environment, using masking / transparency]()
  * [Give Feedback]()
 ---
-* * [Week 10: The Big Pictures](lesson-12.md)
+* * [Lesson 10: The Big Pictures](lesson-12.md)
   * [Demonstration-01- Rendering](lesson-10/demonstration-01-Rendering.md)
   * [Assignment-01- Submit 5 compelling renders](lesson-10/Submit-5-compelling-render.md)
   * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-10/Summarize-5-renders.md)
 ---
-* [Week 11:](t)
+* [Lesson 11:](t)
  * [Take multi-perspective Images from the real world and model a complex object](a)
  * [Give Feedback](a)
 ---
-* [Week 12: ](t)
+* [Lesson 12: ](t)
  * [Complete the Real World object](a)
  * [Place and render the Real World object in a compelling environment and render](a)
 
