@@ -1,3 +1,8 @@
+# Topics / Terms
+ * Nurbs Modeling (Non-uniform rational B-spline): Read [this article](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) 
+ * [Read this list of basic 3D Terminologies and comparison of Polygon Modeling vs. Nurbs Modeling ](https://i.materialise.com/blog/3d-modeling-terms/)
+
+
 # **Blender Guru**
  * [Blender Beginner Modeling Tutorial - Part 2: Boolean!](https://www.youtube.com/watch?v=WxMwa0njGSM&t=10s)
  * [Blender Beginner Modeling Tutorial - Part 3: Sharpening Edges](https://www.youtube.com/watch?v=lITV4F_P4E0)

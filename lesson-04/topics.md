@@ -1,6 +1,4 @@
 # Topics / Terms
- * Nurbs Modeling (Non-uniform rational B-spline): Read [this article](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) 
- * [Read this list of basic 3D Terminologies and comparison of Polygon Modeling vs. Nurbs Modeling ](https://i.materialise.com/blog/3d-modeling-terms/)
  * Diffusion / subsurface scattering: Read [this article](https://en.wikipedia.org/wiki/Subsurface_scattering)
  * bump map
  * normal map
