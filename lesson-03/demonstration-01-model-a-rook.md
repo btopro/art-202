@@ -1,12 +1,9 @@
 # Right-click and save these 3 images
 
-![](/assets/rook top.jpg)**Reference image 1**
-![](/assets/fixed rook side.jpg)**Reference image 2**
+![](/assets/rook top.jpg)**Rook Top**
+![](/assets/fixed rook side.jpg)**Rook Front and Back**
 Use for both front and back
-
-
-
-![](/assets/rook sidea.jpg)**Reference image 3**
+![](/assets/rook sidea.jpg)**Rook Sides**
 Use for both left and right sides
 
 
