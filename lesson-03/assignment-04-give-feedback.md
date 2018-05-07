@@ -2,7 +2,7 @@
 
 Make sure that your submission is **titled in the following format: **
 
-**Last name, First name,** the word **"Week"** followed by the **Week number,** and the **word "Assignment"** followed by the **Assignment number.**
+**Last name, First name,** the word **"Lesson"** followed by the **Lesson number,** and the **word "Assignment"** followed by the **Assignment number.**
 
 **Example:**
 Brill Ian Lesson x Assignment x
