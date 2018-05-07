@@ -1,3 +1,5 @@
+From Lynda
+
 **Blender: Essential Training**
 9. Cameras and Rendering
 Working with cameras
