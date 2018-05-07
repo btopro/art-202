@@ -47,8 +47,6 @@
 
 * [Lesson 4: The Surface and Beyond, Part 1](lesson-04.md)
   * [Topics](lesson-04/topics.md)
-  * [Terms](lesson-04/terms.md)
-  * [Tutorials](lesson-04/tutorials.md)
   * [Demonstration-01- UV Mapping A Caterpillar ](lesson-04/demonstration-01-uv-mapping-a-caterpillar.md)
   * [Demonstration-02- UV Map Your Chess Set](lesson-04/demonstration-02-uv-map-your-chess-set.md)
   * [Demonstration-03- Materials](lesson-04/demonstration-03-applying-materials-to-your-chess-set.md)
