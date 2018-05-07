@@ -11,7 +11,7 @@
 * [Lesson 1: The Environment and the Playing Field](lesson-01.md)
   * [Topics](lesson-01/topics.md)
   * [Terms](lesson-01/terms.md)
-
+  * [Tutorials](lesson-01/tutorials.md)
   * [Demonstration-01- Improvised Modeling](lesson-01/demonstration-01-improvised-modeling.md)
   * [Demonstration-02- Model a Gem](lesson-01/demonstration-02-model-a-gem.md)
   * [Demonstration-03- Model a Diamond](lesson-01/demonstration-03-model-a-diamond.md)
