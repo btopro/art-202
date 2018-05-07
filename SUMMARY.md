@@ -108,7 +108,7 @@
  * [add plants or furniture to your environment, using masking / transparency](d)
  * [Give Feedback](d)
 ---
-* * [Lesson 10: The Big Pictures](lesson-12.md)
+*  [Lesson 10: The Big Pictures](lesson-12.md)
   * [Topics](lesson-10/topics.md)
   * [Terms](lesson-10/terms.md)
   * [Tutorials](lesson-10/tutorials.md)
