@@ -1,3 +1,8 @@
+**Blender Guru**
+[Blender Beginner Tutorial - Part 8: Lighting](https://www.youtube.com/watch?v=0rbPwn-I0oM)
+[Mastering Lighting in Blender](https://www.youtube.com/watch?v=m-N149FMlWk)
+
+
 **Blender: Essential Training**
 **8. Working with Light**
 Fine-Tuning ray-trace shadows
