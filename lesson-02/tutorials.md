@@ -1,3 +1,7 @@
+[Blender Beginner Modeling Tutorial - Part 1](https://www.youtube.com/watch?v=yi87Dap_WOc&t=139s)
+
+
+
 **Blender: Hard Surface Modeling**
 Topics: 
 **1. Establishing the Foundation Forms**
