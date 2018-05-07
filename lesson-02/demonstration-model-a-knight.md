@@ -1,8 +1,8 @@
 # Right-click and save these 5 images to a folder on your computer
-![](/assets/knight front.jpg)**Reference image 1**
-![](/assets/knight back.jpg)**Reference image 2**
-![](/assets/knight left.jpg)**Reference image 3**
-![](/assets/knight top.jpg)**Reference image 4**
+![](/assets/knight front.jpg)**Knight Front**
+![](/assets/knight back.jpg)**Knight Back**
+![](/assets/knight left.jpg)**Knight Left**
+![](/assets/knight top.jpg)**Knight Top**
 
 ![](/assets/F_1.jpg)
 **Ex 1**
