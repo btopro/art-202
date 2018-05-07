@@ -23,8 +23,6 @@
 
 * [Lesson 2: The Parts and the Pieces, Part 1](lesson-02.md)
   * [Topics](lesson-02/topics.md)
-  * [Terms](lesson-02/terms.md)
-  * [Tutorials](lesson-02/tutorials.md)
   * [Demonstration-01- Model a Pawn](lesson-02/demonstration-model-a-pawn.md)
   * [Demonstration-02- Model a Bishop](lesson-02/demonstration-model-a-bishop.md)
   * [Demonstration-03- Model a Knight](lesson-02/demonstration-model-a-knight.md)
@@ -37,8 +35,6 @@
 
 * [Lesson 3: The Parts and the Pieces, Part 2](lesson-03.md)
   * [Topics](lesson-03/topics.md)
-  * [Terms](lesson-03/terms.md)
-  * [Tutorials](lesson-03/tutorials.md)
   * [Demonstration-01- Model a Rook](lesson-03/demonstration-01-model-a-rook.md)
   * [Demonstration-02- Model a King](lesson-03/demonstration-02-model-a-king.md)
   * [Demonstration-03- Model a queen](lesson-03/demonstration-03-model-a-queen.md)
@@ -70,66 +66,69 @@
   * [Assignment-03- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](lesson-05/assignment-3-summary.md)
 
 ---
+
 * [Lesson 6: Physically Based Rendering part One](lesson-06.md)
   * [Topics](lesson-06/topics.md)
   * [Terms](lesson-06/terms.md)
   * [Tutorials](lesson-06/tutorials.md)
   * [Recreate Andrew Price's Physically Descriptive, PBR Node-System](d)
-  * [Apply the Physically Descriptive Node-System to an original object](d) 
+  * [Apply the Physically Descriptive Node-System to an original object](d)
   * [Give feedback](d)
 
 ---
+
 * [Lesson 7: Physically Based Rendering part Two](lesson-07.md)
- * [Topics](lesson-07/topics.md)
- * [Terms](lesson-07/terms.md)
- * [Tutorials](lesson-07/tutorials.md)
- * [blank](blank)
- * [blank](blank)
+  * [Topics](lesson-07/topics.md)
+  * [Terms](lesson-07/terms.md)
+  * [Tutorials](lesson-07/tutorials.md)
+  * [blank](blank)
+  * [blank](blank)
+
 ---
 
 * [Lesson 8: Creation, Part 1](lesson-08.md)
- * [Topics](lesson-08/topics.md)
- * [Terms](lesson-08/terms.md)
- * [Tutorials](lesson-08/tutorials.md)
- * [Create an animal or a machine and give it a habitat](d)
- * [Light the environment adjust materials and prepare render settings](d)
- * [Give Feedback](d)
+  * [Topics](lesson-08/topics.md)
+  * [Terms](lesson-08/terms.md)
+  * [Tutorials](lesson-08/tutorials.md)
+  * [Create an animal or a machine and give it a habitat](d)
+  * [Light the environment adjust materials and prepare render settings](d)
+  * [Give Feedback](d)
+
 ---
+
 * [Lesson 9: Creation, Part 2](lesson-09.md)
- * [Topics](lesson-09/topics.md)
- * [Terms](lesson-09/terms.md)
- * [Tutorials](lesson-09/tutorials.md)
- * [advanced render settings](d)
- * [add plants or furniture to your environment, using masking / transparency](d)
- * [Give Feedback](d)
+  * [Topics](lesson-09/topics.md)
+  * [Terms](lesson-09/terms.md)
+  * [Tutorials](lesson-09/tutorials.md)
+  * [advanced render settings](d)
+  * [add plants or furniture to your environment, using masking / transparency](d)
+  * [Give Feedback](d)
+
 ---
-*  [Lesson 10: The Big Pictures- part 1](lesson-10.md)
+
+* [Lesson 10: The Big Pictures- part 1](lesson-10.md)
   * [Topics](lesson-10/topics.md)
   * [Terms](lesson-10/terms.md)
   * [Tutorials](lesson-10/tutorials.md)
   * [Demonstration-01- Rendering](lesson-10/demonstration-01-Rendering.md)
   * [Assignment-01- Submit 5 compelling renders](lesson-10/Submit-5-compelling-render.md)
   * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-10/Summarize-5-renders.md)
+
 ---
+
 * [Lesson 11: The Big Pictures- part 2](lesson-11.md)
- * [Topics](lesson-11/topics.md)
- * [Terms](lesson-11/terms.md)
- * [Tutorials](lesson-11/tutorials.md)
- * [Take multi-perspective Images from the real world and model a complex object](a)
- * [Give Feedback](a)
+  * [Topics](lesson-11/topics.md)
+  * [Terms](lesson-11/terms.md)
+  * [Tutorials](lesson-11/tutorials.md)
+  * [Take multi-perspective Images from the real world and model a complex object](a)
+  * [Give Feedback](a)
+
 ---
+
 * [Lesson 12: The Big Pictures- part 3](lesson-12.md)
- * [Topics](lesson-05/topics.md)
- * [Terms](lesson-05/terms.md)
- * [Tutorials](lesson-05/tutorials.md)
- * [Complete the Real World object](a)
- * [Place and render the Real World object in a compelling environment and render](a)
-
-
-
-
-
-
-
-
+  * [Topics](lesson-05/topics.md)
+  * [Terms](lesson-05/terms.md)
+  * [Tutorials](lesson-05/tutorials.md)
+  * [Complete the Real World object](a)
+  * [Place and render the Real World object in a compelling environment and render](a)
 
