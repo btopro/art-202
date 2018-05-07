@@ -1,17 +1,15 @@
 # Topics / Terms
  * Diffusion / subsurface scattering: Read [this article](https://en.wikipedia.org/wiki/Subsurface_scattering)
- * bump map
- * normal map
- * displacement map
- * alpha/opacity
- * transparency map
- * texture map
- * edge-flow
- * water-tight
- * UVW coordinate mapping
- * UV editor
- * unwrapping/unfolding
- * uv map projections
+ * Bump mapping: Read [this article](https://en.wikipedia.org/wiki/Bump_mapping)
+ * Normal map: Read [this article](https://en.wikipedia.org/wiki/Normal_mapping)
+ * Displacement mapping: Read [this article](https://en.wikipedia.org/wiki/Displacement_mapping)
+ * Alpha Mapping: Read [this article](https://en.wikipedia.org/wiki/Alpha_mapping)
+ * Texture mapping: Read [this article](https://en.wikipedia.org/wiki/Texture_mapping)
+ * Edge-flow: Watch [this Demonstration](https://www.youtube.com/watch?v=Lip59doQQRk)
+ * Water-tight: No gaps. All surfaces are touching their neighbors. If you poured water into your object, it would not leak.
+ * UV editor: Software used to edit a UV Map / Image
+ * Unwrapping/unfolding: Flattening the 3D surfaces of an object onto a single plane / image for the purpose of assigning referential operations onto, such as textures / materials.
+ Read [this article on UV Mapping](https://en.wikipedia.org/wiki/UV_mapping)
 
 # Tutorials
 
