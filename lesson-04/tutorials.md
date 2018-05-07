@@ -1,3 +1,8 @@
+**Blender Guru**[
+[Blender Beginner Tutorial - Part 4: Material Nodes](https://www.youtube.com/watch?v=f5Gb1VK98Wc)
+[Blender Beginner Tutorial - Part 5: Modelling](https://www.youtube.com/watch?v=ZtSh4Yedafg)
+[Blender Beginner Tutorial - Part 6: Texturing](https://www.youtube.com/watch?v=izqZe8s_Jmw)
+
 **Blender: Essential Training**
 **6. Applying Materials**
 Assigning Materials to Objects

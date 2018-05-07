@@ -1,3 +1,9 @@
+**Blender Guru**
+[Blender Beginner Tutorial - Part 1: User Interface](https://www.youtube.com/watch?v=JYj6e-72RDs)
+[Blender Beginner Tutorial - Part 2: Moving, Rotating, Scaling](https://www.youtube.com/watch?v=s05DiCEDVGE)
+[Blender Beginner Tutorial - Part 3: Edit Mode](https://www.youtube.com/watch?v=qqeNA_4O0Qg)
+
+
 **Blender: Essential Training**
 Introduction
 Welcome
