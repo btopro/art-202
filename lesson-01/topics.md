@@ -1,4 +1,4 @@
-# Topics
+# Related Articles
 
 * Polygonal Modeling: "In 3D computer graphics, Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons" [From Wikipedia](https://en.wikipedia.org/wiki/Polygonal_modeling)
 
@@ -11,33 +11,18 @@
 
 * Raytracing: Read, specifically, this linked [article](https://en.wikipedia.org/wiki/Ray_tracing), pertaining to Graphics.
 
+* Render engine: 
+ Read this article
+ https://en.wikipedia.org/wiki/Rendering_(computer_graphics)
 
 
-* Introduction of Basic Technical Concepts
-* Introduction to Blender
-* Introduction to Blender workflow and hot-keys
 
-# Terms
-
-* File backup
-* Saving iteratively
-* Set project, layers
-* Naming conventions
-* Material
-* Render engine
-* Color
-* Polygons
-* Faces
-* Edges
-* Points
-* Edges
-* Points
+# Introduction to Blender / Blender workflow
 
 # Tutorials
 
 ### Blender Guru
  * [Blender Beginner Tutorial - Part 1: User Interface](https://www.youtube.com/watch?v=JYj6e-72RDs)
- 
  * [Blender Beginner Tutorial - Part 2: Moving, Rotating, Scaling](https://www.youtube.com/watch?v=s05DiCEDVGE&t=49s)
  * [Blender Beginner Tutorial - Part 3: Edit Mode](https://www.youtube.com/watch?v=qqeNA_4O0Qg)
 
@@ -97,3 +82,26 @@
 * Creating groups
 * Working with scenes
 * Creating hierarchies
+ 
+  
+   
+    
+     
+# Hot-key List
+Retrieve a copy of [The Hotkey Cheat Sheet, ](https://www.blenderguru.com/articles/free-blender-keyboard-shortcut-pdf)from Blender Guru. Print this out and refer to it as needed. 
+
+# Terms
+
+* File backup: actively keep redundant backups of your work. Save often and iteratively, if necessary.
+* Saving iteratively: Save at different points using an incremental naming-scheme. If necessary, keep a log in a text file to keep track of major changes, in case you need to return to an earlier stage.
+* Set project: establish a directory structure of  folders that are associated with your work for the course. Keep things organized, both in terms of location and the times that the files are created.
+* Naming conventions: Use an incremental style of naming convention, for example "house-12-00-am-01-010-2018"
+* Material
+* Color
+* Polygons
+* Faces
+* Edges
+* Points
+* Edges
+* Points
+
