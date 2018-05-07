@@ -24,6 +24,9 @@
 ---
 
 * [Lesson 2: The Parts and the Pieces, Part 1](lesson-02.md)
+  * [Topics](lesson-02/topics.md)
+  * [Terms](lesson-02/terms.md)
+  * [Tutorials](lesson-02/tutorials.md)
   * [Demonstration-01- Model a Pawn](lesson-02/demonstration-model-a-pawn.md)
   * [Demonstration-02- Model a Bishop](lesson-02/demonstration-model-a-bishop.md)
   * [Demonstration-03- Model a Knight](lesson-02/demonstration-model-a-knight.md)
@@ -35,6 +38,9 @@
 ---
 
 * [Lesson 3: The Parts and the Pieces, Part 2](lesson-03.md)
+  * [Topics](lesson-03/topics.md)
+  * [Terms](lesson-03/terms.md)
+  * [Tutorials](lesson-03/tutorials.md)
   * [Demonstration-01- Model a Rook](lesson-03/demonstration-01-model-a-rook.md)
   * [Demonstration-02- Model a King](lesson-03/demonstration-02-model-a-king.md)
   * [Demonstration-03- Model a queen](lesson-03/demonstration-03-model-a-queen.md)
@@ -46,6 +52,9 @@
 ---
 
 * [Lesson 4: The Surface and Beyond, Part 1](lesson-04.md)
+  * [Topics](lesson-04/topics.md)
+  * [Terms](lesson-04/terms.md)
+  * [Tutorials](lesson-04/tutorials.md)
   * [Demonstration-01- UV Mapping A Caterpillar ](lesson-04/demonstration-01-uv-mapping-a-caterpillar.md)
   * [Demonstration-02- UV Map Your Chess Set](lesson-04/demonstration-02-uv-map-your-chess-set.md)
   * [Demonstration-03- Materials](lesson-04/demonstration-03-applying-materials-to-your-chess-set.md)
@@ -55,44 +64,69 @@
 ---
 
 * [Lesson 5: The Age of Enlightenment](lesson-10.md)
+  * [Topics](lesson-05/topics.md)
+  * [Terms](lesson-05/terms.md)
+  * [Tutorials](lesson-05/tutorials.md)
   * [Demonstration-01- Lighting](lesson-05/demonstration-01-Lighting.md)
   * [Assignment-01- Share completed set for feedback](lesson-05/assignment-1-share-set-for-feedback.md)
   * [Assignment-02- Submit a screen-grab of your light layout](lesson-05/assignment-2-submit-a-screen.md)
   * [Assignment-03- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](lesson-05/assignment-3-summary.md)
 
 ---
-* [Lesson 6: PBR (Physically Based Rendering / Materials ](a)
- * [Watch Blender Guru on PBR Part One and Two]()
- * [Recreate Andrew Price's Physically Descriptive, PBR Node-System]()
- * [Apply the Physically Descriptive Node-System to an original object]() 
- * [Give feedback]()
+* [Lesson 6: Physically Based Rendering part One](lesson-06.md)
+  * [Topics](lesson-01/topics.md)
+  * [Terms](lesson-01/terms.md)
+  * [Tutorials](lesson-01/tutorials.md)
+  * [Lesson 6: PBR / Materials ](a)
+ * [Watch Blender Guru on PBR Part One and Two](d)
+ * [Recreate Andrew Price's Physically Descriptive, PBR Node-System](d)
+ * [Apply the Physically Descriptive Node-System to an original object](d) 
+ * [Give feedback](d)
 
 ---
-* [Lesson 7: ](a)
+* [Lesson 7: Physically Based Rendering part Two](lesson-07.md)
+ * [Topics](lesson-07/topics.md)
+ * [Terms](lesson-07/terms.md)
+ * [Tutorials](lesson-07/tutorials.md)
  * [blank](blank)
  * [blank](blank)
 ---
 
 * [Lesson 8: Creation, Part 1](t)
- * [Create an animal or a machine and give it a habitat]()
- * [Light the environment adjust materials and prepare render settings]()
- * [Give Feedback]()
+ * [Topics](lesson-08/topics.md)
+ * [Terms](lesson-08/terms.md)
+ * [Tutorials](lesson-08/tutorials.md)
+ * [Create an animal or a machine and give it a habitat](d)
+ * [Light the environment adjust materials and prepare render settings](d)
+ * [Give Feedback](d)
 ---
 * [Lesson 9: Creation, Part 2](t)
- * [advanced render settings]()
- * [add plants or furniture to your environment, using masking / transparency]()
- * [Give Feedback]()
+ * [Topics](lesson-09/topics.md)
+ * [Terms](lesson-09/terms.md)
+ * [Tutorials](lesson-09/tutorials.md)
+ * [advanced render settings](d)
+ * [add plants or furniture to your environment, using masking / transparency](d)
+ * [Give Feedback](d)
 ---
 * * [Lesson 10: The Big Pictures](lesson-12.md)
+  * [Topics](lesson-10/topics.md)
+  * [Terms](lesson-10/terms.md)
+  * [Tutorials](lesson-10/tutorials.md)
   * [Demonstration-01- Rendering](lesson-10/demonstration-01-Rendering.md)
   * [Assignment-01- Submit 5 compelling renders](lesson-10/Submit-5-compelling-render.md)
   * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-10/Summarize-5-renders.md)
 ---
 * [Lesson 11:](t)
+ * [Topics](lesson-11/topics.md)
+ * [Terms](lesson-11/terms.md)
+ * [Tutorials](lesson-11/tutorials.md)
  * [Take multi-perspective Images from the real world and model a complex object](a)
  * [Give Feedback](a)
 ---
-* [Lesson 12: ](t)
+* [Lesson 12:](t)
+ * [Topics](lesson-05/topics.md)
+ * [Terms](lesson-05/terms.md)
+ * [Tutorials](lesson-05/tutorials.md)
  * [Complete the Real World object](a)
  * [Place and render the Real World object in a compelling environment and render](a)
 
