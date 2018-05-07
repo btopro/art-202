@@ -14,6 +14,9 @@
 * Render engine: 
  Read this article
  https://en.wikipedia.org/wiki/Rendering_(computer_graphics)
+ 
+* Material System: Read this [article](https://en.wikipedia.org/wiki/Materials_system)
+
 
 
 
@@ -53,8 +56,8 @@
 * Selecting pivot points
 * Using Snap to move objects precisely
 
-**3. Modeling
-**Creating mesh primitives and extrusions
+**3. Modeling**
+* Creating mesh primitives and extrusions
 * Selecting vertices, edges and faces
 * Editing Mesh Objects
 * Proportional Editing
@@ -96,7 +99,6 @@ Retrieve a copy of [The Hotkey Cheat Sheet, ](https://www.blenderguru.com/articl
 * Saving iteratively: Save at different points using an incremental naming-scheme. If necessary, keep a log in a text file to keep track of major changes, in case you need to return to an earlier stage.
 * Set project: establish a directory structure of  folders that are associated with your work for the course. Keep things organized, both in terms of location and the times that the files are created.
 * Naming conventions: Use an incremental style of naming convention, for example "house-12-00-am-01-010-2018"
-* Material
 * Color
 * Polygons
 * Faces
