@@ -58,8 +58,11 @@
   * [Assignment-03- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](lesson-05/assignment-3-summary.md)
 
 ---
+* [Week 6: PBR (Physically Based Rendering / Materials ](a)
+ * [blank](d)
 
-* [Week 7: PBR (Physically Based Rendering) / Materials](a)
+---
+* [Week 7: ](a)
  * [Watch Blender Guru on PBR Part One and Two]()
  * [Recreate Andrew Price's Physically Descriptive, PBR Node-System]()
  * [Apply the Physically Descriptive Node-System to an original object]() 
