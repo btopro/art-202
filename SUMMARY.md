@@ -97,7 +97,6 @@
  * [Topics](lesson-08/topics.md)
  * [Terms](lesson-08/terms.md)
  * [Tutorials](lesson-08/tutorials.md)
- * [Blender Guru: Rendering and Compositing](https://www.youtube.com/watch?v=25N775uHb_4)
  * [Create an animal or a machine and give it a habitat](d)
  * [Light the environment adjust materials and prepare render settings](d)
  * [Give Feedback](d)
