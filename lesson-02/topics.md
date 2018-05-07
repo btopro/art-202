@@ -6,9 +6,10 @@ Tutorials
 
 
 # Lynda
-**Blender: Hard Surface Modeling**
+# Blender: Hard Surface Modeling
 Topics: 
-**1. Establishing the Foundation Forms**
+
+ **1. Establishing the Foundation Forms**
 * Setting up reference images
 * Blocking in the basic forms
 * Beginning the lift arms
