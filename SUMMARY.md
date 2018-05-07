@@ -76,8 +76,6 @@
   * [Topics](lesson-06/topics.md)
   * [Terms](lesson-06/terms.md)
   * [Tutorials](lesson-06/tutorials.md)
-  * [Watch Blender Guru on PBR Part One ](https://www.youtube.com/watch?v=V3wghbZ-Vh4)
-  * [Watch Blender Guru on PBR Part Two](https://www.youtube.com/watch?v=m1PkSViBi-M)
   * [Recreate Andrew Price's Physically Descriptive, PBR Node-System](d)
   * [Apply the Physically Descriptive Node-System to an original object](d) 
   * [Give feedback](d)
