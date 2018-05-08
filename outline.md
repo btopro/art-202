@@ -68,7 +68,6 @@ Introduction to the node system
 * Give feedback
 ---
 **Lesson 5: **
-
 * Exploring Lighting and Rendering
 
 **Assignment:**
@@ -78,32 +77,45 @@ Introduction to the node system
 
 ---
 ** Lesson 6: **
-
-
+Physical Based Rendering / Node-System Part 1
 
 **Assignments:**
-
+* Recreate Andrew Price's Physically Descriptive, PBR Node-System
+* Apply the Physically Descriptive Node-System to an original object 
+* Give feedback
 ---
 **Lesson 7: **
+Physical Based Rendering / Node-System Part 2
 
 **Assignment:**
-
+* Make Suggested Changes from instructor / peers
+* Submit Feedback
 ---
 **Lesson 8: **
+Advanced lighting and introduction to Particles
 
 **Assignment:**
+* Create an animal or a machine and give it a habitat
+* Light the environment, adjust materials and prepare render advanced settings
+* Give Feedback
 
 ---
 
-
 **Lesson 9:**
+Exploring Linear Workflow / Refining Render settings
+
 **Assignments:**
+* Revise Character / Habitat assignment with refined render settings
+* Add plants or Furniture to your environment, using masking / transparency
 
 ---
 
 **Lesson 10:**
-**Assignments:**
 
+
+**Assignments:**
+* Submit 5 compelling renders
+* Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision
 ---
 
 **Lesson 11:**
