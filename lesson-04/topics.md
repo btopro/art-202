@@ -13,6 +13,9 @@
 
 # Tutorials
 
+
+## Important, watch the Following: [_Importing Blender objects into other Blender Files_](https://www.youtube.com/watch?v=tDd2Nxq6GjQ)
+
 ## Blender Guru
 
  * [Blender Beginner Tutorial - Part 4: Material Nodes](https://www.youtube.com/watch?v=f5Gb1VK98Wc)
