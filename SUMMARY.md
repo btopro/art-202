@@ -57,8 +57,6 @@
 
 * [Lesson 5: The Age of Enlightenment](lesson-10.md)
   * [Topics](lesson-05/topics.md)
-  * [Terms](lesson-05/terms.md)
-  * [Tutorials](lesson-05/tutorials.md)
   * [Assignment-01- Share completed set for feedback](lesson-05/assignment-1-share-set-for-feedback.md)
   * [Assignment-02- Submit a screen-grab of your light layout](lesson-05/assignment-2-submit-a-screen.md)
   * [Assignment-03- Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision](lesson-05/assignment-3-summary.md)

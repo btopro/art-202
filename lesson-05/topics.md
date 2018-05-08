@@ -1,24 +1,33 @@
 # Terms
-key light
-fill light
-rim/hair light
-directional light
-point light
-volume light
-spot light
-area light
-decay
-linear workflow
-RGBA
-16-32bit images
-HDR
-file formats
-resolution
-depth of field
-aperture
-lens
-focal length
-motion blur
+* Key light: read [this article](https://en.wikipedia.org/wiki/Key_light)
+
+* Fill light: read [this article](https://en.wikipedia.org/wiki/Fill_light)
+* Rim / Hair / Back - lighting: https://en.wikipedia.org/wiki/Backlighting_(lighting_design)
+
+* Directional light: Mimics the sun- casts light in a parallel fashion, in a single direction. The idea is that the Sun is, for all intents and purposes, infinitely far a way, so the angle of variance is infinitely small.
+
+* 3-Point light: Read [this article](https://en.wikipedia.org/wiki/Three-point_lighting)
+
+* Volumetric light: read [this article](https://en.wikipedia.org/wiki/Volumetric_lighting)
+
+* Spot light: Specifically focused light on a subject
+
+* Light Fall-off / Decay: From [the Blender Manual ](https://docs.blender.org/manual/en/dev/render/cycles/nodes/types/color/light_falloff.html)
+ * [Video Example 1](https://www.youtube.com/watch?v=qAbpmUFAf2Q)
+ * [Video Example 2](https://www.youtube.com/watch?v=1iIBWGwcL00)
+
+
+* Linear workflow:
+* RGBA:
+* 16-32bit images:
+* HDR:
+* File formats:
+* Resolution:
+* Depth of field:
+* Aperture:
+* Lens:
+* Focal length:
+* Motion blur:
 
 ## Blender Guru
 * [Blender Beginner Tutorial - Part 8: Lighting](https://www.youtube.com/watch?v=0rbPwn-I0oM)
