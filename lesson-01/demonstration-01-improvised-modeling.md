@@ -153,47 +153,47 @@ The **line Selection mode **lets you take control of your object through manipul
 **Ex: 32**
 **Vertex mode** allows you to select individual vertices
 
-![Wireframe makes it much easier to see sometimes](/assets/A_33 .jpg)
+![Wireframe makes it much easier to see sometimes](/assets/A_33.jpg)
 **Ex: 33**
 **Wireframe** makes it much easier to see sometimes, especially when selecting parts of the object behind the immediate faces.
 
-![](/assets/A_34.jpg)
+![Here I use the shrink or fatten function to narrow the gap](/assets/A_34.jpg)
 **Ex: 34**
 Here I use the **shrink or fatten** function to narrow the gap
 
-![](/assets/A_35.jpg)
+![After pressing z to see the frames my object is starting to look like some kind of crystal or ore](/assets/A_35.jpg)
 **Ex: 35**
 After pressing **"Z"** to see the frames my object is starting to look like some kind of crystal or ore.
 
-![](/assets/A_36.jpg)
+![If we then audition the image with the subdivision modifier we can see that it curves a bit more](/assets/A_36.jpg)
 **Ex: 36**
 If we then audition the image with the **subdivision modifier**, we can see that it curves a bit more- almost looking like a cashew or peanut
 
-![](/assets/A_37.jpg)
+![Selecting vertices](/assets/A_37.jpg)
 **Ex: 37**
 **Selecting vertices**: using the **"c"-Key-circle** or "b-Key"-marqui**-**selection tools** with the **wireframe-mode** makes it easier to quickly **grab entire regions.**
 
-![](/assets/A_38 .jpg)
+![the rotate function](/assets/A_38.jpg)
 **Ex: 38**
 With the **"r-key"-rotate function** you can **constrain to specific axis by typing an additional x y or z and then moving your mouse or typing a specific angle.**
 
-![](/assets/A_39.jpg)
+![Next I will return to bounding box mode and remove the subdivision modifier](/assets/A_39.jpg)
 **Ex: 39**
 Next I will **return to bounding box** mode and **remove the subdivision modifier**
 
-![](/assets/A_40.jpg)
+![specifying that I want to delete vertices](/assets/A_40.jpg)
 **Ex: 41**
 Next, I select some **vertices**, press **"x"** to **delete** them, after first **specifying that I want to delete vertices**
 
-![](/assets/A_41.jpg)
+![It is preferable in Blender to use faces of 4 sides](/assets/A_41.jpg)
 **Ex: 41**
-It is preferable in Blender  to use faces of **4-sides** so I select sets of **4 immediately neighboring pairs** and **press the "F-Key" to join them as faces**
+It is preferable in Blender  to use faces of **4 sides** so I select sets of **4 immediately neighboring pairs** and **press the "F-Key" to join them as faces**
 
-![](/assets/A_42.jpg)
+![to enter quad view mode](/assets/A_42.jpg)
 **Ex: 42**
 Next I press, together, **"ctrl, alt or option" and "q-keys"** to enter **quad view mode**
 
-![](/assets/A_43.jpg)
+![I attempt to make clean edges of vertices](/assets/A_43.jpg)
 **Ex: 43**
 Next I use the **border-select tool** by pressing the **"b-key"** and I attempt to make **clean edges** of **vertices**
 
