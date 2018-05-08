@@ -71,32 +71,20 @@
   * [Implement and Utilize advanced render settings](lesson-09/assignment-1-render.md)
   * [Add plants or Furniture to your environment, using masking / transparency](lesson-09/assignment-2-plants-furniture.md)
   * [Give Feedback](lesson-09/assignment-3-feedback.md)
-
 ---
-
 * [Lesson 10: The Big Pictures- part 1](lesson-10.md)
   * [Topics](lesson-10/topics.md)
-  * [Terms](lesson-10/terms.md)
-  * [Tutorials](lesson-10/tutorials.md)
   * [Demonstration-01- Rendering](lesson-10/demonstration-01-Rendering.md)
   * [Assignment-01- Submit 5 compelling renders](lesson-10/Submit-5-compelling-render.md)
   * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-10/Summarize-5-renders.md)
-
 ---
-
 * [Lesson 11: The Big Pictures- part 2](lesson-11.md)
   * [Topics](lesson-11/topics.md)
-  * [Terms](lesson-11/terms.md)
-  * [Tutorials](lesson-11/tutorials.md)
-  * [Take multi-perspective Images from the real world and model a complex object](a)
-  * [Give Feedback](a)
-
+  * [Take multi-perspective Images from the real world and model a complex object](lesson-11/assignment-1-realworld.md)
+  * [Give Feedback](lesson-11/assignment--feedback.md)
 ---
-
 * [Lesson 12: The Big Pictures- part 3](lesson-12.md)
-  * [Topics](lesson-05/topics.md)
-  * [Terms](lesson-05/terms.md)
-  * [Tutorials](lesson-05/tutorials.md)
-  * [Complete the Real World object](a)
-  * [Place and render the Real World object in a compelling environment and render](a)
+
+  * [Complete the Real World object](lesson-12/assignment-1-object.md)
+  * [Place and render the Real World object in a compelling environment and render](lesson-12/assignment-1-final.md)
 
