@@ -111,7 +111,7 @@ Exploring Linear Workflow / Refining Render settings
 ---
 
 **Lesson 10:**
-
+Exploring Camera Settings
 
 **Assignments:**
 * Submit 5 compelling renders
@@ -119,20 +119,18 @@ Exploring Linear Workflow / Refining Render settings
 ---
 
 **Lesson 11:**
-
-Stage a scene and rig it with lights.
-Convey a story through and / or execute a presentation strategy through the arrangement of objects / lights.
+Acquiring and working with source images
 
 **Assignments:**
-Submit a screengrab of your light layout
-Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
+* Take multi-perspective Images from the real world and model a complex object from them
+* Give Feedback
+---
 
 **Lesson 12:**
-
-Explore render options / features
-Convey a story through and / or execute a presentation strategy, through a series of renders
+Complete Final assignment, responding to feedback from instructor and peers
 
 **Assignments:**
-Submit 5 compelling renders
-Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision
-Terms:
+* Complete the Real World object
+* Place and render the Real World object in a compelling environment and render
+
+
