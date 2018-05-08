@@ -64,15 +64,13 @@
   * [Topics](lesson-08/topics.md)
   * [Create an animal or a machine and give it a habitat](lesson-08/assignment-1-residing.md)
   * [Light the environment, adjust materials and prepare render settings](lesson-08/assignment-2-lit.md)
-  * [Give Feedback](lesson-07/assignment-3-feedback.md)
+  * [Give Feedback](lesson-08/assignment-3-feedback.md)
 ---
 * [Lesson 9: Creation, Part 2](lesson-09.md)
   * [Topics](lesson-09/topics.md)
-  * [Terms](lesson-09/terms.md)
-  * [Tutorials](lesson-09/tutorials.md)
-  * [advanced render settings](d)
-  * [add plants or furniture to your environment, using masking / transparency](d)
-  * [Give Feedback](d)
+  * [Implement and Utilize advanced render settings](lesson-09/assignment-1-render.md)
+  * [Add plants or Furniture to your environment, using masking / transparency](lesson-09/assignment-2-plants-furniture.md)
+  * [Give Feedback](lesson-09/assignment-3-feedback.md)
 
 ---
 
