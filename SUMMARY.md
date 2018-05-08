@@ -62,11 +62,9 @@
 ---
 * [Lesson 8: Creation, Part 1](lesson-08.md)
   * [Topics](lesson-08/topics.md)
-  * [Terms](lesson-08/terms.md)
-  * [Tutorials](lesson-08/tutorials.md)
-  * [Create an animal or a machine and give it a habitat](d)
-  * [Light the environment adjust materials and prepare render settings](d)
-  * [Give Feedback](d)
+  * [Create an animal or a machine and give it a habitat](lesson-08/assignment-1-residing.md)
+  * [Light the environment, adjust materials and prepare render settings](lesson-08/assignment-2-lit.md)
+  * [Give Feedback](lesson-07/assignment-3-feedback.md)
 ---
 * [Lesson 9: Creation, Part 2](lesson-09.md)
   * [Topics](lesson-09/topics.md)
