@@ -65,8 +65,6 @@
 
 * [Lesson 6: Physically Based Rendering part One](lesson-06.md)
   * [Topics](lesson-06/topics.md)
-  * [Terms](lesson-06/terms.md)
-  * [Tutorials](lesson-06/tutorials.md)
   * [Recreate Andrew Price's Physically Descriptive, PBR Node-System](d)
   * [Apply the Physically Descriptive Node-System to an original object](d)
   * [Give feedback](d)

@@ -1,3 +1,10 @@
+# Terms
+
+**Fresnel:** Read [this article](http://www.3drender.com/glossary/fresneleffect.htm)
+ * Read also, [from the Manual](https://docs.blender.org/manual/en/dev/render/cycles/nodes/types/input/fresnel.html)
+
+**Dialectric:** Hard stuff. Not metal. 
+
 # Tutorials
 
 **Blender Guru**
