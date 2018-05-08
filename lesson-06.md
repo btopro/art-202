@@ -1,0 +1,1 @@
+This lesson we study the PBR system and recreate the PBR-based node-system described in the Blender Guru Tutorials
