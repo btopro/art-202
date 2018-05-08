@@ -118,10 +118,12 @@ Trimming lines
 * Naming conventions
 
 **Assignments:**
-* Model a Gem using Demonstration 1 as a guide
-* Model a Diamond using Demonstration 2 as a guide
-* Model a Chessboard using Demonstration 3 as a guide
-* Give Feedback
+* Model a Gem using Demonstration 1 as a guide - **50 points**
+
+* Model a Diamond using Demonstration 2 as a guide - **50 points**
+* Model a Chessboard using Demonstration 3 as a guide - **50 points**
+* Give Feedback - **10 points**
+
 
 
 **
@@ -131,10 +133,11 @@ During this continuing, first half of the course, we will gradually learn and im
 * Practice tracing and inferring geometry from source images
 
 **Assignments:**
-* Model a Pawn using Demonstration 1 as a guide
-* Model a Bishop using Demonstration 1 as a guide
-* Model a Knight using Demonstration 1 as a guide
-* Give feedback
+* Model a Pawn using Demonstration 1 as a guide - **50 points**
+* Model a Bishop using Demonstration 1 as a guide - **50 points**
+* Model a Knight using Demonstration 1 as a guide - **50 points**
+* Give feedback - **10 points**
+
 
 
 **
@@ -146,10 +149,11 @@ Lessons 3: The Parts and the Pieces Part 2**
 * Introduction to Nurbs
 
 **Assignments:**
-* Model a Rook using Demonstration 1 as a guide
-* Model a King using Demonstration 1 as a guide
-* Model a Queen using Demonstration 1 as a guide
-* Give feedback
+* Model a Rook using Demonstration 1 as a guide - **50 points**
+* Model a King using Demonstration 1 as a guide - **50 points**
+* Model a Queen using Demonstration 1 as a guide - **50 points**
+* Give feedback - **10 points**
+
 
 
 **
@@ -167,8 +171,9 @@ Through the exploration of materials properties, we will apply physics-based tec
 Introduction to the node system
 
 **Assignments:**
-* Make 3 Complete Chess Sets using UV mapping and material modifiers
-* Give feedback
+* Make 3 Complete Chess Sets using UV mapping and material modifiers - **50 points**
+* Give feedback - **10 points**
+
 
 
 **
@@ -178,9 +183,10 @@ Prepare to take your 3D models out of the 18th century and into a brilliant new 
 * Exploring Lighting and Rendering
 
 **Assignments:**
-* Share completed set for feedback
-* Submit a screen-grab of your light layout
-* Summarize the story behind your lighting strategy in 500 words, to demonstrating a commitment to problem-solving and development of a specific vision
+* Share completed set for feedback - **50 points**
+* Submit a screen-grab of your light layout - **50 points**
+* Summarize the story behind your lighting strategy in 500 words, to demonstrating a commitment to problem-solving and development of a specific vision - **10 points**
+
 
 
 **
@@ -190,17 +196,19 @@ We explore various treatments of textures, materials and learn the underlying sc
 * Physical Based Rendering / Node-System Part 1
 
 **Assignments:**
-* Recreate Andrew Price's Physically Descriptive, PBR Node-System
-* Apply the Physically Descriptive Node-System to an original object
-* Give feedback
+* Recreate Andrew Price's Physically Descriptive, PBR Node-System - **50 points**
+* Apply the Physically Descriptive Node-System to an original object - **50 points**
+* Give feedback - **10 points**
+
 
 
 **
 Lessons 7: Physically Based Rendering Part 2**
 
 **Assignments:**
-* Make Suggested Changes from instructor / peers
-* Submit Feedback
+* Make Suggested Changes from instructor / peers - **50 points**
+* Submit Feedback - **10 points**
+
 
 
 **
@@ -210,18 +218,18 @@ With the magic of manipulating light and surfaces in-hand, we now venture furthe
 * Advanced lighting and introduction to Particles
 
 **Assignments:**
-* Create an animal or a machine and give it a habitat
+* Create an animal or a machine and give it a habitat - **50 points**
 * Light the environment, adjust materials and prepare render advanced settings
-* Give Feedback
-
+* Give Feedback - **10 points**
 
 **
 Lessons 9: Creation Part 2**
 * Exploring Linear Workflow / Refining Render settings
 
 **Assignments:**
-* Revise Character / Habitat assignment with refined render settings
-* Add plants or Furniture to your environment, using masking / transparency
+* Revise Character / Habitat assignment with refined render settings - **50 points**
+* Add plants or Furniture to your environment, using masking / transparency - **10 points**
+
 
 
 **
@@ -231,18 +239,17 @@ This is the final section of the course. We can look back at all that we have ac
 * Exploring Camera Settings
 
 **Assignments:**
-* Submit 5 compelling renders
-* Summarize the 5 renders in 500+ words, demonstrating a  commitment to problem-solving and development of a specific vision
-
+* Submit 5 compelling renders - **50 points**
+* Summarize the 5 renders in 500+ words, demonstrating a  commitment to problem-solving and development of a specific vision - **50 points**
 
 **
 Lesson 11: The Big Pictures Part 2**
 * Acquiring and working with source images
 
 **Assignments:**
-* Take multi-perspective Images from the real world and 
-* Model a complex object from them
-* Give Feedback
+* Take multi-perspective Images from the real world and Model a complex object from them - **50 points**
+* Give Feedback - **10 points**
+
 
 
 **
@@ -250,25 +257,13 @@ Lesson 12: The Big Pictures Part 3**
 * Complete Final assignment, responding to feedback from instructor and peers
 
 **Assignments:**
-* Complete the Real World object
-* Place and render the Real World object in a compelling 
-* environment and render
-
-
-
-
-
-
-
-
-
-
+* Complete the Real World object - **50 points**
+* Place and render the Real World object in a compelling environment and render - **50 points**
 
 **
 Policies**
 
-**
-Plagiarism in Digital Art**
+**Plagiarism in Digital Art**
 For this course, students will frequently use images and media assets that they did not create themselves. If you have space in your project, it’s a good idea to credit the authors of any found images. This isn’t strictly required for student work, but it’s good to start this habit for professional work. 
 
 Found images should always be used as supporting elements within your own original work. Using templates or copying entire compositions and imagery from existing sources will severely impact your grade for a given project. Even if you’re adding an icon or supporting illustration, you will always be graded more favorably for creating images yourself. 
