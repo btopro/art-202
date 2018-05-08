@@ -1,6 +1,6 @@
 
 
-![](/assets/A_1.jpg)
+![Welcome to the Blender 3D Modeling Environment.](/assets/A_1.jpg)
 **Ex: 1**
 Welcome to the **Blender 3D -Modeling Environment**.
 
@@ -14,24 +14,24 @@ The **upper window** allows you to select objects, such as the **cameras** (visi
 
 The window below this serves many purposes. It is mostly used in this course for making **modifications** and **rendering**. More on this later.
  
-![](/assets/A_2.jpg)
+![If you go to the top of the screen you'll see that there is a menu called File](/assets/A_2.jpg)
 **Ex: 2**
 If you go to the top of the screen you'll see that there is a **menu** called **File**. **Select this.**
 
-![](/assets/A_3.jpg)
+![Select and open up user preferences](/assets/A_3.jpg)
 **Ex: 3**
 Select and open up **user preferences**.
 
-![](/assets/A_4 .jpg)
+![Emulate Numpad from within the Input Tab](/assets/A_4.jpg)
 **Ex: 4**
 
 If you are working on a laptop that does not have a dedicated number pad then select **Emulate Numpad** from within the **Input Tab**. **This will allow you to toggle through very useful camera views by pressing different, individual numbers.** You will see how important this is, early on, as we begin **tracing reference images** to direct our modeling decisions.
 
-![](/assets/A_5.jpg)
+![By default the program presents a cube within what is called object-mode](/assets/A_5.jpg)
 **Ex: 5**
 By default the program presents a cube within what is called **object-mode.**
 
-![](/assets/A_6.jpg)
+![Use the indicated drop menu or the tab button to go between object and edit-modes](/assets/A_6.jpg)
 **Ex: 6**
 Use the indicated drop menu or the tab button to go between **object** and **edit-modes**. **Object-mode** will show you what the object generally looks like. **Edit-mode** will present the object in an editable manner, where you can choose between selecting **vertices, edges and faces** to make your edits.
 
@@ -43,116 +43,117 @@ Use the indicated drop menu or the tab button to go between **object** and **edi
 
 **For the purpose of modeling in Blender, we are going to focus on using primarily 4-sided faces when possible. If needed, 3 is acceptable.** The reason for this is because there are processes that occur in later stages of rendering, and it is most important to be consistent, for the purpose of having a consistent render. **In the case of flat or hidden surfaces, higher-polygon-count faces are sometimes acceptable.** We will discuss this further in the future.
 
-![](/assets/A_7.jpg)
+![You can use the scroll-wheel within the viewport to zoom in and out](/assets/A_7.jpg)
 **Ex: 7**
 You can use the **scroll-wheel** within the **viewport** to **zoom in and out**.
 
-![](/assets/A_8.jpg)
+![You can use z button to toggle in and out of wireframe and bounding box modes](/assets/A_8.jpg)
 **Ex: 8**
 You can use **"Z"** button to toggle in and out of **wireframe** and **bounding box modes** or use the indicated sub menu. **Wireframe mode** is particularly helpful as it allows you see beyond otherwise **impeding surfaces** that may be in the way.
 
-![](/assets/A_9.jpg)
+![This procedure is also known as orbiting](/assets/A_9.jpg)
 **Ex: 9**
 If you push down on the **scroll-wheel** or otherwise known as **middle mouse button** and drag you can change your **orientation**. This procedure is also known as **orbiting**.
 
-![](/assets/A_10.jpg)
+![f you press the number keys you will see that they change your perspective](/assets/A_10.jpg)
 **Ex: 10**
 If you press the **number keys **you will see that they change your perspective to **specific views such as top, left bottom, right, front and back**
 
-![](/assets/A_11.jpg)
+![Pressing the number five will toggle between two-point perspective and orthogonal](/assets/A_11.jpg)
 **Ex: 11**
 Pressing the **number five** will toggle between **two-point perspective** and **orthogonal** views. **Orthogonal** views force geometry to line up relative to the perspective of the viewer. It has the functionality of distorting things in a specific manner so that **image-tracing** can be possible.
 
-![](/assets/A_12.jpg)
+![You can stretch or expand menus and windows by dragging on their dividers](/assets/A_12.jpg)
 **Ex: 12**
 You can **stretch** or **expand menus** and **windows** by dragging on their **dividers**
 
-![](/assets/A_13.jpg)
+![Here you can see that I have expanded the function menu on the left and the modifier and layer menus on the right](/assets/A_13.jpg)
 **Ex: 13**
 Here you can see that I have expanded the **function menu** on the left and the modifier and **layer menus** on the right
 
-![](/assets/A_14.jpg)
+![You can click and drag-out windows](/assets/A_14.jpg)
 **Ex: 14**
 You can click and drag-out / expand windows, by clicking on and **dragging from the lines in the corners**
 
-![](/assets/A_15.jpg)
+![You can change each partitioned window ](/assets/A_15.jpg)
 **Ex: 15**
 You can change each **partitioned window** into a different and specific **view-type.**
 
-![](/assets/A_16.jpg)
+![You can also set up a screen to view from a camera ](/assets/A_16.jpg)
 **Ex: 16**
 You can also set up a screen to view from a **camera** for the purpose of **rendering specific angles**
 
-![](/assets/A_17.jpg)
+![By holding down the shift and middle mouse button you can pan your view](/assets/A_17.jpg)
 **Ex: 17**
 By holding down the **shift and middle** mouse button you can **pan** your view, left, right, up and down.
 
-![](/assets/A_18.jpg)
+![By clicking on the lines in the corner of any view window you can drag it over other windows to collapse them](/assets/A_18.jpg)
 **Ex: 18**
 By clicking on the **lines in the corner** of any **view window** you can drag it over other windows to **collapse them**
 
-![](/assets/A_19.jpg)
+![Expand the modifier menu on the right](/assets/A_19.jpg)
 **Ex: 19**
 Expand the **modifier menu** on the right.
 
-![](/assets/A_20.jpg)
+![If you click on the wrench tab and then on add modifier you can find a list of potential modifiers to chose from](/assets/A_20.jpg)
 **Ex: 20**
 If you click on the wrench tab and then on add modifier you can find a list of potential **modifiers** to chose from.
 
-![](/assets/A_21.jpg)
+![important that you familiarize yourself with the various orbiting and panning methods](/assets/A_21.jpg)
 **Ex: 21**
 It's important that you familiarize yourself with the various **orbiting** and **panning methods**
 
-![](/assets/A_22.jpg)
+![Here we have an example of the default cube in wireframe mode which makes it easier to see through it](/assets/A_22.jpg)
 **Ex: 22**
 Here we have an example of the **default cube** in **wireframe mode** which makes it easier to see through it.
 
-![](/assets/A_23.jpg)
+![These three icons allow you to choose between vertex, line and face-selection modes](/assets/A_23.jpg)
 **Ex: 23**
 **These three icons** allow you to choose between **vertex, line and face-selection modes.**
 
-![](/assets/A_24.jpg)
+![Under face mode you can right-click on the black squares to select the corresponding faces
+](/assets/A_24.jpg)
 **Ex: 24**
 Under **face mode** you can **right-click** on the black squares to select the corresponding faces
 
-![](/assets/A_25.jpg)
+![If you continue holding the shift button and selecting faces you can select several at a time](/assets/A_25.jpg)
 **Ex: 25**
 If you continue holding the **shift button** and selecting faces you can select several at a time
 
-![](/assets/A_26.jpg)
+![You can then perform operations to multiple faces at once](/assets/A_26.jpg)
 **Ex: 26**
 You can then perform operations to multiple faces at once, such as extruding them.
 
-![](/assets/A_27.jpg)
+![Observe the different behavior between extrude region and extrude individual](/assets/A_27.jpg)
 **Ex: 27**
 Observe the different behavior between **extrude region** and **extrude individual**. Each of these methods are helpful under different circumstances.
 
-![](/assets/A_28.jpg)
+![Pressing a will deselect the already selected faces](/assets/A_28.jpg)
 **Ex: 28**
 Pressing **"A"** will deselect the already selected faces. 
 
-![](/assets/A_29.jpg)
+![Pressing a another additional time will select all faces](/assets/A_29.jpg)
 **Ex: 29**
 Pressing **"A"** another additional time will select all faces.
 
-![](/assets/A_30a.jpg)
+![You can also subdivide the faces](/assets/A_30a.jpg)
 **Ex: 30a**
 You can also **subdivide** the faces- breaking them into even, unique-distributed, smaller faces. 
 
-![](/assets/A_30b.jpg)
+![Subdividing will help you take control over forming your object in finer detail](/assets/A_30b.jpg)
 **Ex: 30b**
 
 **Subdividing** will help you take control over forming your object in finer detail. 
 
-![](/assets/A_31.jpg)
+![The line Selection mode lets you take control of your object through manipulating individual lines](/assets/A_31.jpg)
 **Ex: 31**
 The **line Selection mode **lets you take control of your object through manipulating individual lines.
 
-![](/assets/A_32.jpg)
+![Vertex mode allows you to select individual vertices](/assets/A_32.jpg)
 **Ex: 32**
 **Vertex mode** allows you to select individual vertices
 
-![](/assets/A_33 .jpg)
+![Wireframe makes it much easier to see sometimes](/assets/A_33 .jpg)
 **Ex: 33**
 **Wireframe** makes it much easier to see sometimes, especially when selecting parts of the object behind the immediate faces.
 
