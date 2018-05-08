@@ -35,7 +35,7 @@
   * [Assignment-03- Model a Queen](lesson-03/assignment-03-model-a-queen.md)
   * [Assignment-04- Give feedback](lesson-03/assignment-04-give-feedback.md)
 ---
-* [Lesson 4: The Surface and Beyond, Part 1](lesson-04.md)
+* [Lesson 4: The Surface and Beyond](lesson-04.md)
   * [Topics](lesson-04/topics.md)
   * [Demonstration-01- UV Mapping A Caterpillar ](lesson-04/demonstration-01-uv-mapping-a-caterpillar.md)
   * [Demonstration-02- UV Map Your Chess Set](lesson-04/demonstration-02-uv-map-your-chess-set.md)
