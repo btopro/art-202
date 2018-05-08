@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [Overview](overview.md)
 * [Outline](outline.md)
+* [Syllabus](syllabus.md)
 
 ---
 
