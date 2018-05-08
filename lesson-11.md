@@ -1,0 +1,1 @@
+This week we **practice taking source images** from the **real-world** to **trace** and recreate
