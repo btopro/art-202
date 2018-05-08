@@ -84,7 +84,6 @@
   * [Give Feedback](lesson-11/assignment--feedback.md)
 ---
 * [Lesson 12: The Big Pictures- part 3](lesson-12.md)
-
   * [Complete the Real World object](lesson-12/assignment-1-object.md)
   * [Place and render the Real World object in a compelling environment and render](lesson-12/assignment-1-final.md)
 
