@@ -17,7 +17,11 @@
  * [Video Example 2](https://www.youtube.com/watch?v=1iIBWGwcL00)
 
 
-* Linear workflow:
+* Linear workflow (advanced): 
+ * [Tutorial 1](https://www.youtube.com/watch?v=Y3s0mxOxPCM)
+ * [Tutorial 2 and Link to Article](https://www.youtube.com/watch?v=osZ8kKTAgSE)
+ * [See Color Management in Blender Manual](/Color Management)
+
 * RGBA:
 * 16-32bit images:
 * HDR:
