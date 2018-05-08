@@ -9,11 +9,15 @@
 
 # 
 # Aesthetics Terms
-* Mimesis
-* The Sublime
-* Beauty, distinguished (MIT Reference: Beauty cannot exist within a vaccuum)
-* The Picturesque
-* Impressionism
-* Abstract
-* Gestalt
+* **Mimesis:** [Read this article](https://en.wikipedia.org/wiki/Mimesis)
+
+* The Sublime: "In aesthetics, the sublime (from the Latin sublīmis) is the quality of greatness, whether physical, moral, intellectual, metaphysical, aesthetic, spiritual, or artistic. The term especially refers to a greatness beyond all possibility of calculation, measurement, or imitation." - From this article in Wikipedia: https://en.wikipedia.org/wiki/Sublime_(philosophy
+
+* The Picturesque: Read [this article](https://en.wikipedia.org/wiki/Picturesque)
+
+* Impressionism: Read [this article](https://en.wikipedia.org/wiki/Impressionism)
+
+* Abstract Art: Read [this article](https://en.wikipedia.org/wiki/Abstract_art)
+
+* Gestalt Psychology: Read [this article](https://en.wikipedia.org/wiki/Gestalt_psychology)
 
