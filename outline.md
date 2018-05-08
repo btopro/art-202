@@ -2,39 +2,67 @@
 
 **Lesson 1: **
 
-Navigation of the basic blender interface
-Manipulate and customizing the blender environment (windows, selection options)
-Different modes, such as editing mode vs object mode and solids vs wireframe
-Distinguishing between vertices, edges and faces
-Editing and workflow features
-Familiarization and practice with Hotkeys and GUI features.
-
+* Navigation of the basic blender interface
+* Manipulate and customizing the blender environment (windows, selection options)
+* Explore different modes, such as editing mode vs object mode and solids vs wireframe
+* Distinguishing between vertices, edges and faces
+* Editing and workflow features
+* Familiarization  
+* Practice with Hotkeys and GUI features.
+* Instantiating and manipulating a series of  planes (into a checkerboard)
+* Extruding faces from a plane
+* Subdividing a face
+* Creating lines using the Loop cut and slide operations
+* Cleaning up objects / Deletion
+* Consolidating vertices (with and without the sliding technique) to remove duplicates
+Trimming lines
+* Considering modeling strategies 
+* Layers  
+* Naming conventions
 
 **Assignments:**
 
-Screen grabs: demonstrate familiarity by using multiple screens and editing modes
-Hotkeys: demonstrate the use of hotkeys by completing the following exercises
-.
-**Lesson 2:**
-**Editing Modes**
-Your first modeling assignment: a checkered grid, for the intention of being paired with your future chess-piece-related objects
-Instantiating and manipulating a series of planes (into a checkerboard)
-Extruding faces from a plane
-Subdividing a face
-Creating lines using the Loop cut and slide operations
-Cleaning up objects
-Making sure all faces have four edges; deletion, the knife tool consolidating vertices (with and without the sliding technique) to remove duplicates
-Trimming lines
-Considering modeling strategies by both embracing the notion and demonstrating the understanding that there are many ways to solve any given problem
-Layers / Naming conventions
-Moving duplicates of completed-stage-objects to hidden layers, as a way of backing-up
-
-**Assignment:**
-
-Modeling: create and share your Chessboard
+Model a Gem using Demonstration 1 as a guide
+Model a Diamond using Demonstration 2 as a guide
+Model a Chessboard using Demonstration 3 as a guide
 Give Feedback
 
+---
+**Lesson 2:**
+Modeling from source images 1
+* Importing source images
+* Practice tracing and inferring geometry from source images
+
+**Assignments:**
+Model a Pawn using Demonstration 1 as a guide
+Model a Bishop using Demonstration 1 as a guide
+Model a Knight using Demonstration 1 as a guide 
+Give feedback
+
+---
 **Lesson 3: **
+Modeling from source images 2
+
+* Continued, importing source images
+* Continued practice tracing and inferring geometry from source images
+* Introduction to Booleans
+* Introduction to Nurbs
+
+**Assignments:**
+
+Model a Rook using Demonstration 1 as a guide
+Model a King using Demonstration 1 as a guide
+Model a Queen using Demonstration 1 as a guide 
+Give feedback
+
+---
+
+
+
+
+---
+
+
 
 Instantiating and manipulating a cylinder object (into a Pawn)
 Instantiating and manipulating a circle object (into a Bishop)
