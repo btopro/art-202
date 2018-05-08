@@ -197,152 +197,155 @@ Next I press, together, **"ctrl, alt or option" and "q-keys"** to enter **quad v
 **Ex: 43**
 Next I use the **border-select tool** by pressing the **"b-key"** and I attempt to make **clean edges** of **vertices**
 
-![](/assets/A_44.jpg)
+![the form becomes boxier](/assets/A_44.jpg)
 **Ex: 44**
 Eventually, the form becomes boxier, with a little work.
 
-![](/assets/A_45.jpg)
+![select an edge and press loop cut and slide](/assets/A_45.jpg)
 **Ex: 45**
 Here I **select an edge** and **press loop cut and slide**
 
-![](/assets/A_46.jpg)
+![Loop cut and slide is a versatile tool](/assets/A_46.jpg)
 **Ex: 46**
 **Loop cut and slide** is a versatile tool and can be used similarly to the **subdivision function / modifier** but allows for certain additional utilities.
 
-![](/assets/A_47.jpg)
+![select and evenly stagger points](/assets/A_47.jpg)
 **Ex: 47**
 Here I select and evenly stagger points
 
-![](/assets/A_48.jpg)
+![what it could look like with some scaling and subdivision](/assets/A_48.jpg)
 **Ex: 48**
 This is what it could look like with some **scaling** and **subdivision**
 
-![](/assets/A_49.jpg)
+![Once you increase the number of subdivisions](/assets/A_49.jpg)
 **Ex: 49**
 Once you **increase the number of subdivisions** you can see that the shape goes from colder and more mechanical / edgy into a more curvy, soft and organic form
 
-![](/assets/A_50.jpg)
+![remove to the subdivision modifier](/assets/A_50.jpg)
 **Ex: 50**
 However, that's getting ahead of ourselves- what we more concerned about is **proportionatal distribution of polygons**, at this stage, so let's **remove to the subdivision modifier**
 
-![](/assets/A_51.jpg)
+![its always good to save in incremental states](/assets/A_51.jpg)
 **Ex: 51**
 It's always good to save in **incremental states**- here I revert to an **earlier version** when we were working with this peanut looking thing.
 
 Typically it's good to save in naming formats such as test_1 or another, more descriptive, incremental manner. This way you can return to earlier work and resume from there, if necessary.
 
-![](/assets/A_52.jpg)
+![I select the whole thing using the a Key](/assets/A_52.jpg)
 **Ex: 52**
 I select the whole thing using the **"a-Key"**
 
-![](/assets/A_53.jpg)
+![pressing g for scale and then z to constrain deformation to one dimension](/assets/A_53.jpg)
 **Ex: 53**
  
 
 by pressing **"g"** for **scale** and then **"z"** to **constrain deformation to one dimension** I am able to flatten the peanut into a something a little more bread biscuit-like.
 
-![](/assets/A_54.jpg)
+![If you zoom out it almost looks like the beginning of the form for a seahorse](/assets/A_54.jpg)
 **Ex: 54**
 If you zoom out it almost looks like the beginning of the form for a seahorse
 
-![](/assets/A_55a.jpg)
+![Here we press g to scale and y to constrain deformation to the Y axis](/assets/A_55a.jpg)
 **Ex: 55a**
 Here we press **"g"** to **scale** and **"y"** to **constrain deformation to the Y axis**
 
-![](/assets/A_55b.jpg)
+![Here we use the same method but choose to compress it by giving negative values for Y](/assets/A_55b.jpg)
 **Ex: 55b**
 
 Here we use the same method but choose to **compress** it by giving **negative values** for **Y**
 
-![](/assets/A_56.jpg)
+![Here we press r to rotate the shape](/assets/A_56.jpg)
+**Ex: 56**
+
+
 
 Here we press **"r"** to **rotate** the shape and again we can constrain to dimension- **additionally, you can override the manually rotated measurement by typing in a specific value- this also work for scaling**
 
-![](/assets/A_57.jpg)
+![At this point we are just playing around with features](/assets/A_57.jpg)
 **Ex: 57**
 At this point we are just playing around with features- improvising- trying to treat this all like clay- so let's **rotate** this clump and **mirror** it
 
-![](/assets/A_58.jpg)
+![select mirror on the Y axis and smash them into each other](/assets/A_58.jpg)
 **Ex: 58**
 Also, like clay, let's **select mirror** on the **Y** axis and smash them into each other
 
-![](/assets/A_59.jpg)
+![At this point in time you can simply push and pull them apart and there is no deformation](/assets/A_59.jpg)
 **Ex: 59**
 At this point in time you can simply **push and pull **them apart and there is **no deformation**- because the **mirroring has not been applied.**
 
-![](/assets/A_60.jpg)
+![once clipping is applied vertices will terminate their location whenever they come upon the origin points of reflection](/assets/A_60.jpg)
 **Ex: 60**
 It's important to note, **once clipping is applied vertices will terminate their location whenever they come upon the origin points of reflection**
 
-![](/assets/A_61.jpg)
+![ I think this sort of looks like a cartoon cat](/assets/A_61.jpg)
 **Ex: 61**
 I don't know about you but I think this sort of looks like a cartoon cat, so let's go with it. It's important to get to a point where you can balance creativity and confidence / familiarity with tools. There is some front-loading and steps toward familiarizing yourself with this or any other 3D-Modeling software, but once it clicks, it fun and surprisingly intuitive.
 
-![](/assets/A_62.jpg)
+![ look at this in wireframe mode](/assets/A_62.jpg)
 **Ex: 62**
 If you look at this in **wireframe-mode** you will see that there's some unwanted geometry inside of the mesh
 
-![](/assets/A_63.jpg)
+![open up the hood by deleting a face and take a look inside](/assets/A_63.jpg)
 **Ex: 63**
 Let's open up the hood by deleting a face and take a look inside.
 
-![](/assets/A_64.jpg)
+![After selecting and deleting the vertices](/assets/A_64.jpg)
 **Ex: 64**
 After **selecting and deleting the vertices** I select the **exterior three vertices** and **press "F"** to make a **Triangular face where the gap was.**
 
-![](/assets/A_65.jpg)
+![see if we can expand on my cat theory](/assets/A_65.jpg)
 **Ex: 65**
 Let's see if we can expand on my cat theory
 
-![](/assets/A_66.jpg)
+![select this middle side of the face ](/assets/A_66.jpg)
 **Ex: 66**
 Now, let's **select this middle side of the face** and **enable the indicated proportional editing mode, using the default settings**
 
-![](/assets/A_67.jpg)
+![Now I leave proportional editing on](/assets/A_67.jpg)
 **Ex: 67**
 Now I leave **proportional editing** on and **deform the mesh** a bit
 
-![](/assets/A_68.jpg)
+![This is starting to look more cat like](/assets/A_68.jpg)
 **Ex: 68**
 This is starting to look more cat-like.
 
-![](/assets/A_69.jpg)
+![more cat like](/assets/A_69.jpg)
 **Ex: 69**
 A little more cat-like
 
-![](/assets/A_70.jpg)
+![now go to the select tab and select edge loops](/assets/A_70.jpg)
 **Ex: 70**
 I will now go to the **select tab** and **select edge loops.**
 
-![](/assets/A_71.jpg)
+![click on the red arrow and drag this portion of the mesh inwards](/assets/A_71.jpg)
 **Ex: 71**
 Now, I will **click on the red arrow** and **drag this portion of the mesh inwards**
 
-![](/assets/A_72.jpg)
+![rework the back of the object](/assets/A_72.jpg)
 **Ex: 72**
 I want to rework the **back of the object**, so I select **face** from **face mode and begin deleting**
 
-![](/assets/A_73.jpg)
+![reinsert an interior segment at the point of reflection and press w for a submenu](/assets/A_73.jpg)
 **Ex: 73**
 In order to keep all the faces at 4 sides I **reinsert an interior segment at the point of reflection** and **press "w" for a submenu- and select subdivide- now this face can be rebuilt with four points**
 
-![](/assets/A_74.jpg)
+![select the front most edge loop](/assets/A_74.jpg)
 **Ex: 74**
 Next, I select the front-most edge-loop and drag the red portion of the 3D cursor to extend the face outwards.
 
-![](/assets/A_75.jpg)
+![The ears will need some tweaking](/assets/A_75.jpg)
 **Ex: 75**
 The ears will need some tweaking.
 
-![](/assets/A_76.jpg)
+![audition this under the subdivision modifier](/assets/A_76.jpg)
 **Ex: 76**
 Let's **audition** this under the **subdivision modifier** to get a **clearer sense of where our geometry does and does not work.**
 
-![](/assets/A_77.jpg)
+![Those eyes are really not defined](/assets/A_77.jpg)
 **Ex: 77**
 Those eyes are really not defined- lets **delete the modifier** and continue
 
-![](/assets/A_78.jpg)
+![create additional edge loops](/assets/A_78.jpg)
 **Ex: 79**
 Here, I create **additional edge-loops** for **increased definition.**
 
@@ -350,15 +353,15 @@ Here, I create **additional edge-loops** for **increased definition.**
 **Ex: 80**
 Here, I **reenable proportional editing** and **pull from the mesh with the sphere setting** to create googly eyes.
 
-![](/assets/A_80.jpg)
+![push the faces in the opposite direction to create eye cavities](/assets/A_80.jpg)
 **Ex: 80**
 Here I decide to push the faces in the opposite direction to create eye cavities
 
-![](/assets/A_81.jpg)
+![After some cleaning up this is starting to look even more like a cat face](/assets/A_81.jpg)
 **Ex: 81**
 After some cleaning up this is starting to look even more like a cat face.
 
-![](/assets/A_82.jpg)
+![Here I auditioned the face in Quad-view mode](/assets/A_82.jpg)
 **Ex: 82**
 Here I auditioned the face in **Quad-view mode, under a subdivision modifier** to get a sense of where this could go if I were to have continued.
 
