@@ -83,9 +83,9 @@
 * [Lesson 11: The Big Pictures- part 2](lesson-11.md)
   * [Topics](lesson-11/topics.md)
   * [Take multi-perspective Images from the real world and model a complex object](lesson-11/assignment-1-realworld.md)
-  * [Give Feedback](lesson-11/assignment--feedback.md)
+  * [Give Feedback](lesson-11/assignment-2-feedback.md)
 ---
 * [Lesson 12: The Big Pictures- part 3](lesson-12.md)
   * [Complete the Real World object](lesson-12/assignment-1-object.md)
-  * [Place and render the Real World object in a compelling environment and render](lesson-12/assignment-1-final.md)
+  * [Place and render the Real World object in a compelling environment and render](lesson-12/assignment-2-final.md)
 
