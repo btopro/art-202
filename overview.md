@@ -20,8 +20,14 @@ Through the methods of unwrapping surfaces, creating custom textures (in Photosh
 
 Through the exploration of materials properties, we will apply physics-based technologies to our object’s meshes that will cover them with convincing surface qualities that can then be built upon, with great effect, through the application light. This is the stage where lead can be made into gold.
 
-**Lesson 10-11:** **_The Age of Enlightenment_**
+**Lesson 5:** **_The Age of Enlightenment_**
 Prepare to take your 3D models out of the 18th century and into a brilliant new world of computer-generated light and shadow. Put down your T-Square and stop squinting, because now is the 	part of the course where the power of the Sun become ours (well, they will want it back later). For the purpose of making Vitruvius jealous (if not anything else) we reach the culminating stage in the course. This is where computer-assisted optics are applied, demonstrating how easy it can be to interpret, essentialize and express material qualities that are ubiquitously discoverable throughout nature.
- 
-**Lesson 12: ****_The Big Pictures_**
+
+**Lessons 6-7:** **_Physically Based Rendering _**
+We explore various treatments of textures, materials and learn the underlying science of applying optics to create convincing illusions and new realities.
+
+**Lessons 8-9:** **_Creation_**
+With the magic of manipulating light and surfaces in-hand, we now venture further into particle systems and tightening our compositions, through added content and rendering refinement processes.
+
+**Lesson 10-12: ** **_The Big Pictures_**
 This is the final section of the course. We can look back at all that we have accomplished and document it. We will explore how different rendering methods can produce compelling images, for a myriad of different uses.
