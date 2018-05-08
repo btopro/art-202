@@ -66,8 +66,8 @@
 * [Lesson 6: Physically Based Rendering part One](lesson-06.md)
   * [Topics](lesson-06/topics.md)
   * [Assignment-01- Recreate Andrew Price's Physically Descriptive, PBR Node-System](lesson-06/assignment-1-node-system-construction.md)
-  * [Assignment-02- Apply the Physically Descriptive Node-System to an original object](lesson-06/assignment-1-node-applied.md)
-  * [Assignment-03- Give feedback](lesson-06/assignment-feedback.md)
+  * [Assignment-02- Apply the Physically Descriptive Node-System to an original object](lesson-06/assignment-2-node-applied.md)
+  * [Assignment-03- Give feedback](lesson-06/assignment-3-feedback.md)
 
 ---
 
