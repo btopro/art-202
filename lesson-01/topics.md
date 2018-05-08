@@ -1,34 +1,34 @@
 # Related Articles and Terms
 
-* Polygonal Modeling: "In 3D computer graphics, Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons" [From Wikipedia](https://en.wikipedia.org/wiki/Polygonal_modeling)
+* **Polygonal Modeling:** "In 3D computer graphics, Polygonal modeling is an approach for modeling objects by representing or approximating their surfaces using polygons" [From Wikipedia](https://en.wikipedia.org/wiki/Polygonal_modeling)
 
-* 3D Modeling: "In 3D computer graphics, 3D modeling (or three-dimensional modeling) is the process of developing a mathematical representation of any surface of an object (either inanimate or living) in three dimensions via specialized software." [From Wikipedia](https://en.wikipedia.org/wiki/3D_modeling)
+* **3D Modeling:** "In 3D computer graphics, 3D modeling (or three-dimensional modeling) is the process of developing a mathematical representation of any surface of an object (either inanimate or living) in three dimensions via specialized software." [From Wikipedia](https://en.wikipedia.org/wiki/3D_modeling)
   
-* Visual design elements and principles: Read this linked [article](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
+* **Visual design elements and principles:** Read this linked [article](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles)
 
-* Perspective: Read each of [these 6, linked definitions of perspective.](https://en.wikipedia.org/wiki/Perspective)
+* **Perspective:** Read each of [these 6, linked definitions of perspective.](https://en.wikipedia.org/wiki/Perspective)
 
-* Raytracing: Read, specifically, this linked [article](https://en.wikipedia.org/wiki/Ray_tracing), pertaining to Graphics.
+* **Raytracing:** Read, specifically, this linked [article](https://en.wikipedia.org/wiki/Ray_tracing), pertaining to Graphics.
 
-* Render engine: 
+* **Render engine:** 
  Read this article
  https://en.wikipedia.org/wiki/Rendering_(computer_graphics)
  
-* Material System: Read this [article](https://en.wikipedia.org/wiki/Materials_system)
+* **Material System:** Read this [article](https://en.wikipedia.org/wiki/Materials_system)
 
-* Polygon Mesh: Read this [article](https://en.wikipedia.org/wiki/Polygon_mesh)
+* **Polygon Mesh:** Read this [article](https://en.wikipedia.org/wiki/Polygon_mesh)
 
-* File backup: actively keep redundant backups of your work. Save often and iteratively, if necessary.
+* **File backup:** actively keep redundant backups of your work. Save often and iteratively, if necessary.
 
-* Saving iteratively: Save at different points using an incremental naming-scheme. If necessary, keep a log in a text file to keep track of major changes, in case you need to return to an earlier stage.
+* **Saving iteratively:** Save at different points using an incremental naming-scheme. If necessary, keep a log in a text file to keep track of major changes, in case you need to return to an earlier stage.
 
-* Set project: establish a directory structure of  folders that are associated with your work for the course. Keep things organized, both in terms of location and the times that the files are created.
-* Naming conventions: Use an incremental style of naming convention, for example "house-12-00-am-01-010-2018"
+* **Set project:** establish a directory structure of  folders that are associated with your work for the course. Keep things organized, both in terms of location and the times that the files are created.
+* **Naming conventions:** Use an incremental style of naming convention, for example "house-12-00-am-01-010-2018"
 
-* Edges: "In geometry, an edge is a particular type of line segment joining two vertices in a polygon, polyhedron, or higher-dimensional polytope.[1] In a polygon, an edge is a line segment on the boundary,[2] and is often called a side. In a polyhedron or more generally a polytope, an edge is a line segment where two faces meet.[3] A segment joining two vertices while passing through the interior or exterior is not an edge but instead is called a diagonal." 
+* **Edges:** "In geometry, an edge is a particular type of line segment joining two vertices in a polygon, polyhedron, or higher-dimensional polytope.[1] In a polygon, an edge is a line segment on the boundary,[2] and is often called a side. In a polyhedron or more generally a polytope, an edge is a line segment where two faces meet.[3] A segment joining two vertices while passing through the interior or exterior is not an edge but instead is called a diagonal." 
 -From Wikipedia: https://en.wikipedia.org/wiki/Edge_(geometry)
 
-* Points: Center of any angle or where two or more points meet.
+* **Points:** Center of any angle or where two or more points meet.
 
 
 
