@@ -1,1 +1,1 @@
-This is a continuation of our last lesson. We refine our work based on feedback from our peers
+This is a continuation of our last lesson. We **refine** our work based on **feedback** from our peers
