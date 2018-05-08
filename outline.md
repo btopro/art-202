@@ -22,10 +22,10 @@ Trimming lines
 
 **Assignments:**
 
-Model a Gem using Demonstration 1 as a guide
-Model a Diamond using Demonstration 2 as a guide
-Model a Chessboard using Demonstration 3 as a guide
-Give Feedback
+* Model a Gem using Demonstration 1 as a guide
+* Model a Diamond using Demonstration 2 as a guide
+* Model a Chessboard using Demonstration 3 as a guide
+* Give Feedback
 
 ---
 **Lesson 2:**
@@ -34,11 +34,10 @@ Modeling from source images 1
 * Practice tracing and inferring geometry from source images
 
 **Assignments:**
-Model a Pawn using Demonstration 1 as a guide
-Model a Bishop using Demonstration 1 as a guide
-Model a Knight using Demonstration 1 as a guide 
-Give feedback
-
+* Model a Pawn using Demonstration 1 as a guide
+* Model a Bishop using Demonstration 1 as a guide
+* Model a Knight using Demonstration 1 as a guide 
+* Give feedback
 ---
 **Lesson 3: **
 Modeling from source images 2
@@ -50,99 +49,62 @@ Modeling from source images 2
 
 **Assignments:**
 
-Model a Rook using Demonstration 1 as a guide
-Model a King using Demonstration 1 as a guide
-Model a Queen using Demonstration 1 as a guide 
-Give feedback
-
+* Model a Rook using Demonstration 1 as a guide
+* Model a King using Demonstration 1 as a guide
+* Model a Queen using Demonstration 1 as a guide 
+* Give feedback
 ---
-
-
-
-
----
-
-
-
-Instantiating and manipulating a cylinder object (into a Pawn)
-Instantiating and manipulating a circle object (into a Bishop)
+**Lesson 4: **
+Introduction to UV Mapping, Texture and Materials
+* Unwrapping geometry
+* Exporting unwrapped surfaces
+* Making a custom set using texture mapping / photoshop
+* UV mapping textures to your pieces / board
+Introduction to the node system
 
 **Assignment:**
 
-Modeling: create and share your Pawn
-Modeling: create and share your Bishop
-Give Feedback
-
-
-**Lesson 4:**
-Creating a Knight
-Working with a reference image
-Mirroring
-
-**Assignment:**
-
-Modeling: create and share your Knight
-Give Feedback
-
-
+* Make 3 Complete Chess Sets using UV mapping and material modifiers
+* Give feedback
+---
 **Lesson 5: **
 
-Creating a Rook
-Working with boolean operations
-Strategically resolving transitional faces between circle and square planes
+* Exploring Lighting and Rendering
 
 **Assignment:**
+* Share completed set for feedback
+* Submit a screen-grab of your light layout
+* Summarize the story behind your lighting strategy in 500 words, to demonstrating a commitment to problem-solving and development of a specific vision
 
-Modeling: create and share your Rook
-Give Feedback
-
-
+---
 ** Lesson 6: **
 
-Modeling Kings and Queens
-Working with boolean operations
-Advanced resolution of transitional faces between curved and square planes
+
 
 **Assignments:**
 
-Modeling: create and share your Queen
-Modeling: create and share your King
-Give Feedback
-
-
-**Lesson 7-8: **
-
-Unwrapping geometry
-Exporting unwrapped surfaces
-Making a custom set using texture mapping / photoshop
-UV mapping textures to your pieces / board
-Introduction to the node system
-
+---
+**Lesson 7: **
 
 **Assignment:**
 
-UV map textures to your complete set
-Give feedback
+---
+**Lesson 8: **
+
+**Assignment:**
+
+---
 
 
 **Lesson 9:**
-
-Applying materials to your Pieces / Board using Circles, PBR Maps and the node system
-
 **Assignments:**
 
-Make and share 3 complete custom sets using texture mapping and materials
-Give feedback
-
+---
 
 **Lesson 10:**
-
-Choose from and draft a custom set using texture mapping and materials with the PBR Mapping feature, based off of feedback from peers
-
 **Assignments:**
 
-Share completed set for feedback
-Give feedback
+---
 
 **Lesson 11:**
 
