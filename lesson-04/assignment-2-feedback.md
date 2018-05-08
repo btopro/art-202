@@ -1,4 +1,4 @@
-**Give feedback** on **Assignment 2 **to **two of your peers** and **submit the quotes and urls of your feedback to Canvas.**
+**Give feedback** on **Assignment 1 **to **two of your peers** and **submit the quotes and urls of your feedback to Canvas.**
 
 Make sure that your submission is **titled in the following format: **
 

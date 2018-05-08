@@ -41,7 +41,7 @@
   * [Demonstration-02- UV Map Your Chess Set](lesson-04/demonstration-02-uv-map-your-chess-set.md)
   * [Demonstration-03- Materials](lesson-04/demonstration-03-applying-materials-to-your-chess-set.md)
   * [Assignment-01-UV Make 3 Complete Chess Sets](lesson-04/assignment-01-make-and-share-3-complete-custom-sets-using-texture-mapping-and-materials.md)
-  * [Assignment-02-Give feedback](test)
+  * [Assignment-02-Give feedback](lesson-04/assignment-2-feedback.md)
 ---
 * [Lesson 5: The Age of Enlightenment](lesson-10.md)
   * [Topics](lesson-05/topics.md)
