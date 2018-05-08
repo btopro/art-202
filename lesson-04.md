@@ -1,1 +1,1 @@
-This lesson we become more familiar with Texture and Materials
+This lesson we become more familiar with **texture** and **materials**
