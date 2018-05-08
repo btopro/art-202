@@ -201,6 +201,7 @@ Much better
 
 ![](/assets/set_55.png)
 **Ex 54**
+For the remainder of the demonstration I implement the mode system to handle the materials and textures, together.
 
 ![](/assets/set_56.png)
 **Ex 55**
@@ -215,110 +216,109 @@ Much better
 **Ex 58**
 
 ![](/assets/set_60.png)
-**Ex 1**
+**Ex 60**
 
 ![](/assets/set_71.png)
-**Ex 1**
+**Ex 61**
 
 ![](/assets/set_72.png)
-**Ex 1**
+**Ex 62**
 
 ![](/assets/set_73.png)
-**Ex 1**
+**Ex 63**
 
 ![](/assets/set_74.png)
-**Ex 1**
+**Ex 64**
 
 ![](/assets/set_75.png)
-**Ex 1**
+**Ex 65**
 
 ![](/assets/set_76.png)
-**Ex 1**
+**Ex 66**
 
 ![](/assets/set_77.png)
-**Ex 1**
+**Ex 67**
 
 ![](/assets/set_78.png)
-**Ex 1**
+**Ex 68**
 
 ![](/assets/set_79.png)
-**Ex 1**
+**Ex 69**
 
 ![](/assets/set_80.png)
-**Ex 1**
+**Ex 70**
 
 ![](/assets/set_81.png)
-**Ex 1**
+**Ex 71**
 
 ![](/assets/set_82.png)
-**Ex 1**
+**Ex 72**
 
 ![](/assets/set_83.png)
-**Ex 1**
+**Ex 73**
 
 ![](/assets/set_84.png)
-**Ex 1**
+**Ex 74**
 
 ![](/assets/set_85.png)
-**Ex 1**
+**Ex 75**
 
 ![](/assets/set_86.png)
-**Ex 1**
+**Ex 76**
 
 ![](/assets/set_87.png)
-**Ex 1**
+**Ex 77**
 
 ![](/assets/set_88.png)
-**Ex 1**
+**Ex 78**
 
 ![](/assets/set_89.png)
-**Ex 1**
+**Ex 79**
 
 ![](/assets/set_90.png)
-**Ex 1**
+**Ex 80**
 
 ![](/assets/set_91.png)
-**Ex 1**
+**Ex 81**
 
 ![](/assets/set_92.png)
-**Ex 1**
+**Ex 82**
 
 ![](/assets/set_93.png)
-**Ex 1**
+**Ex 83**
 
 ![](/assets/set_94.png)
-**Ex 1**
+**Ex 84**
 
 ![](/assets/set_95.png)
-**Ex 1**
+**Ex 85**
 
 ![](/assets/set_96.png)
-**Ex 1**
+**Ex 86**
 
 ![](/assets/set_97.png)
-**Ex 1**
+**Ex 87**
 
 ![](/assets/set_98.png)
-**Ex 1**
+**Ex 88**
 
 ![](/assets/set_99.png)
-**Ex 1**
+**Ex 89**
 
 ![](/assets/set_100.png)
-**Ex 1**
+**Ex 90**
 
 ![](/assets/set_101.png)
-**Ex 1**
+**Ex 91**
 
 ![](/assets/set_102.png)
-**Ex 1**
+**Ex 92**
 
 ![](/assets/set_103.png)
-**Ex 1**
+**Ex 93**
 
 ![](/assets/set_104.png)
-**Ex 1**
+**Ex 94**
 
-![](/assets/set_105.png)
-**Ex 1**
+
 
