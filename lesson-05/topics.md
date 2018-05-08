@@ -1,4 +1,4 @@
-# Terms
+# Terms / Concepts
 * Key light: read [this article](https://en.wikipedia.org/wiki/Key_light)
 
 * Fill light: read [this article](https://en.wikipedia.org/wiki/Fill_light)
@@ -21,18 +21,30 @@
  * [Tutorial 1](https://www.youtube.com/watch?v=Y3s0mxOxPCM)
  * [Tutorial 2 and Link to Article](https://www.youtube.com/watch?v=osZ8kKTAgSE)
  * [See Color Management in Blender Manual](/Color Management)
+ 
+* RGBA color space: Read [this article](https://en.wikipedia.org/wiki/RGBA_color_space)
 
-* RGBA:
-* 16-32bit images:
-* HDR:
-* File formats:
-* Resolution:
-* Depth of field:
-* Aperture:
-* Lens:
-* Focal length:
-* Motion blur:
+* 16 vs 32bit images: Read [this article](http://www.differencebetween.info/difference-between-sixteen-bit-and-thirty-two-bit-color)
 
+* HDR (High-dynamic-range imaging): Read [this article](https://en.wikipedia.org/wiki/High-dynamic-range_imaging)
+
+* File formats: Read [this article](https://en.wikipedia.org/wiki/File_format)
+
+* Resolution: Watch this[ "Resolution Output Settings Video"](/Render Output Settings - Blender Fundamentals)
+
+* Depth of field: Watch ["Understanding depth of field: BLENDER 2.77 Tutorial"](https://www.youtube.com/watch?v=4YmnafD6uXQ)
+
+* Aperture: Read [this article](https://en.wikipedia.org/wiki/Aperture)
+
+* Lens: 
+Read the following article:
+https://en.wikipedia.org/wiki/Lens_(optics)
+
+* Focal length: Read [this article](https://en.wikipedia.org/wiki/Focal_length)
+
+* Motion blur: Read [this article](https://en.wikipedia.org/wiki/Motion_blur)
+
+# Tutorials
 ## Blender Guru
 * [Blender Beginner Tutorial - Part 8: Lighting](https://www.youtube.com/watch?v=0rbPwn-I0oM)
 * [Mastering Lighting in Blender](https://www.youtube.com/watch?v=m-N149FMlWk)
