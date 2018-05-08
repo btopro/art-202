@@ -1,6 +1,6 @@
 **Outline**
 
-**Week 1: **
+**Lesson 1: **
 
 Navigation of the basic blender interface
 Manipulate and customizing the blender environment (windows, selection options)
@@ -15,7 +15,7 @@ Familiarization and practice with Hotkeys and GUI features.
 Screen grabs: demonstrate familiarity by using multiple screens and editing modes
 Hotkeys: demonstrate the use of hotkeys by completing the following exercises
 .
-**Week 2:**
+**Lesson 2:**
 **Editing Modes**
 Your first modeling assignment: a checkered grid, for the intention of being paired with your future chess-piece-related objects
 Instantiating and manipulating a series of planes (into a checkerboard)
@@ -34,7 +34,7 @@ Moving duplicates of completed-stage-objects to hidden layers, as a way of backi
 Modeling: create and share your Chessboard
 Give Feedback
 
-**Week 3: **
+**Lesson 3: **
 
 Instantiating and manipulating a cylinder object (into a Pawn)
 Instantiating and manipulating a circle object (into a Bishop)
@@ -46,7 +46,7 @@ Modeling: create and share your Bishop
 Give Feedback
 
 
-**Week 4:**
+**Lesson 4:**
 Creating a Knight
 Working with a reference image
 Mirroring
@@ -57,7 +57,7 @@ Modeling: create and share your Knight
 Give Feedback
 
 
-**Week 5: **
+**Lesson 5: **
 
 Creating a Rook
 Working with boolean operations
@@ -69,7 +69,7 @@ Modeling: create and share your Rook
 Give Feedback
 
 
-** Week 6: **
+** Lesson 6: **
 
 Modeling Kings and Queens
 Working with boolean operations
@@ -82,7 +82,7 @@ Modeling: create and share your King
 Give Feedback
 
 
-**Week 7-8: **
+**Lesson 7-8: **
 
 Unwrapping geometry
 Exporting unwrapped surfaces
@@ -97,7 +97,7 @@ UV map textures to your complete set
 Give feedback
 
 
-**Week 9:**
+**Lesson 9:**
 
 Applying materials to your Pieces / Board using Circles, PBR Maps and the node system
 
@@ -107,7 +107,7 @@ Make and share 3 complete custom sets using texture mapping and materials
 Give feedback
 
 
-**Week 10:**
+**Lesson 10:**
 
 Choose from and draft a custom set using texture mapping and materials with the PBR Mapping feature, based off of feedback from peers
 
@@ -116,7 +116,7 @@ Choose from and draft a custom set using texture mapping and materials with the 
 Share completed set for feedback
 Give feedback
 
-**Week 11:**
+**Lesson 11:**
 
 Stage a scene and rig it with lights.
 Convey a story through and / or execute a presentation strategy through the arrangement of objects / lights.
@@ -125,7 +125,7 @@ Convey a story through and / or execute a presentation strategy through the arra
 Submit a screengrab of your light layout
 Summarize the story in 3-500 words, to demonstrating a commitment to problem-solving and development of a specific vision
 
-**Week 12:**
+**Lesson 12:**
 
 Explore render options / features
 Convey a story through and / or execute a presentation strategy, through a series of renders
