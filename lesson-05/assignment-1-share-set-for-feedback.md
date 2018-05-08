@@ -1,4 +1,4 @@
-For this assignment, **create three unique chess sets based on the steps in Lighting Demonstrations 1 and tutorials. Submit your model to _Canvas and Open Studio_** for review. Make sure that your assignment is titled in the following format:
+For this assignment, **create three unique chess sets based on the steps in Lighting Demonstrations 1 and tutorials. Submit your model to _Canvas ** for review. Make sure that your assignment is titled in the following format:
 
 **Last name, First name,** the word **"Lesson"** followed by the **Lesson number,** and the **word "Assignment"** followed by the **Assignment number.**
 
