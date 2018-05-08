@@ -1,0 +1,1 @@
+This is our final lesson. This is when we concentrate on completing **our real-world object** and its **environment**, with **compelling renders**
