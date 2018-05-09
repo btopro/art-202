@@ -30,74 +30,74 @@ Under the image tab I select save all images
 **Ex 8**
 Here I look around for the **export UV layout** option.
 
-![](/assets/set_9.png)
+![Turns out it's under UV's](/assets/set_9.png)
 **Ex 9**
 Turns out it's under UV's
 
-![](/assets/set_10.png)
+![I export the UV map with a somewhat descriptive name](/assets/set_10.png)
 **Ex 10**
 I export the UV map with a somewhat descriptive name
 
-![](/assets/set_11.png)
+![I proceed to open it up in photoshop](/assets/set_11.png)
 **Ex 11**
 I proceed to open it up in photoshop 
 
-![](/assets/set_12.png)
+![First I double-click the layer and press "ok" so that I can edit the layer](/assets/set_12.png)
 **Ex 12**
 First I **double-click the layer** and **press "ok" **so that I can edit the layer
 
-![](/assets/set_13.png)
+![Next I duplicate the layer using **command or ctrl + J**, with only the layer selected](/assets/set_13.png)
 **Ex 13** 
 Next I duplicate the layer using **command or ctrl + J**, with only the layer selected
 
-![](/assets/set_14.png)
+![Next, I select the bottom layer, select the whole image with ctrl or command + "a" and fill it with the foreground color, by pressing option or alt + delete](/assets/set_14.png)
 **Ex 14** 
 Next, I select the bottom layer, select the whole image with **ctrl or command + "a" **and fill it with the foreground color, by pressing **option or alt + delete**
 
-![](/assets/set_15.png)
+![Next, I fill it with the background color, by pressing ctrl or command + delete](/assets/set_15.png)
 **Ex 15**
 Next, I fill it with the background color, by pressing **ctrl or command + delete**
 
-![](/assets/set_16.png)
+![Next, I select Add Noise from the Filter Menu in the toolbar](/assets/set_16.png)
 **Ex 16**
 Next, I select **Add Noise** from the **Filter Menu** in the **toolbar**
 
-![](/assets/set_17.png)
+![I add the most that I can](/assets/set_17.png)
 **Ex 17**
 I add the most that I can
 
-![](/assets/set_18.png)
+![Then I manipulate the noise with a Gaussian Blur](/assets/set_18.png)
 **Ex 18**
 Then I manipulate the noise with a Gaussian Blur
 
-![](/assets/set_19.png)
+![Next I desaturate the texture using the Hue/Saturation tool (ctrl / command + U)](/assets/set_19.png)
 **Ex 19**
 Next I desaturate the texture using the Hue/Saturation tool **(ctrl / command + U)**
 
-![](/assets/set_20.png)
+![I then apply Auto contrast](/assets/set_20.png)
 **Ex 20**
 I then apply Auto contrast
 
 ![](/assets/set_21.png)
 **Ex 21**
 
-![](/assets/set_22.png)
+![I adjust the Hue](/assets/set_22.png)
 **Ex 22**
 I adjust the Hue
 
-![](/assets/set_23.png)
+![I bump the saturation back down, progressively attenuating a black and white texture](/assets/set_23.png)
 **Ex 23**
 I bump the saturation back down, progressively attenuating a black and white texture
 
-![](/assets/set_24.png)
+![I re-apply Auto Contrast](/assets/set_24.png)
 **Ex 24**
 I re-apply Auto Contrast
 
-![](/assets/set_25.png)
+![Auto Tone](/assets/set_25.png)
 **Ex 25**
 Auto Tone
 
-![](/assets/set_26.png)
+![And I am content with my synthetic, marble-like texture.](/assets/set_26.png)
 **Ex 26**
 And I am content with my synthetic, marble-like texture.
 
