@@ -22,6 +22,9 @@
  * [Blender Beginner Tutorial - Part 5: Modelling](https://www.youtube.com/watch?v=ZtSh4Yedafg)
  * [Blender Beginner Tutorial - Part 6: Texturing](https://www.youtube.com/watch?v=izqZe8s_Jmw)
 
+# Click this for [Practice with Nurbs / Bending objects to a Reference Curve](https://www.youtube.com/watch?v=O4qyUZBVEDw)
+
+
 ## Lynda
 
 **Blender: Essential Training**
