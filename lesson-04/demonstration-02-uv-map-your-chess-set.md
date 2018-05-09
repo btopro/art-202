@@ -1,32 +1,32 @@
-****![](/assets/set_1.png)
+****![First, I open up an existing file, with the same Knight that we created earlier.](/assets/set_1.png)
 **Ex 1**
 First, I open up an existing file, with the same Knight that we created earlier.
 
-![](/assets/set_2.png)
+![Next I open up a new window and specify the view-type as UV/Image editor](/assets/set_2.png)
 **Ex 2**
 Next I open up a new window and **specify the view-type as UV/Image editor**
 
-![](/assets/set_3.png)
+![Next I switch into Edit-Mode](/assets/set_3.png)
 **Ex 3**
 Next I switch into** Edit-Mode**
 
-![](/assets/set_4.png)
+![Next I press "u"and select Smart UV Project, deferring to an algorithm to decide how the mesh unwraps.](/assets/set_4.png)
 **Ex 4**
 Next I press **"u"** and select **Smart UV Project,** deferring to an algorithm to decide how the mesh unwraps.
 
-![](/assets/set_5.png)
+![I use the default settings](/assets/set_5.png)
 **Ex 5**
 I use the default settings
 
-![](/assets/set_6.png)
+![And I press "ok" to have them apply](/assets/set_6.png)
 **Ex 6**
 And I press **"ok"** to have them apply
 
-![](/assets/set_7.png)
+![Under the image tab I select save all images](/assets/set_7.png)
 **Ex 7**
 Under the image tab I select save all images
 
-![](/assets/set_8.png)
+![Here I look around for the export UV layout option.](/assets/set_8.png)
 **Ex 8**
 Here I look around for the **export UV layout** option.
 
