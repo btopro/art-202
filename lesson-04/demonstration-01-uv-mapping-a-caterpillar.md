@@ -202,46 +202,47 @@ Make the lower layer a solid color to improve visibility
 **Ex 49**
 Use the magic wand or other selection tools to select and modify your UV map
 
-![Continue to modify your map](/assets/I_51 copy.jpg)
+![Continue to modify your map](/assets/I_51copy.jpg)
 **Ex 50**
 Continue to modify your map
 
-![](/assets/I_52.jpg)
+![After choosing image as texture selecting your image and hitting apply in the modifier window you will be good to go](/assets/I_52.jpg)
 **Ex 51**
 After choosing image as texture selecting your image and hitting apply in the modifier window you will be good to go
 
-![](/assets/I_53a.jpg)
+![Tweak your textures](/assets/I_53a.jpg)
 **Ex 52**
+Tweak your textures
 
-![](/assets/I_54 just keep editing until you like it.jpg)
+![Just keep editing until you like it](/assets/I_54.jpg)
 **Ex 53**
 Just keep editing until you like it
 
-![](/assets/I_55.jpg)
+![Save the image](/assets/I_55.jpg)
 **Ex 54**
 Save the image
 
-![](/assets/I_56.jpg)
+![Open your new image within Blender](/assets/I_56.jpg)
 **Ex 55**
 Open your new image within Blender
 
-![](/assets/I_57.jpg)
+![Go to your materials tab on the left](/assets/I_57.jpg)
 **Ex 56**
 Go to your materials tab on the left
 
-![](/assets/I_58.jpg)
+![Create a new material with the plus sign and change the render mode to cycles](/assets/I_58.jpg)
 **Ex 57**
 Create a new material with the plus sign and change the render mode to cycles
 
-![](/assets/I_59.jpg)
+![Click on the drop down button to the right of color picker to open menu](/assets/I_59.jpg)
 **Ex 58**
 Click on the drop down button to the right of color picker to open menu
 
-![](/assets/I_60.jpg)
+![Go back and forth between Photoshop and Blender to create the ideal UV texture](/assets/I_60.jpg)
 **Ex 59**
 Go back and forth between Photoshop and Blender to create the ideal UV texture
 
-![](/assets/I_62.jpg)
+![Here is a final object bent use a reference curve](/assets/I_62.jpg)
 **Ex 60**
 Here is a final object bent use a reference curve. [Follow the instructions in the video after this link, for a demonstration of such related techniques](https://www.youtube.com/watch?v=O4qyUZBVEDw)
 
