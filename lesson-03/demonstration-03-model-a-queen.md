@@ -2,7 +2,9 @@
 
 ![Queen Sides](/assets/queen side.jpg)**Queen Sides**
 Use side for both sides
+
 ![Queen Top](/assets/queen top.jpg)**Queen Top**
+
 ![Queen Front and Back](/assets/queen front and back.jpg)**Queen Front and Back**
 Use front and back for both front and back
 

@@ -1,4 +1,4 @@
-or this assignment, **implement instructor and peer feedback and submit the file to Canvas and Open Studio** for further review. Make sure that your assignment is titled in the following format:
+For this assignment, **implement instructor and peer feedback and submit the file to Canvas and Open Studio** for further review. Make sure that your assignment is titled in the following format:
 
 **Last name, First name,** the word **"Lesson"** followed by the **Lesson number,** and the **word "Assignment"** followed by the **Assignment number.**
 

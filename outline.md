@@ -68,7 +68,7 @@ Introduction to the node system
 * Give feedback
 ---
 **Lesson 5: **
-* Exploring Lighting and Rendering
+* Exploring Lighting
 
 **Assignment:**
 * Share completed set for feedback

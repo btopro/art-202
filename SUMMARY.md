@@ -98,7 +98,6 @@
 
 
 * [Lesson 11: The Big Pictures, Part 2](lesson-11.md)
-  * [Topics](lesson-11/topics.md)
   * [Take multi-perspective Images from the real world and model a complex object](lesson-11/assignment-1-realworld.md)
   * [Give Feedback](lesson-11/assignment-2-feedback.md)
 
