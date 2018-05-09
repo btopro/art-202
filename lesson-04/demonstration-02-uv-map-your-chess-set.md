@@ -163,7 +163,7 @@ Voila
 **Ex 42**
 For the next few steps I adjust the Image Texture in Photoshop
 
-![I select the grey bars in-between the marble like texture and I make them smaller. In theory, these can sometimes just be deleted, thought it would be harder to have reference for the folds, later on, if necessary](/assets/set_44.png)
+![I select the grey bars in-between the marble like texture and I make them smaller.](/assets/set_44.png)
 **Ex 43**
 I select the grey bars in-between the marble like texture and I make them smaller. In theory, these can sometimes just be deleted, thought it would be harder to have reference for the folds, later on, if necessary
 
