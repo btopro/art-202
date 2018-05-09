@@ -9,122 +9,219 @@ For the purpose of developing our Chess Sets
 **Ex 1**
 Use Shift + F1 (you may need to also use a function key on laptops) to import objects from other files.
 
-![](/assets/materials_2.png)
-**Ex 2**
+![One by one the stack up](/assets/materials_4.png)
+**Ex 4** 
+One by one the stack up
 
-![](/assets/materials_3.png)
-**Ex 3**
-
-![](/assets/materials_4.png)
-**Ex 4**
-
-![](/assets/materials_5.png)
+![Each in their own layer](/assets/materials_5.png)
 **Ex 5**
+Each in their own layer
 
-![](/assets/materials_6.png)
+![Once they are imported the first thing I do is smart unwrap the board](/assets/materials_6.png)
 **Ex 6**
+Once they are imported, the first thing I do is smart unwrap the board
 
-![](/assets/materials_7.png)
-**Ex 7**
-
-![](/assets/materials_8.png)
+![Then I opend the UV map into photoshop](/assets/materials_8.png)
 **Ex 8**
+Then I import the UV map into photoshop
 
-![](/assets/materials_9.png)
-**Ex 9**
-
-![](/assets/materials_10.png)
-**Ex 10**
-
-![](/assets/materials_11.png)
-**Ex 11**
-
-![](/assets/materials_12.png)
-**Ex 12**
-
-![](/assets/materials_13.png)
-**Ex 13**
-
-![](/assets/materials_14.png)
-**Ex 14**
-
-![](/assets/materials_15.png)
+![Next I fill one of the wooden textures from the right hand side onto the image](/assets/materials_15.png)
 **Ex 15**
+Next I fill one of the wooden textures from the right hand side onto the image
 
-![](/assets/materials_16.png)
+![Next I fill in the squares with a somewhat transparent black](/assets/materials_16.png)
 **Ex 16**
+Next I fill in the squares with a somewhat transparent black
 
-![](/assets/materials_17.png)
+![By adjusting the opacity](/assets/materials_17.png)
 **Ex 17**
+By adjusting the opacity
 
-![](/assets/materials_18.png)
+![Until things look](/assets/materials_18.png)
 **Ex 18**
+Until things look right
 
-![](/assets/materials_19.png)
+![Just right](/assets/materials_19.png)
 **Ex 19**
+Just right
 
-![](/assets/materials_20.png)
+![Next I merge the layers](/assets/materials_20.png)
 **Ex 20**
+Next I merge the layers
 
-![](/assets/materials_21.png)
+![Then I begin using contrast](/assets/materials_21.png)
 **Ex 21**
+Then I begin using contrast
 
-![](/assets/materials_22.png)
+![And color techniques to make the wooden texture pop](/assets/materials_22.png)
 **Ex 22**
+And color techniques to make the wooden texture pop
 
-![](/assets/materials_23.png)
+![Then I save](/assets/materials_23.png)
 **Ex 23**
+Then I save
 
-![](/assets/materials_24.png)
+![Return to Blender](/assets/materials_24.png)
 **Ex 24**
+Return to Blender
 
-![](/assets/materials_25.png)
+![Enable material viewport settings](/assets/materials_25.png)
 **Ex 25**
+Enable material viewport settings
 
-![](/assets/materials_26.png)
+![Individually select objects](/assets/materials_26.png)
 **Ex 26**
+Individually select objects
 
-![](/assets/materials_27.png)
+![Apply the new texture](/assets/materials_27.png)
 **Ex 27**
+Apply the new texture to them
 
-![](/assets/materials_28.png)
-**Ex 28**
-
-![](/assets/materials_29.png)
-**Ex 29**
-
-![](/assets/materials_30.png)
-**Ex 30**
-
-![](/assets/materials_31.png)
-**Ex 31**
-
-![](/assets/materials_32.png)
-**Ex 32**
-
-![](/assets/materials_33.png)
-**Ex 33**
-
-![](/assets/materials_34.png)
-**Ex 34**
-
-![](/assets/materials_35.png)
-**Ex 35**
-
-![](/assets/materials_36.png)
-**Ex 36**
-
-![](/assets/materials_37.png)
-**Ex 37**
-
-![](/assets/materials_38.png)
-**Ex 38**
-
-![](/assets/materials_39.png)
-**Ex 39**
-
-![](/assets/materials_40.png)
+![Finally, once the texture has been applied things start to show some more promise](/assets/materials_40.png)
 **Ex 40**
+Finally, once the texture has been applied things start to show some more promise
+
+![Next I reposition the light](/assets/materials_41.png)
+**Ex 41**
+Next I reposition the light
+
+![And things start to look better and better](/assets/materials_42.png)
+**Ex 42**
+And things start to look better and better
+
+![](/assets/materials_43.png)
+**Ex 43**
+
+![Cool](/assets/materials_45.png)
+**Ex 45**
+Cool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
