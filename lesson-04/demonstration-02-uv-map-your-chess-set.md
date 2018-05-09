@@ -167,35 +167,32 @@ For the next few steps I adjust the Image Texture in Photoshop
 **Ex 43**
 I select the grey bars in-between the marble like texture and I make them smaller. In theory, these can sometimes just be deleted, thought it would be harder to have reference for the folds, later on, if necessary
 
-![](/assets/set_45.png)
+![Here I duplicate the layer by pressing ctrl or command and J](/assets/set_45.png)
 **Ex 44**
+Here I duplicate the layer by pressing ctrl or command and "J"
 
-![](/assets/set_46.png)
+![Next I select and merge the top two duplicate layers to make one that has stronger lines](/assets/set_46.png)
 **Ex 45**
 
-![](/assets/set_47.png)
+Next I select and merge the top two duplicate layers to make one that has stronger lines
+
+![Next, I first select the spaces in between the regions attributed to texture masking, because there are fewer things to select](/assets/set_47.png)
 **Ex 46**
+Next, I first select the spaces in between the regions attributed to texture masking, because there are fewer things to select. I then press ctrl or command + "i" to select the inverse.
 
-![](/assets/set_48.png)
+![here I select a region of the texture that completely fills the texture mask region](/assets/set_48.png)
 **Ex 47**
+With this region selected, I now go the noisy / marble-like area. From here I select a region of the texture that completely fills the texture mask region, free of lines.
 
-![](/assets/set_49.png)
-**Ex 48**
-
-![](/assets/set_50.png)
-**Ex 49**
-
-![](/assets/set_51.png)
-**Ex 50**
-
-![](/assets/set_52.png)
+![Once I copy them I paste them in a new layer, hide all the other layers and save the file](/assets/set_52.png)
 **Ex 51**
+Once I copy them I paste them in a new layer, hide all the other layers and save the file.
 
-![](/assets/set_53.png)
+![I import the new texture](/assets/set_53.png)
 **Ex 52**
 I import the new texture
 
-![](/assets/set_54.png)
+![Much better](/assets/set_54.png)
 **Ex 53**
 Much better
 
@@ -203,122 +200,50 @@ Much better
 **Ex 54**
 For the remainder of the demonstration I implement the mode system to handle the materials and textures, together.
 
-![](/assets/set_56.png)
+![I sub out the old selections to use the new map](/assets/set_56.png)
 **Ex 55**
+First, I sub out the old selections to use the new map
 
-![](/assets/set_57.png)
+![Next, I being setting up a node system](/assets/set_57.png)
 **Ex 56**
+Next, I being setting up a node system.
 
-![](/assets/set_58.png)
+![I change the right viewport to show the node system and begin manipulating the materials](/assets/set_58.png)
 **Ex 57**
+I change the right viewport to show the node system and begin manipulating the materials
 
-![](/assets/set_59.png)
-**Ex 58**
+![Using the add button it's easy to find to nodes](/assets/set_74.png)
+**Ex 64** Using the add button it's easy to find to nodes
 
-![](/assets/set_60.png)
-**Ex 60**
 
-![](/assets/set_71.png)
-**Ex 61**
-
-![](/assets/set_72.png)
-**Ex 62**
-
-![](/assets/set_73.png)
-**Ex 63**
-
-![](/assets/set_74.png)
-**Ex 64**
-
-![](/assets/set_75.png)
-**Ex 65**
-
-![](/assets/set_76.png)
-**Ex 66**
-
-![](/assets/set_77.png)
-**Ex 67**
-
-![](/assets/set_78.png)
-**Ex 68**
-
-![](/assets/set_79.png)
+![Change your render mode to cycles render](/assets/set_79.png)
 **Ex 69**
+Change your render mode to cycles render
 
-![](/assets/set_80.png)
-**Ex 70**
-
-![](/assets/set_81.png)
-**Ex 71**
-
-![](/assets/set_82.png)
-**Ex 72**
-
-![](/assets/set_83.png)
+![Here I manipulate an instance of the Principled BDSF node](/assets/set_83.png)
 **Ex 73**
+Here I manipulate an instance of the Principled BDSF node
 
-![](/assets/set_84.png)
+![View in Render Mode to see the effects of your materials, texture and lighting, working together as a single system](/assets/set_84.png)
 **Ex 74**
+View in Render Mode to see the effects of your materials, texture and lighting, working together as a single system. 
 
-![](/assets/set_85.png)
+![Here I continue to manipulate an instance of the Principled BDSF node](/assets/set_85.png)
 **Ex 75**
+Here I continue to manipulate an instance of the Principled BDSF node.
 
-![](/assets/set_86.png)
+![once I add the texture back in, you can see the impact of the light on it](/assets/set_86.png)
 **Ex 76**
+Now, once I add the texture back in, you can see the impact of the light on it
 
-![](/assets/set_87.png)
-**Ex 77**
-
-![](/assets/set_88.png)
-**Ex 78**
-
-![](/assets/set_89.png)
-**Ex 79**
-
-![](/assets/set_90.png)
-**Ex 80**
-
-![](/assets/set_91.png)
+![Moving the light object will changes things up a bit](/assets/set_91.png)
 **Ex 81**
+Moving the light object will changes things up a bit
 
-![](/assets/set_92.png)
-**Ex 82**
 
-![](/assets/set_93.png)
-**Ex 83**
-
-![](/assets/set_94.png)
-**Ex 84**
-
-![](/assets/set_95.png)
-**Ex 85**
-
-![](/assets/set_96.png)
-**Ex 86**
-
-![](/assets/set_97.png)
-**Ex 87**
-
-![](/assets/set_98.png)
-**Ex 88**
-
-![](/assets/set_99.png)
-**Ex 89**
-
-![](/assets/set_100.png)
-**Ex 90**
-
-![](/assets/set_101.png)
-**Ex 91**
-
-![](/assets/set_102.png)
-**Ex 92**
-
-![](/assets/set_103.png)
-**Ex 93**
-
-![](/assets/set_104.png)
+![With different combinations of the right nodes you can  get radically varying results](/assets/set_104.png)
 **Ex 94**
 
+With different combinations of the right nodes you can  get radically varying results.
 
 
