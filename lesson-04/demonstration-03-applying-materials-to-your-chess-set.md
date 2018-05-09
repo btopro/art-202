@@ -5,7 +5,7 @@
 
 For the purpose of developing our Chess Sets
 
-![](/assets/materials_1.png)
+![Use Shift + F1 (you may need to also use a function key on laptops) to import objects from other files.](/assets/materials_1.png)
 **Ex 1**
 Use Shift + F1 (you may need to also use a function key on laptops) to import objects from other files.
 
