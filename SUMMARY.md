@@ -91,7 +91,6 @@
 
 * [Lesson 10: The Big Pictures, Part 1](lesson-10.md)
   * [Topics](lesson-10/topics.md)
-  * [Demonstration-01- Rendering](lesson-10/demonstration-01-Rendering.md)
   * [Assignment-01- Submit 5 compelling renders](lesson-10/Submit-5-compelling-render.md)
   * [Assignment-02- Summarize the 5 renders in 500+ words, demonstrating a commitment to problem-solving and development of a specific vision](lesson-10/Summarize-5-renders.md)
 
