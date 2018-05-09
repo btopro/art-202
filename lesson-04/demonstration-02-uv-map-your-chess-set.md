@@ -104,66 +104,66 @@ And I am content with my synthetic, marble-like texture.
 ![](/assets/set_27.png)
 **Ex 27**
 
-![](/assets/set_28.png)
+![So, I save it with a somewhat descriptive name](/assets/set_28.png)
 **Ex 28**
 So, I save it with a somewhat descriptive name
 
-![](/assets/set_29.png)
+![And I open it up in Blender](/assets/set_29.png)
 **Ex 29**
 And I open it up in Blender
 
-![](/assets/set_30.png)
+![Here you can see that the image has been updated within the UV/Image Editor Window.](/assets/set_30.png)
 **Ex 30**
 Here you can see that the image has been updated within the UV/Image Editor Window.
 
-![](/assets/set_31.png)
+![Select Cycle Render as the Render Engine](/assets/set_31.png)
 **Ex 31**
 Select Cycle Render as the Render Engine
 
-![](/assets/set_32.png)
+![This will adjust the viewable options in the Materials Modifier-Window](/assets/set_32.png)
 **Ex 32**
 This will adjust the viewable options in the Materials Modifier-Window
 
-![](/assets/set_33.png)
+![I click the "+" sign in the window to create a new material](/assets/set_33.png)
 **Ex 33**
-I click the "+"sign in the window to create a new material
+I click the "+" sign in the window to create a new material
 
-![](/assets/set_34.png)
+![Notice there is a grey square with a circle on it, to the right of where it says color and shows a light grey color. Click on that.](/assets/set_34.png)
 **Ex 34**
 Notice there is a grey square with a circle on it, to the right of where it says color and shows a light grey color. Click on that.
 
-![](/assets/set_36.png)
+![Next click Image Texture](/assets/set_36.png)
 **Ex 35**
 Next click Image Texture
 
-![](/assets/set_37.png)
+![Press the button in the middle of the window labeled "Assign"](/assets/set_37.png)
 **Ex 36**
 Press the button in the middle of the window labeled "Assign"
 
-![](/assets/set_38.png)
+![Under the collapsed section for Surface, click on "open" to choose an image](/assets/set_38.png)
 **Ex 37**
 Under the collapsed section for Surface, click on "open" to choose an image
 
-![](/assets/set_39.png)
+![Choose the most recent image that we made](/assets/set_39.png)
 **Ex 38**
 Choose the most recent image that we made
 
-![](/assets/set_40.png)
+![Now, change the viewport shading in the viewport to texture.](/assets/set_40.png)
 **Ex 39**
 Now, change the viewport shading in the viewport to texture.
 
-![](/assets/set_41.png)
+![Voila](/assets/set_41.png)
 **Ex 40**
 Voila
 
 ![](/assets/set_42.png)
 **Ex 41**
 
-![](/assets/set_43.png)
+![For the next few steps I adjust the Image Texture in Photoshop](/assets/set_43.png)
 **Ex 42**
 For the next few steps I adjust the Image Texture in Photoshop
 
-![](/assets/set_44.png)
+![I select the grey bars in-between the marble like texture and I make them smaller. In theory, these can sometimes just be deleted, thought it would be harder to have reference for the folds, later on, if necessary](/assets/set_44.png)
 **Ex 43**
 I select the grey bars in-between the marble like texture and I make them smaller. In theory, these can sometimes just be deleted, thought it would be harder to have reference for the folds, later on, if necessary
 
@@ -199,7 +199,7 @@ I import the new texture
 **Ex 53**
 Much better
 
-![](/assets/set_55.png)
+![For the remainder of the demonstration I implement the mode system to handle the materials and textures, together.](/assets/set_55.png)
 **Ex 54**
 For the remainder of the demonstration I implement the mode system to handle the materials and textures, together.
 
