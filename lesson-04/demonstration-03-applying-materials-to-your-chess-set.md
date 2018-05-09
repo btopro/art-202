@@ -77,20 +77,18 @@ Individually select objects
 **Ex 27**
 Apply the new texture to them
 
-![Finally, once the texture has been applied things start to show some more promise](/assets/materials_40.png)
-**Ex 40**
+
+![once the texture has been applied things start to show some more promise](/assets/materials_41.png)
+**Ex 41**
 Finally, once the texture has been applied things start to show some more promise
 
-![Next I reposition the light](/assets/materials_41.png)
-**Ex 41**
+![Next I reposition the light](/assets/materials_42.png)
+**Ex 42**
 Next I reposition the light
 
-![And things start to look better and better](/assets/materials_42.png)
-**Ex 42**
-And things start to look better and better
-
-![](/assets/materials_43.png)
+![And things start to look better and better](/assets/materials_43.png)
 **Ex 43**
+And things start to look better and better
 
 ![Cool](/assets/materials_45.png)
 **Ex 45**
